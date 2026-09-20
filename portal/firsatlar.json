@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1789946906131",
+    "baslik": "ASUS ROG Strix XG27WCMS 27 İnç 1440p 280Hz Kavisli Gaming Monitör",
+    "kategori": "monitor",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 18227,
+    "yeniFiyat": 17390,
+    "indirimOrani": 5,
+    "netKazanc": 837,
+    "resim": "https://m.media-amazon.com/images/I/61HQq1U0hZL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B09T92BNWF?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1789946906131
+  },
+  {
     "id": "f-1789946736214",
     "baslik": "MSI 24.5\" PRO MP251W E2, Kurumsal Monitör, FHD, 16:9 Flat, IPS, 120HZ 1ms Adaptive-Sync Beyaz",
     "kategori": "monitor",
@@ -403,20 +418,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1789860624939
-  },
-  {
-    "id": "f-1789860444202",
-    "baslik": "JBL Quantum 360,Gaming Kulaklık,Siyah",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 2664,
-    "yeniFiyat": 2533,
-    "indirimOrani": 5,
-    "netKazanc": 131,
-    "resim": "https://m.media-amazon.com/images/I/619S-amD2VL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0D8QJRBV3?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1789860444203
   }
 ]
