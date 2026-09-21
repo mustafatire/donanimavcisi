@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1789961845524",
+    "baslik": "GamePower Kai Titanium Ultra Wireless 7.1 Surround Hi-Fi Rainbow Gaming (Oyuncu) Kulaklık",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 2989,
+    "yeniFiyat": 2349,
+    "indirimOrani": 21,
+    "netKazanc": 640,
+    "resim": "https://m.media-amazon.com/images/I/514ZxhLUPhL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0FNWFLZVC?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1789961845525
+  },
+  {
     "id": "f-1789956625867",
     "baslik": "WD_BLACK SN850X NVMe SSD 4 TB dahili SSD (oyun depolama, PCIe Gen4 teknolojisi, 7.300 MB/s okuma, 6.600 MB/s yazma), siyah",
     "kategori": "ssd-ram",
@@ -343,35 +358,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1789878444535
-  },
-  {
-    "id": "f-1789873045340",
-    "baslik": "Aula S608 Rainbow 3.5mm + USB-A Gaming Oyuncu Kulaklığı",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 531,
-    "yeniFiyat": 504,
-    "indirimOrani": 5,
-    "netKazanc": 27,
-    "resim": "https://m.media-amazon.com/images/I/61BcrcOK6gL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0828NG4LD?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1789873045341
-  },
-  {
-    "id": "f-1789870525019",
-    "baslik": "MSI 34\" MPG 346CQRF X24, Gaming Monitör, UWQHD, 21:9 Curve 1500R, Rapid VA, 240Hz, 0.5ms (Min.), Adaptive-Sync",
-    "kategori": "monitor",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 20490,
-    "yeniFiyat": 19760,
-    "indirimOrani": 4,
-    "netKazanc": 730,
-    "resim": "https://m.media-amazon.com/images/I/712UG193E9L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B096Z7QJLF?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1789870525020
   }
 ]
