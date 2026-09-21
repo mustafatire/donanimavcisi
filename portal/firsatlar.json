@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1789956625867",
+    "baslik": "WD_BLACK SN850X NVMe SSD 4 TB dahili SSD (oyun depolama, PCIe Gen4 teknolojisi, 7.300 MB/s okuma, 6.600 MB/s yazma), siyah",
+    "kategori": "ssd-ram",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 59999,
+    "yeniFiyat": 49990,
+    "indirimOrani": 17,
+    "netKazanc": 10009,
+    "resim": "https://m.media-amazon.com/images/I/61jQCrK6mFL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0B7CQ2CHH?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1789956625867
+  },
+  {
     "id": "f-1789950864785",
     "baslik": "GIGABYTE VGA NVIDIA 16GB GDDR7 RTX5080 AERO OC SFF GV-N5080AERO OC-16GD",
     "kategori": "ekran-karti",
@@ -358,65 +373,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1789870525020
-  },
-  {
-    "id": "f-1789868364526",
-    "baslik": "Asus Prime AP201 Temperli Cam Micro ATX Beyaz Bilgisayar Kasası",
-    "kategori": "kasa-psu",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 4533,
-    "yeniFiyat": 4099,
-    "indirimOrani": 10,
-    "netKazanc": 434,
-    "resim": "https://m.media-amazon.com/images/I/81KqOA-2ymL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0BVKZ8MPQ?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1789868364527
-  },
-  {
-    "id": "f-1789865664498",
-    "baslik": "Axle GT730 2GB DDR3 128Bit AX-GT730/2GD3P8CDIL Ekran Kartı",
-    "kategori": "ekran-karti",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 2909,
-    "yeniFiyat": 2662,
-    "indirimOrani": 8,
-    "netKazanc": 247,
-    "resim": "https://m.media-amazon.com/images/I/71thNTMTe-L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0CY5BQH8X?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1789865664498
-  },
-  {
-    "id": "f-1789864594613",
-    "baslik": "Samsung 990 Pro Soğutuculu NVMe M.2 SSD 2 TB",
-    "kategori": "ssd-ram",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 28398,
-    "yeniFiyat": 27344,
-    "indirimOrani": 4,
-    "netKazanc": 1054,
-    "resim": "https://m.media-amazon.com/images/I/71ir8BlO9vL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0BM459NHM?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1789864594613
-  },
-  {
-    "id": "f-1789864584616",
-    "baslik": "Samsung 990 Series 1 TB NVME SSD",
-    "kategori": "ssd-ram",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 16396,
-    "yeniFiyat": 12999,
-    "indirimOrani": 21,
-    "netKazanc": 3397,
-    "resim": "https://m.media-amazon.com/images/I/61aKXOa3UoL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0H3C6XHGK?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1789864584616
   }
 ]
