@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790004146227",
+    "baslik": "XPG Pylon II 750W 80+ Bronze Power Supply (PYLONII750B-BKCEU)",
+    "kategori": "kasa-psu",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 4708,
+    "yeniFiyat": 3849,
+    "indirimOrani": 18,
+    "netKazanc": 859,
+    "resim": "https://m.media-amazon.com/images/I/81j011moQNL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0FY5X8B3V?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790004146227
+  },
+  {
     "id": "f-1790000726069",
     "baslik": "ASUS PRIME GeForce RTX 5070 Ti 16GB GDDR7 OC Edition Gaming Ekran Kartı",
     "kategori": "ekran-karti",
@@ -808,20 +823,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1789927765455
-  },
-  {
-    "id": "f-1789915345673",
-    "baslik": "SanDisk Extreme PRO 4TB Taşınabilir SSD - 2000MB / s'ye kadar Okuma/Yazma Hızları, USB 3.2 Gen2 x2, Dövme Alüminyum Muhafaza, 2 metrelik düşme koruması ve IP55 direnci",
-    "kategori": "ssd-ram",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 44999,
-    "yeniFiyat": 34999,
-    "indirimOrani": 22,
-    "netKazanc": 10000,
-    "resim": "https://m.media-amazon.com/images/I/71z2lEHwfNL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B08RX3343D?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1789915345674
   }
 ]
