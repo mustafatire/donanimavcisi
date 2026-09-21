@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1789971566531",
+    "baslik": "LG UltraGear 27G523B-B 27 inc 200Hz 1ms HDMI DP AdaptiveSync HDR10 FHD IPS Gaming Monitör",
+    "kategori": "monitor",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 5999,
+    "yeniFiyat": 5499,
+    "indirimOrani": 8,
+    "netKazanc": 500,
+    "resim": "https://m.media-amazon.com/images/I/61E5uCl0jWL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0H6MWYHTB?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1789971566532
+  },
+  {
     "id": "f-1789970665782",
     "baslik": "Cooler Master MasterLiquid 360 L Core ARGB su soğutucu, iki bölmeli Gen S pompalı CPU sıvı soğutucu, 120 mm ARGB fanlı, LGA 1700 ve AM5 tutucular ile üstün bilgisayar soğutması, beyaz",
     "kategori": "anakart",
@@ -313,20 +328,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1789894466536
-  },
-  {
-    "id": "f-1789884565162",
-    "baslik": "MSI FORGE GM300 Siyah Kablolu Gaming (Oyuncu) Mouse",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 605,
-    "yeniFiyat": 566,
-    "indirimOrani": 6,
-    "netKazanc": 39,
-    "resim": "https://m.media-amazon.com/images/I/61Dqmj0dMwL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0D3QLNYQ6?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1789884565163
   }
 ]
