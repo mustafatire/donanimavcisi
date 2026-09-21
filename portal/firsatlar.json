@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1789948885640",
+    "baslik": "ASUS ROG Harpe Ace Mini Kablosuz Siyah Gaming (Oyuncu) Mouse",
+    "kategori": "cevre-birimleri",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 3807,
+    "yeniFiyat": 3319,
+    "indirimOrani": 13,
+    "netKazanc": 488,
+    "resim": "https://m.media-amazon.com/images/I/61qveWlr9+L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B08HLJJ1RQ?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1789948885640
+  },
+  {
     "id": "f-1789947625593",
     "baslik": "Claw's Rapidfire Red Switch Mekanik & Rainbow Rgb Aydınlatma Anti-Ghosting Çift Enjeksiyon 105 Tuşlu Full Form Mekanik Klavye - Siyah",
     "kategori": "cevre-birimleri",
@@ -373,35 +388,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1789864584616
-  },
-  {
-    "id": "f-1789861704329",
-    "baslik": "GIGABYTE VGA NVIDIA 16GB GDDR7 RTX5060TI EAGLE OC ICE GV-N506TEAGLEOC ICE-16GD",
-    "kategori": "ekran-karti",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 46258,
-    "yeniFiyat": 34839,
-    "indirimOrani": 25,
-    "netKazanc": 11419,
-    "resim": "https://m.media-amazon.com/images/I/71mdlnHYujL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0F4NFDQ3B?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1789861704329
-  },
-  {
-    "id": "f-1789861524393",
-    "baslik": "ASUS PRIME GeForce RTX 5060 Ti 16GB GDDR7 OC Edition Gaming Ekran Kartı",
-    "kategori": "ekran-karti",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 48370,
-    "yeniFiyat": 34246,
-    "indirimOrani": 29,
-    "netKazanc": 14124,
-    "resim": "https://m.media-amazon.com/images/I/81DUf-juX8L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0F4DQYLP5?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1789861524393
   }
 ]
