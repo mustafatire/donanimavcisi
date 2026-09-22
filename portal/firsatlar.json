@@ -1,5 +1,35 @@
 [
   {
+    "id": "f-1790109788734",
+    "baslik": "MSI B650M Project Zero AM5 Soket DDR5 7600(OC) MHz mATX Anakart",
+    "kategori": "anakart",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 10800,
+    "yeniFiyat": 8887,
+    "indirimOrani": 18,
+    "netKazanc": 1913,
+    "resim": "https://m.media-amazon.com/images/I/81yDRYDuDNL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0CJYBXKJ8?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790109788734
+  },
+  {
+    "id": "f-1790109607495",
+    "baslik": "ASRock B850M Pro-A mATX Anakart, AMD AM5 Ryzen 9000 & 8000, DDR5, 3x M.2 SSD, 4k 120Hz, AMD Expo",
+    "kategori": "anakart",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 9984,
+    "yeniFiyat": 9123,
+    "indirimOrani": 9,
+    "netKazanc": 861,
+    "resim": "https://m.media-amazon.com/images/I/71Y2Wie5r9L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0DS6LMZ84?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790109607495
+  },
+  {
     "id": "f-1790109426809",
     "baslik": "Intel Core i7-14700 20C 2.1GHz 33MB 1700P Kutusuz Fansız İşlemci",
     "kategori": "anakart",
