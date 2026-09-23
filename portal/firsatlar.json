@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790127607767",
+    "baslik": "Asus ROG Strix LC III 360 ARGB LCD Beyaz 360mm İşlemci Sıvı Soğutucu (90RC00W2-M0UAY0)",
+    "kategori": "kasa-psu",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 8389,
+    "yeniFiyat": 8037,
+    "indirimOrani": 4,
+    "netKazanc": 352,
+    "resim": "https://m.media-amazon.com/images/I/71Wx35FLb7L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B09T9BDWPW?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790127607768
+  },
+  {
     "id": "f-1790126527430",
     "baslik": "ASUS PROART PA401 WOOD TG PWM Siyah Bilgisayar Kasası",
     "kategori": "kasa-psu",
@@ -868,21 +883,6 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790102587773
-  },
-  {
-    "id": "f-1790102416845",
-    "baslik": "Asus ROG Strix LC III 360 ARGB LCD Beyaz 360mm İşlemci Sıvı Soğutucu (90RC00W2-M0UAY0)",
-    "kategori": "kasa-psu",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 9139,
-    "yeniFiyat": 8389,
-    "indirimOrani": 8,
-    "netKazanc": 750,
-    "resim": "https://m.media-amazon.com/images/I/71Wx35FLb7L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B09T9BDWPW?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790102416845
   },
   {
     "id": "f-1790102406848",
