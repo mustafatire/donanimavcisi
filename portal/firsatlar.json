@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790171347082",
+    "baslik": "AMD Ryzen 7 7700X 4.5 GHZ Soket AM5 40MB Cache 105W İşlemci Fansız Tray İşlemci",
+    "kategori": "anakart",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 11238,
+    "yeniFiyat": 10799,
+    "indirimOrani": 4,
+    "netKazanc": 439,
+    "resim": "https://m.media-amazon.com/images/I/71bKSIZ6LgL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0CLP553JW?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790171347082
+  },
+  {
     "id": "f-1790170627738",
     "baslik": "MSI VGA GeForce GT 1030 AERO ITX 2GD4 OC GT1030 2GB DDR4 64b DX12 PCIE 3.0 x16 (1xHDMI 1xDVI)",
     "kategori": "ssd-ram",
