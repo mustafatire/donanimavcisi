@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790180718524",
+    "baslik": "Logitech G G102 Kablolu Oyuncu Mouse, LIGHTSYNC RGB Aydınlatma, 8.000 DPI, 6 Programlanabilir Tuş, Mavi",
+    "kategori": "ssd-ram",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 799,
+    "yeniFiyat": 732,
+    "indirimOrani": 8,
+    "netKazanc": 67,
+    "resim": "https://m.media-amazon.com/images/I/61BnR2NE4PL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B07W5JKFDQ?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790180718524
+  },
+  {
     "id": "f-1790180708526",
     "baslik": "Claw's Nexus Air Kablosuz 10000 Dpi Pixart PMW3325 Sensör Makro Yazılımlı & Değiştirilebilir Kapaklı RGB Kablosuz Gaming Mouse - Siyah",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790103677741
-  },
-  {
-    "id": "f-1790103667747",
-    "baslik": "ASUS VY249HGR 24 İnç 1080p 120Hz IPS Eye Care Gaming Monitör",
-    "kategori": "monitor",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 4599,
-    "yeniFiyat": 4230,
-    "indirimOrani": 8,
-    "netKazanc": 369,
-    "resim": "https://m.media-amazon.com/images/I/818ae893-zL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0DN6NHW6F?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790103667748
   }
 ]
