@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790173867801",
+    "baslik": "FSP (FORTRON Güç Kaynağı 750 W Hydro K Pro *HD2-750 Bulk",
+    "kategori": "kasa-psu",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 5963,
+    "yeniFiyat": 5113,
+    "indirimOrani": 14,
+    "netKazanc": 850,
+    "resim": "https://m.media-amazon.com/images/I/61dwD8JxYTL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0BYW9SJCS?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790173867802
+  },
+  {
     "id": "f-1790173508411",
     "baslik": "Adata Legend 900 Pro Sleg-900P-2Tcs 2Tb (7400/6500Mb/S) M.2 2280 Pcie 4.0 Nvme Ssd",
     "kategori": "ssd-ram",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790102227946
-  },
-  {
-    "id": "f-1790102058208",
-    "baslik": "MSI MAG A750GLS PCIE5 ATX V3.1 750W PCIE 5.1 READY 80+ GOLD POWER SUPPLY",
-    "kategori": "kasa-psu",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 8193,
-    "yeniFiyat": 7183,
-    "indirimOrani": 12,
-    "netKazanc": 1010,
-    "resim": "https://m.media-amazon.com/images/I/711MzPmEpgL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0BV2D4FN1?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790102058209
   }
 ]
