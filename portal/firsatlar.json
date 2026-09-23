@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790177108424",
+    "baslik": "MSI MAG FORGE M120R AIRFLOW TEMPERLİ CAM 3X120MM 1X120MM ARGB FAN MATX GAMİNG BİLGİSAYAR KASASI",
+    "kategori": "kasa-psu",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 2849,
+    "yeniFiyat": 2199,
+    "indirimOrani": 23,
+    "netKazanc": 650,
+    "resim": "https://m.media-amazon.com/images/I/817Wb05em1L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0G6ZJHHSS?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790177108425
+  },
+  {
     "id": "f-1790175667972",
     "baslik": "Kingston Beast 16GB DDR5 6800MT/s CL34 DIMM Masaüstü Ram - KF568C34BBE/16TR",
     "kategori": "ssd-ram",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790103487921
-  },
-  {
-    "id": "f-1790102767583",
-    "baslik": "Antec Vortex View 360 ARGB 360mm AIO Sıvı İşlemci Soğutucu, 5 inç IPS LCD, 3x120mm PWM Fan, Intel/AMD, Siyah",
-    "kategori": "monitor",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 16669,
-    "yeniFiyat": 10539,
-    "indirimOrani": 37,
-    "netKazanc": 6130,
-    "resim": "https://m.media-amazon.com/images/I/61X1SFdmamL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0GL6WZ4F2?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790102767583
   }
 ]
