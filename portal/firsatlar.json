@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790175667972",
+    "baslik": "Kingston Beast 16GB DDR5 6800MT/s CL34 DIMM Masaüstü Ram - KF568C34BBE/16TR",
+    "kategori": "ssd-ram",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 19957,
+    "yeniFiyat": 19105,
+    "indirimOrani": 4,
+    "netKazanc": 852,
+    "resim": "https://m.media-amazon.com/images/I/61tycZWLzhL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0D3S6S2QC?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790175667973
+  },
+  {
     "id": "f-1790175137946",
     "baslik": "Asus TUF Gaming B850-PRO WIFI7 W NEO AMD B850 Soket AM5 DDR5 9000+MT/s(OC) Wi-Fi 7 ATX Anakart (90MB1NW0-M0EAY0)",
     "kategori": "anakart",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790102767583
-  },
-  {
-    "id": "f-1790102587773",
-    "baslik": "FRISBY FCL-360B ARGB 360mm Siyah İşlemci Sıvı Soğutucu",
-    "kategori": "kasa-psu",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 3309,
-    "yeniFiyat": 2839,
-    "indirimOrani": 14,
-    "netKazanc": 470,
-    "resim": "https://m.media-amazon.com/images/I/51Z7MiO-t6L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0G946NWWV?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790102587773
   }
 ]
