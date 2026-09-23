@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790180708526",
+    "baslik": "Claw's Nexus Air Kablosuz 10000 Dpi Pixart PMW3325 Sensör Makro Yazılımlı & Değiştirilebilir Kapaklı RGB Kablosuz Gaming Mouse - Siyah",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 1066,
+    "yeniFiyat": 854,
+    "indirimOrani": 20,
+    "netKazanc": 212,
+    "resim": "https://m.media-amazon.com/images/I/61Zsc66JXwL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0D6VZ8SCZ?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790180708526
+  },
+  {
     "id": "f-1790177467835",
     "baslik": "GIGABYTE UD850GM PG5 V2 850W 80+ Gold Tam Modüler Güç Kaynağı, ATX 3.0, PCIe 5.0, 120mm HYB Fan, Kompakt Tasarım (GP-UD850GM PG5)",
     "kategori": "kasa-psu",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790103667748
-  },
-  {
-    "id": "f-1790103497917",
-    "baslik": "Lenovo Legion 27Q-11 27\" 0.5ms (MPRT) 300Hz (2xHDMI-DP) G-SYNC, AMD FreeSync Premium Pivot QHD 2560x1440 IPS Panel WLED Monitör 67D3GAC1TK",
-    "kategori": "monitor",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 11599,
-    "yeniFiyat": 10999,
-    "indirimOrani": 5,
-    "netKazanc": 600,
-    "resim": "https://m.media-amazon.com/images/I/71bRjxmYYmL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0G1MY554L?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790103497917
   }
 ]
