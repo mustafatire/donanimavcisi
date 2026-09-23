@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790175137946",
+    "baslik": "Asus TUF Gaming B850-PRO WIFI7 W NEO AMD B850 Soket AM5 DDR5 9000+MT/s(OC) Wi-Fi 7 ATX Anakart (90MB1NW0-M0EAY0)",
+    "kategori": "anakart",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 14519,
+    "yeniFiyat": 13899,
+    "indirimOrani": 4,
+    "netKazanc": 620,
+    "resim": "https://m.media-amazon.com/images/I/81wl5Co79cL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0GKGN7CHM?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790175137946
+  },
+  {
     "id": "f-1790175127951",
     "baslik": "MSI B550M PRO-VDH WiFi ProSeries Anakart (AMD AM4, DDR4, PCIe 4.0, SATA 6Gb/s, M.2, USB 3.2 Gen 1, Wi-Fi, D-SUB/HDMI/DP, Micro-ATX)",
     "kategori": "anakart",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790102587773
-  },
-  {
-    "id": "f-1790102406848",
-    "baslik": "ARCTIC Sıvı Dondurucu III Pro 280 - AIO CPU Soğutucu, 2 x 140 mm Su Soğutma",
-    "kategori": "anakart",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 4999,
-    "yeniFiyat": 4449,
-    "indirimOrani": 11,
-    "netKazanc": 550,
-    "resim": "https://m.media-amazon.com/images/I/71Aah559KAL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0DPHRVNGL?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790102406848
   }
 ]
