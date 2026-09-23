@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790188447782",
+    "baslik": "Crucial RAM CT32G4DFD832A 32GB DDR4 3200 MHz CL22 Masaüstü Bellek",
+    "kategori": "ssd-ram",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 12799,
+    "yeniFiyat": 12284,
+    "indirimOrani": 4,
+    "netKazanc": 515,
+    "resim": "https://m.media-amazon.com/images/I/61LjnKSImPL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B07ZLHD4F8?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790188447783
+  },
+  {
     "id": "f-1790187368106",
     "baslik": "ASUS PRIME H610M-D Intel LGA1700 mATX Anakart",
     "kategori": "anakart",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790104027886
-  },
-  {
-    "id": "f-1790103858916",
-    "baslik": "MSI 24.5 PRO MP252 E2, Kurumsal Monitör, FHD, Flat,16:9, IPS, 120Hz 1ms, Adaptive-Sync",
-    "kategori": "monitor",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 4299,
-    "yeniFiyat": 4084,
-    "indirimOrani": 5,
-    "netKazanc": 215,
-    "resim": "https://m.media-amazon.com/images/I/61fVNt0G2nL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0FNCQ7MQT?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790103858916
   }
 ]
