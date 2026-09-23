@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790184308571",
+    "baslik": "Intel Core i5-12600KF 3.70GHz (Turbo 4.90GHz) 20MB Cache LGA1700 12.Nesil İşlemci (Tray Soğutucusuz)",
+    "kategori": "anakart",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 9600,
+    "yeniFiyat": 8499,
+    "indirimOrani": 11,
+    "netKazanc": 1101,
+    "resim": "https://m.media-amazon.com/images/I/415FjJtMjlL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B09YS14JPZ?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790184308571
+  },
+  {
     "id": "f-1790181068055",
     "baslik": "Logitech G G502 X LIGHTSPEED Kablosuz Oyun Mouse'u, LIGHTFORCE Hibrit Optik-Mekanik Anahtarlar, HERO 25K Oyun Sensörü, MacOS, Windows ve PC ile Uyumlu, Siyah",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790103848920
-  },
-  {
-    "id": "f-1790103687744",
-    "baslik": "James Donkey Ravel R40 24'' 240Hz 0.5Ms Fast IPS FHD Gaming Monitör (Sıfır Ölü Piksel Garantili)",
-    "kategori": "monitor",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 4499,
-    "yeniFiyat": 4199,
-    "indirimOrani": 7,
-    "netKazanc": 300,
-    "resim": "https://m.media-amazon.com/images/I/717w-vFaS3L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0GHSNRDMQ?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790103687744
   }
 ]
