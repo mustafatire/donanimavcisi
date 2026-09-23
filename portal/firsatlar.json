@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790123287796",
+    "baslik": "KIOXIA EXCERIA 480GB SSD – 2.5 inç SATA 6 Gbit/s, 555MB/s Okuma, 540MB/s Yazma",
+    "kategori": "ssd-ram",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 4409,
+    "yeniFiyat": 4171,
+    "indirimOrani": 5,
+    "netKazanc": 238,
+    "resim": "https://m.media-amazon.com/images/I/61G2spbNvgL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B087CPLWKP?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790123287797
+  },
+  {
     "id": "f-1790122386956",
     "baslik": "MSI MB PRO B760-P II SOKET 1700 DDR5 7000(OC) PCI-E,M.2 USB3.2 HDMI,DP 1x 2.5G LAN ATX",
     "kategori": "anakart",
