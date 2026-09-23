@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790187368106",
+    "baslik": "ASUS PRIME H610M-D Intel LGA1700 mATX Anakart",
+    "kategori": "anakart",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 2706,
+    "yeniFiyat": 2199,
+    "indirimOrani": 19,
+    "netKazanc": 507,
+    "resim": "https://m.media-amazon.com/images/I/81op-wMOShL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B07M6J1HFG?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790187368106
+  },
+  {
     "id": "f-1790186288592",
     "baslik": "KIOXIA EXCERIA 480GB SSD – 2.5 inç SATA 6 Gbit/s, 555MB/s Okuma, 540MB/s Yazma",
     "kategori": "ssd-ram",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790103858916
-  },
-  {
-    "id": "f-1790103848920",
-    "baslik": "GIGABYTE M27Q3 27\" SS IPS Oyuncu Monitörü, QHD (2560x1440), 300Hz (OC 320Hz) 1ms GTG, 95% DCI-P3, HDMI 2.1 & DisplayPort 1.4 & USB-C (18W PD), DisplayHDR 400, KVM, Ergonomik Stand",
-    "kategori": "monitor",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 21018,
-    "yeniFiyat": 14999,
-    "indirimOrani": 29,
-    "netKazanc": 6019,
-    "resim": "https://m.media-amazon.com/images/I/71Q94dqC1SL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0FPXG8PGT?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790103848920
   }
 ]
