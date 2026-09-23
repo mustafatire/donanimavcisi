@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790175127951",
+    "baslik": "MSI B550M PRO-VDH WiFi ProSeries Anakart (AMD AM4, DDR4, PCIe 4.0, SATA 6Gb/s, M.2, USB 3.2 Gen 1, Wi-Fi, D-SUB/HDMI/DP, Micro-ATX)",
+    "kategori": "anakart",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 5599,
+    "yeniFiyat": 5199,
+    "indirimOrani": 7,
+    "netKazanc": 400,
+    "resim": "https://m.media-amazon.com/images/I/61HOwOmsAiL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B089D1YG11?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790175127951
+  },
+  {
     "id": "f-1790173867801",
     "baslik": "FSP (FORTRON Güç Kaynağı 750 W Hydro K Pro *HD2-750 Bulk",
     "kategori": "kasa-psu",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790102406848
-  },
-  {
-    "id": "f-1790102227945",
-    "baslik": "PATONA NP-FZ100 - PD Performans pil şarj cihazı (maks. 1500mA) USB-C Mini Çift LCD - PD/QC özellikli (161858)",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 2558,
-    "yeniFiyat": 2299,
-    "indirimOrani": 10,
-    "netKazanc": 259,
-    "resim": "https://m.media-amazon.com/images/I/71nQfPK8d8L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0BLT6NQ2S?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790102227946
   }
 ]
