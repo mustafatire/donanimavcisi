@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790242280348",
+    "baslik": "MSI 27\" G274F 1920x1080 (FHD) 16:9 FLAT RAPID IPS 180HZ 1MS Adaptıve-Sync Gaming (Oyuncu) Monitör",
+    "kategori": "monitor",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 7780,
+    "yeniFiyat": 6375,
+    "indirimOrani": 18,
+    "netKazanc": 1405,
+    "resim": "https://m.media-amazon.com/images/I/71fUR8jc1sL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B09XTRCCSS?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790242280348
+  },
+  {
     "id": "f-1790241930240",
     "baslik": "Scythe MARK 4 SCKTT-4000 Orijinal Tasarım 12 cm Intel LGA1700, LGA1151, AMD AM5, AM4 Desteği, 120mm Yan Akışlı İşlemci Hava Soğutucusu",
     "kategori": "anakart",
@@ -1258,20 +1273,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790156047999
-  },
-  {
-    "id": "f-1790155687957",
-    "baslik": "ATTACK SHARK R5 Ultra Karbon Fiber HyperSpeed Kablosuz Gaming Mouse – 39g Süper Hafif, PAW3950MAX Sensör, 42000 DPI, 8000Hz Kablosuz Polling, BT/2.4G/Kablolu USB-C, Windows/Mac Uyumlu – White",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 4502,
-    "yeniFiyat": 4094,
-    "indirimOrani": 9,
-    "netKazanc": 408,
-    "resim": "https://m.media-amazon.com/images/I/71fUfIOk-ML._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0F12HRRJP?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790155687958
   }
 ]
