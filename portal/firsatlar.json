@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790247320177",
+    "baslik": "AMD Ryzen 7 3700X 3.6/4.4GHz AM4 İşlemci",
+    "kategori": "anakart",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 7912,
+    "yeniFiyat": 7612,
+    "indirimOrani": 4,
+    "netKazanc": 300,
+    "resim": "https://m.media-amazon.com/images/I/61wZ8-ijoWL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B07SXMZLPK?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790247320178
+  },
+  {
     "id": "f-1790246070536",
     "baslik": "ASUS ProArt GeForce RTX 5070 Ti 16GB GDDR7 OC Edition Ekran Kartı",
     "kategori": "ekran-karti",
