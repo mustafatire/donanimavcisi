@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790250740671",
+    "baslik": "GIGABYTE B840M DS3H AMD AM5 mATX ULTRA DURABLE Anakart",
+    "kategori": "anakart",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 8299,
+    "yeniFiyat": 7589,
+    "indirimOrani": 9,
+    "netKazanc": 710,
+    "resim": "https://m.media-amazon.com/images/I/81lKNZntZrL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0DXFZCJSD?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790250740671
+  },
+  {
     "id": "f-1790250200758",
     "baslik": "Antec PCIe 5.0 GPU Yükseltici Kablo, RGB Ayarlanabilir Dikey GPU Braketi, PCI Express, Gümüş/Beyaz",
     "kategori": "cevre-birimleri",
@@ -1468,20 +1483,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790164508686
-  },
-  {
-    "id": "f-1790164327757",
-    "baslik": "ASUS A31 PLUS TG ARGB Siyah mATX Bilgisayar Kasası",
-    "kategori": "kasa-psu",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 6699,
-    "yeniFiyat": 4422,
-    "indirimOrani": 34,
-    "netKazanc": 2277,
-    "resim": "https://m.media-amazon.com/images/I/81JM0sNV8iL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0DRPNX1GX?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790164327757
   }
 ]
