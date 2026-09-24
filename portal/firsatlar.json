@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790261900425",
+    "baslik": "Samsung 870 EVO SATA III 2.5\", 500 GB SSD, 560 MB/sn Okuma, 530 MB/sn Yazma , ‎‎‎MZ-77E500BW",
+    "kategori": "ssd-ram",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 8870,
+    "yeniFiyat": 8499,
+    "indirimOrani": 4,
+    "netKazanc": 371,
+    "resim": "https://m.media-amazon.com/images/I/91baxDkqGXL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B08T1QQZ1T?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790261900425
+  },
+  {
     "id": "f-1790261000227",
     "baslik": "MSI B650M Project Zero AM5 Soket DDR5 7600(OC) MHz mATX Anakart",
     "kategori": "anakart",
@@ -1303,35 +1318,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790175667973
-  },
-  {
-    "id": "f-1790175137946",
-    "baslik": "Asus TUF Gaming B850-PRO WIFI7 W NEO AMD B850 Soket AM5 DDR5 9000+MT/s(OC) Wi-Fi 7 ATX Anakart (90MB1NW0-M0EAY0)",
-    "kategori": "anakart",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 14519,
-    "yeniFiyat": 13899,
-    "indirimOrani": 4,
-    "netKazanc": 620,
-    "resim": "https://m.media-amazon.com/images/I/81wl5Co79cL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0GKGN7CHM?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790175137946
-  },
-  {
-    "id": "f-1790175127951",
-    "baslik": "MSI B550M PRO-VDH WiFi ProSeries Anakart (AMD AM4, DDR4, PCIe 4.0, SATA 6Gb/s, M.2, USB 3.2 Gen 1, Wi-Fi, D-SUB/HDMI/DP, Micro-ATX)",
-    "kategori": "anakart",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 5599,
-    "yeniFiyat": 5199,
-    "indirimOrani": 7,
-    "netKazanc": 400,
-    "resim": "https://m.media-amazon.com/images/I/61HOwOmsAiL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B089D1YG11?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790175127951
   }
 ]
