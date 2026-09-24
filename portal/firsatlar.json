@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790272807384",
+    "baslik": "AMD Ryzen™ 5 8600G İşlemci, 6 Çekirdekli / 12 Konu Flanşsız Ryzen™ AI, AMD Radeon™ 760M, Zen Mimarisi 4, 22MB Önbellek, 65W TDP, 5,05 GHz Boost'a Kadar, Soket AM5, Ventirad Wraith Stealth",
+    "kategori": "ekran-karti",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 10999,
+    "yeniFiyat": 10400,
+    "indirimOrani": 5,
+    "netKazanc": 599,
+    "resim": "https://m.media-amazon.com/images/I/615TPN-DayL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0CQ4GYTTX?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790272807384
+  },
+  {
     "id": "f-1790270617034",
     "baslik": "Rampage RM-K90 Mikrofonlu Kablolu Oyun Kulaklığı - Mikrofonlu RGB Kulaklık, 50 mm Sürücüler, PC, PS4, PS5 ve Dizüstü Bilgisayar Oyunları için Gürültü Önleyici",
     "kategori": "ssd-ram",
@@ -1363,35 +1378,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790187368106
-  },
-  {
-    "id": "f-1790186288592",
-    "baslik": "KIOXIA EXCERIA 480GB SSD – 2.5 inç SATA 6 Gbit/s, 555MB/s Okuma, 540MB/s Yazma",
-    "kategori": "ssd-ram",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 4409,
-    "yeniFiyat": 4049,
-    "indirimOrani": 8,
-    "netKazanc": 360,
-    "resim": "https://m.media-amazon.com/images/I/61G2spbNvgL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B087CPLWKP?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790186288593
-  },
-  {
-    "id": "f-1790184308571",
-    "baslik": "Intel Core i5-12600KF 3.70GHz (Turbo 4.90GHz) 20MB Cache LGA1700 12.Nesil İşlemci (Tray Soğutucusuz)",
-    "kategori": "anakart",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 9600,
-    "yeniFiyat": 8499,
-    "indirimOrani": 11,
-    "netKazanc": 1101,
-    "resim": "https://m.media-amazon.com/images/I/415FjJtMjlL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B09YS14JPZ?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790184308571
   }
 ]
