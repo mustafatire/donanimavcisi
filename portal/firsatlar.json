@@ -1,5 +1,35 @@
 [
   {
+    "id": "f-1790236519948",
+    "baslik": "KIOXIA EXCERIA PLUS G4 2TB NVMe SSD – M.2 2280, PCIe Gen5 x4, 10000MB/s Okuma, 8200MB/s Yazma",
+    "kategori": "ssd-ram",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 16953,
+    "yeniFiyat": 16068,
+    "indirimOrani": 5,
+    "netKazanc": 885,
+    "resim": "https://m.media-amazon.com/images/I/61stZEpOW6L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0DW4VQ37J?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790236519948
+  },
+  {
+    "id": "f-1790236160407",
+    "baslik": "Asus Prime B650M-R AMD B650 AM5 Soket DDR5 7200+(OC) MHz mATX Anakart",
+    "kategori": "anakart",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 4999,
+    "yeniFiyat": 4718,
+    "indirimOrani": 6,
+    "netKazanc": 281,
+    "resim": "https://m.media-amazon.com/images/I/81-pYnkILbL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0CS71GLWC?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790236160407
+  },
+  {
     "id": "f-1790235800454",
     "baslik": "GIGABYTE B650M GAMING PLUS WIFI AM5 DDR5 6400MHz(OC) PCIe 4.0 M.2 NVMe WiFi Gigabit LAN mATX Gaming Anakart",
     "kategori": "anakart",
