@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790209466487",
+    "baslik": "AMD Ryzen 5 8400F 4.2GHz (Turbo 4.4GHz) 6 Core 12 Threads 16MB Cache AM5 İşlemci, 100-100001591BOX",
+    "kategori": "anakart",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 5199,
+    "yeniFiyat": 4999,
+    "indirimOrani": 4,
+    "netKazanc": 200,
+    "resim": "https://m.media-amazon.com/images/I/51drz0yDCJL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0D2JD6P86?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790209466487
+  },
+  {
     "id": "f-1790208745818",
     "baslik": "GIGABYTE VGA NVIDIA 16GB GDDR7 RTX5080 AERO OC SFF GV-N5080AERO OC-16GD",
     "kategori": "ekran-karti",
@@ -478,21 +493,6 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790172247669
-  },
-  {
-    "id": "f-1790171717914",
-    "baslik": "AMD Ryzen 5 8400F 4.2GHz (Turbo 4.4GHz) 6 Core 12 Threads 16MB Cache AM5 İşlemci, 100-100001591BOX",
-    "kategori": "anakart",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 5399,
-    "yeniFiyat": 5199,
-    "indirimOrani": 4,
-    "netKazanc": 200,
-    "resim": "https://m.media-amazon.com/images/I/51drz0yDCJL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0D2JD6P86?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790171717914
   },
   {
     "id": "f-1790171707917",
