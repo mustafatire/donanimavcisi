@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790262980624",
+    "baslik": "MSI B550M Pro-Vdh Wifi Am4 Ddr4 4400(Oc) Hdmi Dvg Vga M.2 Usb3.2 Wifi Matx",
+    "kategori": "ssd-ram",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 5291,
+    "yeniFiyat": 4924,
+    "indirimOrani": 7,
+    "netKazanc": 367,
+    "resim": "https://m.media-amazon.com/images/I/81OvzNNZttL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B08BCR4ZRS?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790262980624
+  },
+  {
     "id": "f-1790261900425",
     "baslik": "Samsung 870 EVO SATA III 2.5\", 500 GB SSD, 560 MB/sn Okuma, 530 MB/sn Yazma , ‎‎‎MZ-77E500BW",
     "kategori": "ssd-ram",
@@ -1303,20 +1318,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790177108425
-  },
-  {
-    "id": "f-1790175667972",
-    "baslik": "Kingston Beast 16GB DDR5 6800MT/s CL34 DIMM Masaüstü Ram - KF568C34BBE/16TR",
-    "kategori": "ssd-ram",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 19957,
-    "yeniFiyat": 19105,
-    "indirimOrani": 4,
-    "netKazanc": 852,
-    "resim": "https://m.media-amazon.com/images/I/61tycZWLzhL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0D3S6S2QC?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790175667973
   }
 ]
