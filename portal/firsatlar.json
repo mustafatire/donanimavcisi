@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790256140674",
+    "baslik": "GamePower Ogre RGB 60M Red Switch Türkçe Q USB Mekanik Gaming Klavye",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 1899,
+    "yeniFiyat": 1782,
+    "indirimOrani": 6,
+    "netKazanc": 117,
+    "resim": "https://m.media-amazon.com/images/I/71rfz9v5PPL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0CKM53B94?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790256140674
+  },
+  {
     "id": "f-1790255060630",
     "baslik": "ASUS TUF Gaming VG279Q5R 27 İnç 1080p 200Hz Fast IPS Gaming Monitör",
     "kategori": "monitor",
@@ -1408,35 +1423,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790170627739
-  },
-  {
-    "id": "f-1790169198149",
-    "baslik": "GAMEPOWER Kugon USB Gaming Headset - 7.1 Virtual Surround Sound, Wired Led Headphones with 50MM Drivers, Comfort Design, 360 Spatial Audio, Noise Cancelling Mic for PC, Laptop, Black",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 1059,
-    "yeniFiyat": 949,
-    "indirimOrani": 10,
-    "netKazanc": 110,
-    "resim": "https://m.media-amazon.com/images/I/7186xbhN2qL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0BVVWX1BK?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790169198149
-  },
-  {
-    "id": "f-1790168827294",
-    "baslik": "Alienware AW620M Kablosuz Oyun Faresi - Dark Side of The Moon",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 1899,
-    "yeniFiyat": 1699,
-    "indirimOrani": 11,
-    "netKazanc": 200,
-    "resim": "https://m.media-amazon.com/images/I/71HFKBW4I+L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0C3D78M3F?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790168827294
   }
 ]
