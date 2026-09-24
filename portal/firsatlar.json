@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790267916684",
+    "baslik": "Dell SE2425HG 23.8 inç 200Hz 1ms Full HD FreeSync Premium IPS Gaming Monitör",
+    "kategori": "monitor",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 4644,
+    "yeniFiyat": 4379,
+    "indirimOrani": 6,
+    "netKazanc": 265,
+    "resim": "https://m.media-amazon.com/images/I/71bGZo-TFpL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0FHHVD75B?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790267916685
+  },
+  {
     "id": "f-1790267017033",
     "baslik": "Cooler Master Hyper 212 3DHP 120mm MAY-T2HP-217PK-R1 Intel/AM5 Uyumlu İşlemci Soğutucu",
     "kategori": "anakart",
@@ -1333,50 +1348,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790184308571
-  },
-  {
-    "id": "f-1790181068055",
-    "baslik": "Logitech G G502 X LIGHTSPEED Kablosuz Oyun Mouse'u, LIGHTFORCE Hibrit Optik-Mekanik Anahtarlar, HERO 25K Oyun Sensörü, MacOS, Windows ve PC ile Uyumlu, Siyah",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 6599,
-    "yeniFiyat": 5599,
-    "indirimOrani": 15,
-    "netKazanc": 1000,
-    "resim": "https://m.media-amazon.com/images/I/31V-W6XXvgL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B07W7L4RBX?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790181068056
-  },
-  {
-    "id": "f-1790180718524",
-    "baslik": "Logitech G G102 Kablolu Oyuncu Mouse, LIGHTSYNC RGB Aydınlatma, 8.000 DPI, 6 Programlanabilir Tuş, Mavi",
-    "kategori": "ssd-ram",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 799,
-    "yeniFiyat": 732,
-    "indirimOrani": 8,
-    "netKazanc": 67,
-    "resim": "https://m.media-amazon.com/images/I/61BnR2NE4PL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B07W5JKFDQ?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790180718524
-  },
-  {
-    "id": "f-1790180708526",
-    "baslik": "Claw's Nexus Air Kablosuz 10000 Dpi Pixart PMW3325 Sensör Makro Yazılımlı & Değiştirilebilir Kapaklı RGB Kablosuz Gaming Mouse - Siyah",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 1066,
-    "yeniFiyat": 854,
-    "indirimOrani": 20,
-    "netKazanc": 212,
-    "resim": "https://m.media-amazon.com/images/I/61Zsc66JXwL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0D6VZ8SCZ?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790180708526
   }
 ]
