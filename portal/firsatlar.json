@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790263520366",
+    "baslik": "TwinMOS DDR5 16GB (1x16GB) 6000MHz CL36 Desktop Ram Black Soğutuculu (TMD516GB6000U36B)",
+    "kategori": "ssd-ram",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 14980,
+    "yeniFiyat": 12049,
+    "indirimOrani": 20,
+    "netKazanc": 2931,
+    "resim": "https://m.media-amazon.com/images/I/51fTygvkKEL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0GFNP767S?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790263520366
+  },
+  {
     "id": "f-1790262980624",
     "baslik": "MSI B550M Pro-Vdh Wifi Am4 Ddr4 4400(Oc) Hdmi Dvg Vga M.2 Usb3.2 Wifi Matx",
     "kategori": "ssd-ram",
@@ -1303,20 +1318,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790177467835
-  },
-  {
-    "id": "f-1790177108424",
-    "baslik": "MSI MAG FORGE M120R AIRFLOW TEMPERLİ CAM 3X120MM 1X120MM ARGB FAN MATX GAMİNG BİLGİSAYAR KASASI",
-    "kategori": "kasa-psu",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 2849,
-    "yeniFiyat": 2199,
-    "indirimOrani": 23,
-    "netKazanc": 650,
-    "resim": "https://m.media-amazon.com/images/I/817Wb05em1L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0G6ZJHHSS?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790177108425
   }
 ]
