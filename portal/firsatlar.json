@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790275327994",
+    "baslik": "NZXT Dikey GPU Montaj Kiti - AB-RH175-B1-175 mm PCIe 4.0x16 Yükseltici Kablosu - GPU Tutucu - Sağlam Çelik Tutucu - Sadece H5, H7 ve H9 Serisi Gövdelerle Uyumlu - Siyah",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 4399,
+    "yeniFiyat": 4199,
+    "indirimOrani": 5,
+    "netKazanc": 200,
+    "resim": "https://m.media-amazon.com/images/I/51pIfknugLL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0B4HJQKPM?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790275327994
+  },
+  {
     "id": "f-1790272807384",
     "baslik": "AMD Ryzen™ 5 8600G İşlemci, 6 Çekirdekli / 12 Konu Flanşsız Ryzen™ AI, AMD Radeon™ 760M, Zen Mimarisi 4, 22MB Önbellek, 65W TDP, 5,05 GHz Boost'a Kadar, Soket AM5, Ventirad Wraith Stealth",
     "kategori": "ekran-karti",
@@ -1348,35 +1363,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790189535879
-  },
-  {
-    "id": "f-1790188447782",
-    "baslik": "Crucial RAM CT32G4DFD832A 32GB DDR4 3200 MHz CL22 Masaüstü Bellek",
-    "kategori": "ssd-ram",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 12799,
-    "yeniFiyat": 12284,
-    "indirimOrani": 4,
-    "netKazanc": 515,
-    "resim": "https://m.media-amazon.com/images/I/61LjnKSImPL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B07ZLHD4F8?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790188447783
-  },
-  {
-    "id": "f-1790187368106",
-    "baslik": "ASUS PRIME H610M-D Intel LGA1700 mATX Anakart",
-    "kategori": "anakart",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 2706,
-    "yeniFiyat": 2199,
-    "indirimOrani": 19,
-    "netKazanc": 507,
-    "resim": "https://m.media-amazon.com/images/I/81op-wMOShL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B07M6J1HFG?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790187368106
   }
 ]
