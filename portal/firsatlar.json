@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790211626942",
+    "baslik": "ROG-LOKI-750P-SFX-L-GAMING",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 12299,
+    "yeniFiyat": 11299,
+    "indirimOrani": 8,
+    "netKazanc": 1000,
+    "resim": "https://m.media-amazon.com/images/I/71wtWr2lx6L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0BHJB4VG7?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790211626943
+  },
+  {
     "id": "f-1790209466487",
     "baslik": "AMD Ryzen 5 8400F 4.2GHz (Turbo 4.4GHz) 6 Core 12 Threads 16MB Cache AM5 İşlemci, 100-100001591BOX",
     "kategori": "anakart",
@@ -988,35 +1003,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790126527431
-  },
-  {
-    "id": "f-1790125087205",
-    "baslik": "TwinMOS TMD58GB5600S46 8GB DDR5 5600MHz CL46 Notebook Bellek",
-    "kategori": "ssd-ram",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 7268,
-    "yeniFiyat": 6406,
-    "indirimOrani": 12,
-    "netKazanc": 862,
-    "resim": "https://m.media-amazon.com/images/I/71MkeFXgBxL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0G6ZXZ1GW?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790125087206
-  },
-  {
-    "id": "f-1790124728079",
-    "baslik": "ASUS PRIME H510M-F R3.0 Intel H470 LGA1200 DDR4 3200 HDMI M2 USB3.2 mATX Anakart - 5X Koruma III, Q-Design, CrashFree BIOS 3",
-    "kategori": "anakart",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 6177,
-    "yeniFiyat": 4183,
-    "indirimOrani": 32,
-    "netKazanc": 1994,
-    "resim": "https://m.media-amazon.com/images/I/61ld-D8U0AL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B09T9J6GGP?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790124728080
   }
 ]
