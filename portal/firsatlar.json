@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790263880874",
+    "baslik": "Twinmos Ddr5 16GB 5600MHZ CL46 Notebook Ram (TMD516GB5600S46)",
+    "kategori": "ssd-ram",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 12924,
+    "yeniFiyat": 12199,
+    "indirimOrani": 6,
+    "netKazanc": 725,
+    "resim": "https://m.media-amazon.com/images/I/51GJn-HGGWL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0CZRZKTYL?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790263880874
+  },
+  {
     "id": "f-1790263520366",
     "baslik": "TwinMOS DDR5 16GB (1x16GB) 6000MHz CL36 Desktop Ram Black Soğutuculu (TMD516GB6000U36B)",
     "kategori": "ssd-ram",
@@ -1303,20 +1318,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790180708526
-  },
-  {
-    "id": "f-1790177467835",
-    "baslik": "GIGABYTE UD850GM PG5 V2 850W 80+ Gold Tam Modüler Güç Kaynağı, ATX 3.0, PCIe 5.0, 120mm HYB Fan, Kompakt Tasarım (GP-UD850GM PG5)",
-    "kategori": "kasa-psu",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 6744,
-    "yeniFiyat": 6399,
-    "indirimOrani": 5,
-    "netKazanc": 345,
-    "resim": "https://m.media-amazon.com/images/I/71vm8Rx+vyL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0FFMYW8CV?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790177467835
   }
 ]
