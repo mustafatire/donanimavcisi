@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790369828567",
+    "baslik": "Logitech G502 X PLUS LIGHTSPEED Kablosuz Oyun Mouse'u, LIGHTSYNC RGB Aydınlatma, LIGHTFORCE Hibrit Anahtarlı Optik Mouse, HERO 25K Oyun Sensörü, MacOS, Windows ve PC ile Uyumlu, Siyah",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 6647,
+    "yeniFiyat": 6411,
+    "indirimOrani": 4,
+    "netKazanc": 236,
+    "resim": "https://m.media-amazon.com/images/I/61sLuO6LiAL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B07W7MJ46M?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790369828568
+  },
+  {
     "id": "f-1790366228818",
     "baslik": "MONTECH HS02 PRO, ATX Mid-Tower PC Kasası, Oyun Bilgisayarı, Yüksek Hava Akışı, Ters Çevrilebilir Düzen, Sağlam Kavisli Temperli Cam Ön Panel, 5x ARGB PWM Fan Önceden Yüklenmiş, Gömme Tasarım, Beyaz",
     "kategori": "kasa-psu",
@@ -988,35 +1003,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790283608418
-  },
-  {
-    "id": "f-1790281987611",
-    "baslik": "SteelSeries Rival 3 Wireless Gen 2 Oyuncu Faresi – Siyah",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 2290,
-    "yeniFiyat": 1910,
-    "indirimOrani": 17,
-    "netKazanc": 380,
-    "resim": "https://m.media-amazon.com/images/I/51RrEFi5nRL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0F5QF2JQQ?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790281987611
-  },
-  {
-    "id": "f-1790281448491",
-    "baslik": "SteelSeries Aerox 3 Wireless Gen 2 - Shadow 4K Kablosuz Gaming Mouse",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 5879,
-    "yeniFiyat": 4999,
-    "indirimOrani": 15,
-    "netKazanc": 880,
-    "resim": "https://m.media-amazon.com/images/I/615wuXJiVuL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0GNM9S22Q?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790281448492
   }
 ]
