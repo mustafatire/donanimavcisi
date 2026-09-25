@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790340668329",
+    "baslik": "MSI MAG FORGE M110R AIRFLOW TEMPERLİ CAM 3X120MM 1X120MM ARGB FAN MATX GAMİNG BİLGİSAYAR KASASI",
+    "kategori": "kasa-psu",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 2579,
+    "yeniFiyat": 2439,
+    "indirimOrani": 5,
+    "netKazanc": 140,
+    "resim": "https://m.media-amazon.com/images/I/81PcK6DXNkL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0G6ZWQHCD?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790340668330
+  },
+  {
     "id": "f-1790339048417",
     "baslik": "Lexar THOR RGB 2nd Gen LD5U16G60C36BV-RGS 16GB (1x16GB) DDR5 6000MHz CL36 Ram (Bellek)",
     "kategori": "ssd-ram",
@@ -943,50 +958,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790254701272
-  },
-  {
-    "id": "f-1790253080566",
-    "baslik": "MSI MPG A1250GS PCIE5 1250W 80+ GOLD ATX 3.1 PCIE 5.1 2X 12V-2X6 POWER SUPPLY",
-    "kategori": "kasa-psu",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 10731,
-    "yeniFiyat": 10205,
-    "indirimOrani": 5,
-    "netKazanc": 526,
-    "resim": "https://m.media-amazon.com/images/I/71e3vTj4C6L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0BSLLGJQ6?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790253080566
-  },
-  {
-    "id": "f-1790252730590",
-    "baslik": "MONTECH Heritage mATX, Mikro Form Faktörü İmza Saplı Kompakt Deri Oyun Kasası, En Yeni GPU'ları, ATX PSU'yu destekler, 360 mm AIO, 4 Fan, Kulaklık Askısı - Beyaz",
-    "kategori": "kasa-psu",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 5999,
-    "yeniFiyat": 5499,
-    "indirimOrani": 8,
-    "netKazanc": 500,
-    "resim": "https://m.media-amazon.com/images/I/81AmTAzt-FL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0DSZ76NF8?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790252730590
-  },
-  {
-    "id": "f-1790252720591",
-    "baslik": "MONTECH HS01 PRO, ATX orta boy kasa bilgisayar kasası, oyun bilgisayarı, yüksek hava akışı, ters çevrilebilir düzen, file ön plaka, 5 x ARGB PWM fan, önceden yüklenmiş, batan tasarım, aletsiz paneller",
-    "kategori": "kasa-psu",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 6999,
-    "yeniFiyat": 5449,
-    "indirimOrani": 22,
-    "netKazanc": 1550,
-    "resim": "https://m.media-amazon.com/images/I/81-NGdI0slL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0F6CK6DT5?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790252720591
   }
 ]
