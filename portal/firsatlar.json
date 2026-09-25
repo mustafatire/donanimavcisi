@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790351829201",
+    "baslik": "Kingston Impact 16GB DDR5 5600MT/s CL40 SODIMM Notebook Performans Ram - KF556S40IB/16TR",
+    "kategori": "ssd-ram",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 17647,
+    "yeniFiyat": 14992,
+    "indirimOrani": 15,
+    "netKazanc": 2655,
+    "resim": "https://m.media-amazon.com/images/I/61by2ild9EL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0D3RQF7BC?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790351829201
+  },
+  {
     "id": "f-1790350748996",
     "baslik": "MSI GeForce RTX 5060TI 16G VENTUS 2X PLUS GDDR7 128Bit DX12 DLSS 4 Gaming (Oyuncu) Ekran Kartı",
     "kategori": "ekran-karti",
@@ -973,35 +988,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790265860790
-  },
-  {
-    "id": "f-1790265331141",
-    "baslik": "MSI MAG VAMPIRIC 100R TEMPERLI CAM 1 X A-RGB FAN 1 X 120MM FAN ATX GAMING BILGISAYAR KASASI",
-    "kategori": "kasa-psu",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 3299,
-    "yeniFiyat": 2999,
-    "indirimOrani": 9,
-    "netKazanc": 300,
-    "resim": "https://m.media-amazon.com/images/I/51zPjm+mNhL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B08KHK67RP?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790265331142
-  },
-  {
-    "id": "f-1790265321144",
-    "baslik": "NZXT H7 Flow 2024 CM-H72FW-01 Fanlı Beyaz E-ATX Oyuncu Kasası",
-    "kategori": "kasa-psu",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 4869,
-    "yeniFiyat": 3699,
-    "indirimOrani": 24,
-    "netKazanc": 1170,
-    "resim": "https://m.media-amazon.com/images/I/81t+IADQUQL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0CV4RYKLF?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790265321144
   }
 ]
