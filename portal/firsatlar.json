@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790298188074",
+    "baslik": "Turbox Tx380 Intel Core i5 4440 8GB Ram 256GB SSD Masaüstü Ofis Pc Bilgisayarı",
+    "kategori": "anakart",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 8452,
+    "yeniFiyat": 8139,
+    "indirimOrani": 4,
+    "netKazanc": 313,
+    "resim": "https://m.media-amazon.com/images/I/617JES9763L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B09T9RXTKS?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790298188075
+  },
+  {
     "id": "f-1790295307810",
     "baslik": "SteelSeries Arctis Nova 3P Wireless Aqua Gaming Kulaklık - Mobil Uygulama ile Kontrol - 40 Saat Pil Ömrü PS5, PS4, PC, Switch, Mobil Uyumlu",
     "kategori": "cevre-birimleri",
@@ -1333,35 +1348,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790212886895
-  },
-  {
-    "id": "f-1790211626942",
-    "baslik": "ROG-LOKI-750P-SFX-L-GAMING",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 12299,
-    "yeniFiyat": 11299,
-    "indirimOrani": 8,
-    "netKazanc": 1000,
-    "resim": "https://m.media-amazon.com/images/I/71wtWr2lx6L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0BHJB4VG7?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790211626943
-  },
-  {
-    "id": "f-1790209466487",
-    "baslik": "AMD Ryzen 5 8400F 4.2GHz (Turbo 4.4GHz) 6 Core 12 Threads 16MB Cache AM5 İşlemci, 100-100001591BOX",
-    "kategori": "anakart",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 5199,
-    "yeniFiyat": 4999,
-    "indirimOrani": 4,
-    "netKazanc": 200,
-    "resim": "https://m.media-amazon.com/images/I/51drz0yDCJL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0D2JD6P86?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790209466487
   }
 ]
