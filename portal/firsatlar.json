@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790341748961",
+    "baslik": "Cooler Master MasterLiquid 360 L Core ARGB su soğutucu, iki bölmeli Gen S pompalı CPU sıvı soğutucu, 120 mm ARGB fanlı, LGA 1700 ve AM5 tutucular ile üstün bilgisayar soğutması, beyaz",
+    "kategori": "anakart",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 5499,
+    "yeniFiyat": 4999,
+    "indirimOrani": 9,
+    "netKazanc": 500,
+    "resim": "https://m.media-amazon.com/images/I/61qwxfZgcrL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0C28542HV?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790341748961
+  },
+  {
     "id": "f-1790341208938",
     "baslik": "MAG PSU A1000GLS PCIE5 1000W 80+ GOLD ATX 3.1 12V-2X6 POWER SUPPLY",
     "kategori": "kasa-psu",
@@ -973,20 +988,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790256140674
-  },
-  {
-    "id": "f-1790255060630",
-    "baslik": "ASUS TUF Gaming VG279Q5R 27 İnç 1080p 200Hz Fast IPS Gaming Monitör",
-    "kategori": "monitor",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 7299,
-    "yeniFiyat": 6949,
-    "indirimOrani": 5,
-    "netKazanc": 350,
-    "resim": "https://m.media-amazon.com/images/I/51D45R9LsHL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0FFNGZM53?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790255060630
   }
 ]
