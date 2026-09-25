@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790370369373",
+    "baslik": "Logitech M705 Marathon Kablosuz Mouse, 1.000 DPI Optik İzleme, Unifying Alıcı, Yüksek Hızlı Kaydırma, 3 Yıl Pil Ömrü, 10 m Kullanım Mesafesi, Siyah",
+    "kategori": "cevre-birimleri",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 1955,
+    "yeniFiyat": 1680,
+    "indirimOrani": 14,
+    "netKazanc": 275,
+    "resim": "https://m.media-amazon.com/images/I/71pIkoTcJ5L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B003STDR1E?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790370369373
+  },
+  {
     "id": "f-1790369828567",
     "baslik": "Logitech G502 X PLUS LIGHTSPEED Kablosuz Oyun Mouse'u, LIGHTSYNC RGB Aydınlatma, LIGHTFORCE Hibrit Anahtarlı Optik Mouse, HERO 25K Oyun Sensörü, MacOS, Windows ve PC ile Uyumlu, Siyah",
     "kategori": "cevre-birimleri",
@@ -988,20 +1003,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790286487446
-  },
-  {
-    "id": "f-1790283608418",
-    "baslik": "MSI GeForce RTX 5060 8G Shadow 2X OC - Oyun Ekran Kartı",
-    "kategori": "ekran-karti",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 26397,
-    "yeniFiyat": 25368,
-    "indirimOrani": 4,
-    "netKazanc": 1029,
-    "resim": "https://m.media-amazon.com/images/I/71edk5q7MPL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B09729YMPT?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790283608418
   }
 ]
