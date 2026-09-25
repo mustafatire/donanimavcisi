@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790341208938",
+    "baslik": "MAG PSU A1000GLS PCIE5 1000W 80+ GOLD ATX 3.1 12V-2X6 POWER SUPPLY",
+    "kategori": "kasa-psu",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 9254,
+    "yeniFiyat": 8299,
+    "indirimOrani": 10,
+    "netKazanc": 955,
+    "resim": "https://m.media-amazon.com/images/I/71z1YCXAjBL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0DMSWJL8G?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790341208938
+  },
+  {
     "id": "f-1790341029232",
     "baslik": "MSI MPG VELOX 300R AIRFLOW PZ WHITE Temperli Cam 2 x 120mm ARGB 1Xx 120 mm Fan E-ATX Gaming Bilgisayar Kasası",
     "kategori": "kasa-psu",
@@ -973,35 +988,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790255060630
-  },
-  {
-    "id": "f-1790254711269",
-    "baslik": "ASUS ROG Strix XG27AQWMG 27 İnç 1440p 280Hz Tandem OLED Gaming Monitör",
-    "kategori": "monitor",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 32599,
-    "yeniFiyat": 30749,
-    "indirimOrani": 6,
-    "netKazanc": 1850,
-    "resim": "https://m.media-amazon.com/images/I/91y6Xib14-L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B09CD57PMJ?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790254711270
-  },
-  {
-    "id": "f-1790254701272",
-    "baslik": "ASUS TUF Gaming VG279QM5A 27 İnç 1080p 240Hz Fast IPS Gaming Monitör",
-    "kategori": "monitor",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 8599,
-    "yeniFiyat": 7842,
-    "indirimOrani": 9,
-    "netKazanc": 757,
-    "resim": "https://m.media-amazon.com/images/I/71HCFPTJxAL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0FDBJBG7R?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790254701272
   }
 ]
