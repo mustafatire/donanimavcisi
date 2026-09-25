@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790339048417",
+    "baslik": "Lexar THOR RGB 2nd Gen LD5U16G60C36BV-RGS 16GB (1x16GB) DDR5 6000MHz CL36 Ram (Bellek)",
+    "kategori": "ssd-ram",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 16829,
+    "yeniFiyat": 16136,
+    "indirimOrani": 4,
+    "netKazanc": 693,
+    "resim": "https://m.media-amazon.com/images/I/61Up3AuzATL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0GXC53X3J?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790339048417
+  },
+  {
     "id": "f-1790338148755",
     "baslik": "Afox GeForce GT 740 4GB GDDR5 128Bit DVI/VGA/HDMI Ekran Kartı",
     "kategori": "ekran-karti",
@@ -973,35 +988,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790252720591
-  },
-  {
-    "id": "f-1790252550782",
-    "baslik": "MONTECH King 95 PRO Çift Odacıklı ATX Orta Kule PC Oyun Kasası, Yüksek Hava Akışı, Aletsiz Paneller, Sağlam Kavisli Temperli Cam Ön, Altı ARGB PWM Fan Fan Hub, King 95 PRO Siyah",
-    "kategori": "kasa-psu",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 8999,
-    "yeniFiyat": 7999,
-    "indirimOrani": 11,
-    "netKazanc": 1000,
-    "resim": "https://m.media-amazon.com/images/I/71xyXrE+63L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0CN95G1YL?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790252550782
-  },
-  {
-    "id": "f-1790252540787",
-    "baslik": "Montech XR Cam Panel Oyuncu Kasası Siyah + Alpha 80+ Bronze 850W ATX 3.1 Gen5.1 PSU + 6 Port Fan & ARGB Kontrolcü",
-    "kategori": "kasa-psu",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 5499,
-    "yeniFiyat": 4599,
-    "indirimOrani": 16,
-    "netKazanc": 900,
-    "resim": "https://m.media-amazon.com/images/I/61hNfAMncTL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0H5TQVBPW?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790252540787
   }
 ]
