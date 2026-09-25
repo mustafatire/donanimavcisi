@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790332749818",
+    "baslik": "Section XR1 Kablosuz Oyuncu Mouse, 10000 DPI, RGB Aydınlatma, 6 Tuş, 2.4G + Bluetooth + Kablolu, Type-C Şarjlı",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 899,
+    "yeniFiyat": 839,
+    "indirimOrani": 7,
+    "netKazanc": 60,
+    "resim": "https://m.media-amazon.com/images/I/51o7PZ0p96L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0G15QCPYJ?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790332749819
+  },
+  {
     "id": "f-1790332208198",
     "baslik": "Section XR1 Kablolu Oyuncu Mouse, 12800 DPI, RGB Aydınlatma, 6 Tuş, Ergonomik Tasarım, PC ve Laptop Uyumlu, Gaming Fare Siyah",
     "kategori": "cevre-birimleri",
@@ -958,35 +973,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790247320178
-  },
-  {
-    "id": "f-1790246070536",
-    "baslik": "ASUS ProArt GeForce RTX 5070 Ti 16GB GDDR7 OC Edition Ekran Kartı",
-    "kategori": "ekran-karti",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 95081,
-    "yeniFiyat": 91110,
-    "indirimOrani": 4,
-    "netKazanc": 3971,
-    "resim": "https://m.media-amazon.com/images/I/71ry-dq5kKL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0FQCR9QQZ?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790246070536
-  },
-  {
-    "id": "f-1790246060537",
-    "baslik": "MSI VGA GEFORCE RTX 5070 TI 16G SHADOW 3X OC RTX5070TI 16GB GDRR7 256 B DX12 PCIE 5.0 X16 (3XDP 1XHDMI)",
-    "kategori": "ekran-karti",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 92499,
-    "yeniFiyat": 69149,
-    "indirimOrani": 25,
-    "netKazanc": 23350,
-    "resim": "https://m.media-amazon.com/images/I/719ozZSEaQL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0DZD6QV9L?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790246060537
   }
 ]
