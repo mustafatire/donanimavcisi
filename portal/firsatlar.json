@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790350748996",
+    "baslik": "MSI GeForce RTX 5060TI 16G VENTUS 2X PLUS GDDR7 128Bit DX12 DLSS 4 Gaming (Oyuncu) Ekran Kartı",
+    "kategori": "ekran-karti",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 49999,
+    "yeniFiyat": 47939,
+    "indirimOrani": 4,
+    "netKazanc": 2060,
+    "resim": "https://m.media-amazon.com/images/I/61M3j3SdNQL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0F66ZT88S?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790350748996
+  },
+  {
     "id": "f-1790349668741",
     "baslik": "KIOXIA EXCERIA BASIC 1TB NVMe SSD – M.2 2280, PCIe Gen4 x4, 7200MB/s Okuma, 6600MB/s Yazma",
     "kategori": "ssd-ram",
@@ -988,35 +1003,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790265321144
-  },
-  {
-    "id": "f-1790263880874",
-    "baslik": "Twinmos Ddr5 16GB 5600MHZ CL46 Notebook Ram (TMD516GB5600S46)",
-    "kategori": "ssd-ram",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 12924,
-    "yeniFiyat": 12199,
-    "indirimOrani": 6,
-    "netKazanc": 725,
-    "resim": "https://m.media-amazon.com/images/I/51GJn-HGGWL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0CZRZKTYL?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790263880874
-  },
-  {
-    "id": "f-1790263520366",
-    "baslik": "TwinMOS DDR5 16GB (1x16GB) 6000MHz CL36 Desktop Ram Black Soğutuculu (TMD516GB6000U36B)",
-    "kategori": "ssd-ram",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 14980,
-    "yeniFiyat": 12049,
-    "indirimOrani": 20,
-    "netKazanc": 2931,
-    "resim": "https://m.media-amazon.com/images/I/51fTygvkKEL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0GFNP767S?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790263520366
   }
 ]
