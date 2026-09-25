@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790377568864",
+    "baslik": "Ddr4 16gb 2666mhz Desktop Ram",
+    "kategori": "ssd-ram",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 6999,
+    "yeniFiyat": 5090,
+    "indirimOrani": 27,
+    "netKazanc": 1909,
+    "resim": "https://m.media-amazon.com/images/I/51KdTuF-w9L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B09GFL5FY1?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790377568865
+  },
+  {
     "id": "f-1790370908668",
     "baslik": "Logitech H151 Kablolu Stereo Kulak Üstü Mikrofonlu Kulaklık, 3.5 mm Jak Girişi, Kablo Üzeri Kontrol Özelliği, Siyah",
     "kategori": "cevre-birimleri",
@@ -973,50 +988,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790294047645
-  },
-  {
-    "id": "f-1790290267756",
-    "baslik": "ASUS Prime AP303 TG Beyaz USB 3.2 ATX Mid-Tower Gaming (Oyuncu) Kasa (90DC00V3-B39010)",
-    "kategori": "kasa-psu",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 4422,
-    "yeniFiyat": 3999,
-    "indirimOrani": 10,
-    "netKazanc": 423,
-    "resim": "https://m.media-amazon.com/images/I/81POjAQpxFL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B09CD51F28?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790290267756
-  },
-  {
-    "id": "f-1790287927808",
-    "baslik": "Ayarlanabilir Ekran Kartı Tutucu Asus logolu, Ekran Kartı Destek Aparatı, Gpu 1 Adet",
-    "kategori": "ekran-karti",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 149,
-    "yeniFiyat": 139,
-    "indirimOrani": 7,
-    "netKazanc": 10,
-    "resim": "https://m.media-amazon.com/images/I/61UVP4XkKiL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0F3Z4W5CK?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790287927808
-  },
-  {
-    "id": "f-1790286487445",
-    "baslik": "GIGABYTE B760M DS3H LGA1700 DDR5 7600MHz(OC) PCIe 5.0 M.2 NVMe Gigabit LAN mATX Anakart",
-    "kategori": "anakart",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 6639,
-    "yeniFiyat": 5959,
-    "indirimOrani": 10,
-    "netKazanc": 680,
-    "resim": "https://m.media-amazon.com/images/I/814XaaRDazL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0FBMKG6ZS?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790286487446
   }
 ]
