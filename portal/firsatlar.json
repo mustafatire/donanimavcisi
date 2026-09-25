@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790337068515",
+    "baslik": "Kingston NV3 1TB PCI-Express 4.0 M.2 6000/4000 Mb/s SSD Bellek SNV3S/1000G",
+    "kategori": "ssd-ram",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 8498,
+    "yeniFiyat": 8190,
+    "indirimOrani": 4,
+    "netKazanc": 308,
+    "resim": "https://m.media-amazon.com/images/I/71c5uuoM1bL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0DBR3DZWG?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790337068515
+  },
+  {
     "id": "f-1790336888314",
     "baslik": "GIGABYTE B860 EAGLE WIFI6E LGA1851 DDR5 7200MHz(OC) PCIe 5.0 M.2 WiFi 6E 2.5GbE LAN ATX Anakart",
     "kategori": "anakart",
