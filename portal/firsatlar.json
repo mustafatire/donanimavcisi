@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790338148755",
+    "baslik": "Afox GeForce GT 740 4GB GDDR5 128Bit DVI/VGA/HDMI Ekran Kartı",
+    "kategori": "ekran-karti",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 6527,
+    "yeniFiyat": 5239,
+    "indirimOrani": 20,
+    "netKazanc": 1288,
+    "resim": "https://m.media-amazon.com/images/I/818ecUemXsL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0GGBLLNR8?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790338148755
+  },
+  {
     "id": "f-1790337068515",
     "baslik": "Kingston NV3 1TB PCI-Express 4.0 M.2 6000/4000 Mb/s SSD Bellek SNV3S/1000G",
     "kategori": "ssd-ram",
@@ -988,20 +1003,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790252540787
-  },
-  {
-    "id": "f-1790250740671",
-    "baslik": "GIGABYTE B840M DS3H AMD AM5 mATX ULTRA DURABLE Anakart",
-    "kategori": "anakart",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 8299,
-    "yeniFiyat": 7589,
-    "indirimOrani": 9,
-    "netKazanc": 710,
-    "resim": "https://m.media-amazon.com/images/I/81lKNZntZrL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0DXFZCJSD?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790250740671
   }
 ]
