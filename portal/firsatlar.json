@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790349668741",
+    "baslik": "KIOXIA EXCERIA BASIC 1TB NVMe SSD – M.2 2280, PCIe Gen4 x4, 7200MB/s Okuma, 6600MB/s Yazma",
+    "kategori": "ssd-ram",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 9499,
+    "yeniFiyat": 8999,
+    "indirimOrani": 5,
+    "netKazanc": 500,
+    "resim": "https://m.media-amazon.com/images/I/51y73roEifL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0FXGBHG3N?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790349668742
+  },
+  {
     "id": "f-1790348948804",
     "baslik": "MSI MB MAG B850 TOMAHAWK WIFI AM5 DDR5 8200MHZ(OC) HDMI 3x M.2 USB 20Gbs 5G LAN WI-FI 7 ATX",
     "kategori": "anakart",
@@ -1003,20 +1018,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790263520366
-  },
-  {
-    "id": "f-1790262980624",
-    "baslik": "MSI B550M Pro-Vdh Wifi Am4 Ddr4 4400(Oc) Hdmi Dvg Vga M.2 Usb3.2 Wifi Matx",
-    "kategori": "ssd-ram",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 5291,
-    "yeniFiyat": 4924,
-    "indirimOrani": 7,
-    "netKazanc": 367,
-    "resim": "https://m.media-amazon.com/images/I/81OvzNNZttL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B08BCR4ZRS?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790262980624
   }
 ]
