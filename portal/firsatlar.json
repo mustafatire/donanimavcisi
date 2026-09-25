@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790348948804",
+    "baslik": "MSI MB MAG B850 TOMAHAWK WIFI AM5 DDR5 8200MHZ(OC) HDMI 3x M.2 USB 20Gbs 5G LAN WI-FI 7 ATX",
+    "kategori": "anakart",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 16272,
+    "yeniFiyat": 15469,
+    "indirimOrani": 5,
+    "netKazanc": 803,
+    "resim": "https://m.media-amazon.com/images/I/81SKBZ1sZnL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0FXHHTDW3?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790348948804
+  },
+  {
     "id": "f-1790346248748",
     "baslik": "Havit Gamenote H2037D RGB Gaming Mikrofonlu Oyuncu Kulaklığı 3.5mm Jack",
     "kategori": "cevre-birimleri",
@@ -1003,50 +1018,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790262980624
-  },
-  {
-    "id": "f-1790261900425",
-    "baslik": "Samsung 870 EVO SATA III 2.5\", 500 GB SSD, 560 MB/sn Okuma, 530 MB/sn Yazma , ‎‎‎MZ-77E500BW",
-    "kategori": "ssd-ram",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 8870,
-    "yeniFiyat": 8499,
-    "indirimOrani": 4,
-    "netKazanc": 371,
-    "resim": "https://m.media-amazon.com/images/I/91baxDkqGXL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B08T1QQZ1T?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790261900425
-  },
-  {
-    "id": "f-1790261000227",
-    "baslik": "MSI B650M Project Zero AM5 Soket DDR5 7600(OC) MHz mATX Anakart",
-    "kategori": "anakart",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 10800,
-    "yeniFiyat": 10387,
-    "indirimOrani": 4,
-    "netKazanc": 413,
-    "resim": "https://m.media-amazon.com/images/I/81yDRYDuDNL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0CJYBXKJ8?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790261000227
-  },
-  {
-    "id": "f-1790259920774",
-    "baslik": "AMD Ryzen 5 5500 3.6 GHz AM4 16 MB Cache 65 W Tray Fansız İşlemci",
-    "kategori": "anakart",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 4415,
-    "yeniFiyat": 4199,
-    "indirimOrani": 5,
-    "netKazanc": 216,
-    "resim": "https://m.media-amazon.com/images/I/51IGOpcMiwL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B09XN5RCG5?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790259920774
   }
 ]
