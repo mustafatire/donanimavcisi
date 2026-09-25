@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790305208610",
+    "baslik": "MSI 27\" G274F 1920x1080 (FHD) 16:9 FLAT RAPID IPS 180HZ 1MS Adaptıve-Sync Gaming (Oyuncu) Monitör",
+    "kategori": "monitor",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 6376,
+    "yeniFiyat": 6030,
+    "indirimOrani": 5,
+    "netKazanc": 346,
+    "resim": "https://m.media-amazon.com/images/I/71fUR8jc1sL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B09XTRCCSS?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790305208611
+  },
+  {
     "id": "f-1790303947996",
     "baslik": "Asus ROG Strix LC III 360 ARGB LCD Beyaz 360mm İşlemci Sıvı Soğutucu (90RC00W2-M0UAY0)",
     "kategori": "kasa-psu",
@@ -915,21 +930,6 @@
     "timestamp": 1790242290344
   },
   {
-    "id": "f-1790242280348",
-    "baslik": "MSI 27\" G274F 1920x1080 (FHD) 16:9 FLAT RAPID IPS 180HZ 1MS Adaptıve-Sync Gaming (Oyuncu) Monitör",
-    "kategori": "monitor",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 7780,
-    "yeniFiyat": 6375,
-    "indirimOrani": 18,
-    "netKazanc": 1405,
-    "resim": "https://m.media-amazon.com/images/I/71fUR8jc1sL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B09XTRCCSS?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790242280348
-  },
-  {
     "id": "f-1790241930240",
     "baslik": "Scythe MARK 4 SCKTT-4000 Orijinal Tasarım 12 cm Intel LGA1700, LGA1151, AMD AM5, AM4 Desteği, 120mm Yan Akışlı İşlemci Hava Soğutucusu",
     "kategori": "anakart",
@@ -1288,20 +1288,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790218826887
-  },
-  {
-    "id": "f-1790218466738",
-    "baslik": "Aula SC900 Max PAW3950 Sensör 30000 DPI 8000Hz Kablolu ve Kablosuz Gaming Oyuncu Mouse Kırmızı",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 3030,
-    "yeniFiyat": 2741,
-    "indirimOrani": 10,
-    "netKazanc": 289,
-    "resim": "https://m.media-amazon.com/images/I/618Z8V9JBNL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0FXXBWSXH?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790218466739
   }
 ]
