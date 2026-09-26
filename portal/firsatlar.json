@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790391429035",
+    "baslik": "ASUS ROG Cronox ARGB EATX Full Tower Kılıf",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 35999,
+    "yeniFiyat": 33319,
+    "indirimOrani": 7,
+    "netKazanc": 2680,
+    "resim": "https://m.media-amazon.com/images/I/515ppkUql0L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0HD16QHQD?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790391429035
+  },
+  {
     "id": "f-1790388008922",
     "baslik": "MSI MAG A750GL PCIE5 750W 80+ GOLD POWER SUPPLY",
     "kategori": "kasa-psu",
@@ -943,20 +958,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790305208611
-  },
-  {
-    "id": "f-1790303947996",
-    "baslik": "Asus ROG Strix LC III 360 ARGB LCD Beyaz 360mm İşlemci Sıvı Soğutucu (90RC00W2-M0UAY0)",
-    "kategori": "kasa-psu",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 8037,
-    "yeniFiyat": 7730,
-    "indirimOrani": 4,
-    "netKazanc": 307,
-    "resim": "https://m.media-amazon.com/images/I/71Wx35FLb7L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B09T9BDWPW?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790303947997
   }
 ]
