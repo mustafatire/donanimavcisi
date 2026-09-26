@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790429901888",
+    "baslik": "GIGABYTE ANAKART AMD AM5 ATX X870 A STEALTH",
+    "kategori": "anakart",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 23401,
+    "yeniFiyat": 21035,
+    "indirimOrani": 10,
+    "netKazanc": 2366,
+    "resim": "https://m.media-amazon.com/images/I/71cC1EFECLL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0G6121N27?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790429901888
+  },
+  {
     "id": "f-1790428641447",
     "baslik": "UGREEN M.2 NVME NGFF SSD Muhafaza 10Gbps 2TB",
     "kategori": "ssd-ram",
@@ -688,50 +703,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790344448949
-  },
-  {
-    "id": "f-1790343209060",
-    "baslik": "ASUS TUF Gaming VG279Q5A 27 İnç 1080p 200Hz Fast IPS Gaming Monitör",
-    "kategori": "monitor",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 7249,
-    "yeniFiyat": 6949,
-    "indirimOrani": 4,
-    "netKazanc": 300,
-    "resim": "https://m.media-amazon.com/images/I/71Rsqiwxn-L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0DQDQFLX2?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790343209060
-  },
-  {
-    "id": "f-1790343199058",
-    "baslik": "ASUS ROG Strix XG27AQDPG 27 İnç 1440p 500Hz OLED Gaming Monitör QD-OLED",
-    "kategori": "monitor",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 49199,
-    "yeniFiyat": 45966,
-    "indirimOrani": 7,
-    "netKazanc": 3233,
-    "resim": "https://m.media-amazon.com/images/I/910wwYIBkeL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0BVWCXMLH?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790343199058
-  },
-  {
-    "id": "f-1790343189061",
-    "baslik": "GIGABYTE AORUS FO32U2 31.5\" OLED Oyuncu Monitörü, 4K UHD (3840x2160), 240Hz 0.03ms GTG, Anti-Reflection, HDMI 2.1 & DisplayPort 1.4 USB-C, DisplayHDR True Black400, ClearMR 13000, KVM, Dahili Hoparlör",
-    "kategori": "monitor",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 44045,
-    "yeniFiyat": 40199,
-    "indirimOrani": 9,
-    "netKazanc": 3846,
-    "resim": "https://m.media-amazon.com/images/I/71jkPASMrML._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0CYQD77M5?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790343189061
   }
 ]
