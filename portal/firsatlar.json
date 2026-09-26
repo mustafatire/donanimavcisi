@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790426301308",
+    "baslik": "ASUS PRIME GeForce RTX 5060 8GB GDDR7 OC Edition Gaming Ekran Kartı",
+    "kategori": "ekran-karti",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 27999,
+    "yeniFiyat": 26550,
+    "indirimOrani": 5,
+    "netKazanc": 1449,
+    "resim": "https://m.media-amazon.com/images/I/81naCU3eaAL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0CSFMYN1W?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790426301308
+  },
+  {
     "id": "f-1790423242103",
     "baslik": "Logitech G PRO X SUPERLIGHT 2 SE kablosuz oyun faresi, 5 programlanabilir düğmeli 60 g profesyonel sınıf fare, 44K DPI sensör, 888+ IPS, 1 kHz rapor hızı, PC/Mac için USB-C şarj - Siyah",
     "kategori": "monitor",
@@ -763,65 +778,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790340668330
-  },
-  {
-    "id": "f-1790339048417",
-    "baslik": "Lexar THOR RGB 2nd Gen LD5U16G60C36BV-RGS 16GB (1x16GB) DDR5 6000MHz CL36 Ram (Bellek)",
-    "kategori": "ssd-ram",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 16829,
-    "yeniFiyat": 16136,
-    "indirimOrani": 4,
-    "netKazanc": 693,
-    "resim": "https://m.media-amazon.com/images/I/61Up3AuzATL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0GXC53X3J?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790339048417
-  },
-  {
-    "id": "f-1790338148755",
-    "baslik": "Afox GeForce GT 740 4GB GDDR5 128Bit DVI/VGA/HDMI Ekran Kartı",
-    "kategori": "ekran-karti",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 6527,
-    "yeniFiyat": 5239,
-    "indirimOrani": 20,
-    "netKazanc": 1288,
-    "resim": "https://m.media-amazon.com/images/I/818ecUemXsL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0GGBLLNR8?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790338148755
-  },
-  {
-    "id": "f-1790337068515",
-    "baslik": "Kingston NV3 1TB PCI-Express 4.0 M.2 6000/4000 Mb/s SSD Bellek SNV3S/1000G",
-    "kategori": "ssd-ram",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 8498,
-    "yeniFiyat": 8190,
-    "indirimOrani": 4,
-    "netKazanc": 308,
-    "resim": "https://m.media-amazon.com/images/I/71c5uuoM1bL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0DBR3DZWG?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790337068515
-  },
-  {
-    "id": "f-1790336888314",
-    "baslik": "GIGABYTE B860 EAGLE WIFI6E LGA1851 DDR5 7200MHz(OC) PCIe 5.0 M.2 WiFi 6E 2.5GbE LAN ATX Anakart",
-    "kategori": "anakart",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 14459,
-    "yeniFiyat": 13626,
-    "indirimOrani": 6,
-    "netKazanc": 833,
-    "resim": "https://m.media-amazon.com/images/I/81+1IVs02zL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0DQM7CD8S?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790336888315
   }
 ]
