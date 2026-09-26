@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790428641447",
+    "baslik": "UGREEN M.2 NVME NGFF SSD Muhafaza 10Gbps 2TB",
+    "kategori": "ssd-ram",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 2199,
+    "yeniFiyat": 1869,
+    "indirimOrani": 15,
+    "netKazanc": 330,
+    "resim": "https://m.media-amazon.com/images/I/612DVHojOIL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B09C8DPNZJ?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790428641448
+  },
+  {
     "id": "f-1790427751718",
     "baslik": "MSI PRO X870E-P WIFI AM5 DDR5 8200MHZ(OC) 3X M.2 USB4 GBPS HDMI 5G LAN WIFI 7 RGB ATX",
     "kategori": "anakart",
@@ -718,20 +733,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790343189061
-  },
-  {
-    "id": "f-1790341748961",
-    "baslik": "Cooler Master MasterLiquid 360 L Core ARGB su soğutucu, iki bölmeli Gen S pompalı CPU sıvı soğutucu, 120 mm ARGB fanlı, LGA 1700 ve AM5 tutucular ile üstün bilgisayar soğutması, beyaz",
-    "kategori": "anakart",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 5499,
-    "yeniFiyat": 4999,
-    "indirimOrani": 9,
-    "netKazanc": 500,
-    "resim": "https://m.media-amazon.com/images/I/61qwxfZgcrL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0C28542HV?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790341748961
   }
 ]
