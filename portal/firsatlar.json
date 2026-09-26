@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790454382117",
+    "baslik": "MSI PSU MPG A850G PCIE5 850W 80 PLUS GOLD ACTIVE PFC FULL MODULAR Güç Kaynağı (PSU)",
+    "kategori": "kasa-psu",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 8758,
+    "yeniFiyat": 8443,
+    "indirimOrani": 4,
+    "netKazanc": 315,
+    "resim": "https://m.media-amazon.com/images/I/81RQJMpmjoL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0B4345YV7?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790454382129
+  },
+  {
     "id": "f-1790448621721",
     "baslik": "Glorious PC Gaming Race Oyun Modeli D 2 PRO Kablosuz Oyun Faresi - 2.4GHz Kablosuz 1ms gecikme, 100M tıklama, 60g Ultralight, Uzun Pil Ömrü, 26K DPI BAMF 2.0 Sensör, Ergonomik, 6 Düğme, PTFE Ayaklar…",
     "kategori": "cevre-birimleri",
@@ -478,20 +493,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790369828568
-  },
-  {
-    "id": "f-1790366228818",
-    "baslik": "MONTECH HS02 PRO, ATX Mid-Tower PC Kasası, Oyun Bilgisayarı, Yüksek Hava Akışı, Ters Çevrilebilir Düzen, Sağlam Kavisli Temperli Cam Ön Panel, 5x ARGB PWM Fan Önceden Yüklenmiş, Gömme Tasarım, Beyaz",
-    "kategori": "kasa-psu",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 7499,
-    "yeniFiyat": 5849,
-    "indirimOrani": 22,
-    "netKazanc": 1650,
-    "resim": "https://m.media-amazon.com/images/I/81FSVUCDR5L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0F6CPSQ9N?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790366228819
   }
 ]
