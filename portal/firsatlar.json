@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790467162052",
+    "baslik": "GIGABYTE VGA NVIDIA 16GB GDDR7 RTX5080 AERO OC SFF GV-N5080AERO OC-16GD",
+    "kategori": "ekran-karti",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 115000,
+    "yeniFiyat": 98949,
+    "indirimOrani": 14,
+    "netKazanc": 16051,
+    "resim": "https://m.media-amazon.com/images/I/71SU2rvRJ4L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0DSQ3B6PH?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790467162053
+  },
+  {
     "id": "f-1790461401768",
     "baslik": "SteelSeries CS2 Dragon Lore Counter-Strike Wireless Gaming Mouse - 2.4GHz & Bluetooth — 18.000 DPI TrueMove Air Optik Sensör",
     "kategori": "cevre-birimleri",
@@ -433,20 +448,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790382248854
-  },
-  {
-    "id": "f-1790377568864",
-    "baslik": "Ddr4 16gb 2666mhz Desktop Ram",
-    "kategori": "ssd-ram",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 6999,
-    "yeniFiyat": 5090,
-    "indirimOrani": 27,
-    "netKazanc": 1909,
-    "resim": "https://m.media-amazon.com/images/I/51KdTuF-w9L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B09GFL5FY1?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790377568865
   }
 ]
