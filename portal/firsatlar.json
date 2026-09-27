@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790523503351",
+    "baslik": "ATTACK SHARK K85 Mekanik Klavye – 75% Kompakt Tasarım, Manyetik Anahtarlar, Ayarlanabilir Tepki Süresi, RGB Işık, Döner Kontrol Tuşu, DKS/MT/TGL Destekli, PC/Mac Uyumlu - Blue",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 4166,
+    "yeniFiyat": 3833,
+    "indirimOrani": 8,
+    "netKazanc": 333,
+    "resim": "https://m.media-amazon.com/images/I/612APtl0sKL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0FXBM3HLP?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790523503352
+  },
+  {
     "id": "f-1790521163126",
     "baslik": "Antec C5 ARGB Beyaz, 4 x 120mm ARGB PWM Fan Dahil, Temperli Cam, Tip-C 3.2, Mid-Tower ATX Oyuncu Kasası",
     "kategori": "kasa-psu",
@@ -253,20 +268,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790442681553
-  },
-  {
-    "id": "f-1790435302050",
-    "baslik": "Asus TUF Gaming K1 RGB Mekanik Hisli Kablolu Gaming (Oyuncu) Klavye",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 2031,
-    "yeniFiyat": 1929,
-    "indirimOrani": 5,
-    "netKazanc": 102,
-    "resim": "https://m.media-amazon.com/images/I/51hLp0J6I5L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B08T1PFXCN?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790435302050
   }
 ]
