@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790535202683",
+    "baslik": "Dell AW3425DWM 34 3440x1440 WQHD 180Hz 1ms HDMI DP FreeSync Premium HDR 400 Curved Gaming Monitor",
+    "kategori": "monitor",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 16459,
+    "yeniFiyat": 15759,
+    "indirimOrani": 4,
+    "netKazanc": 700,
+    "resim": "https://m.media-amazon.com/images/I/61o+WjV6DCL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0F9X62LX7?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790535202684
+  },
+  {
     "id": "f-1790525123483",
     "baslik": "Hawk Gaming HS420 7.1 Surround Tri-Mode Kablosuz/Bluetooth Oyuncu Kulaklığı (Siyah)",
     "kategori": "cevre-birimleri",
@@ -223,65 +238,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790454382129
-  },
-  {
-    "id": "f-1790448621721",
-    "baslik": "Glorious PC Gaming Race Oyun Modeli D 2 PRO Kablosuz Oyun Faresi - 2.4GHz Kablosuz 1ms gecikme, 100M tıklama, 60g Ultralight, Uzun Pil Ömrü, 26K DPI BAMF 2.0 Sensör, Ergonomik, 6 Düğme, PTFE Ayaklar…",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 4549,
-    "yeniFiyat": 3771,
-    "indirimOrani": 17,
-    "netKazanc": 778,
-    "resim": "https://m.media-amazon.com/images/I/61+-MIorK8L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0CJ5W7G41?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790448621721
-  },
-  {
-    "id": "f-1790446822788",
-    "baslik": "BenQ Zowie XL2586X+ 24,1'' 600Hz FHD 3xHDMI DP New Fast TN DyAc 2 S-Switch E Spor Oyun Monitör",
-    "kategori": "monitor",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 58999,
-    "yeniFiyat": 56900,
-    "indirimOrani": 4,
-    "netKazanc": 2099,
-    "resim": "https://m.media-amazon.com/images/I/71MM9UPhhbL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0DMVF934B?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790446822788
-  },
-  {
-    "id": "f-1790445201533",
-    "baslik": "ROG-STRIX-1000P-GAMING-WHITE",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 15919,
-    "yeniFiyat": 11745,
-    "indirimOrani": 26,
-    "netKazanc": 4174,
-    "resim": "https://m.media-amazon.com/images/I/81c7WbP7A8L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0DZPCGF7T?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790445201546
-  },
-  {
-    "id": "f-1790442681553",
-    "baslik": "ASRock X670E PG Lightning ATX Anakart AMD AM5 Ryzen 8000 ve 7000, DDR5, 4x M.2 SSD, 4K 120Hz, AMD Expo, USB Type-C",
-    "kategori": "anakart",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 11579,
-    "yeniFiyat": 10421,
-    "indirimOrani": 10,
-    "netKazanc": 1158,
-    "resim": "https://m.media-amazon.com/images/I/71uh-nSW6vL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0BGPH2LQJ?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790442681553
   }
 ]
