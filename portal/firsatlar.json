@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790521163126",
+    "baslik": "Antec C5 ARGB Beyaz, 4 x 120mm ARGB PWM Fan Dahil, Temperli Cam, Tip-C 3.2, Mid-Tower ATX Oyuncu Kasası",
+    "kategori": "kasa-psu",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 8169,
+    "yeniFiyat": 7699,
+    "indirimOrani": 6,
+    "netKazanc": 470,
+    "resim": "https://m.media-amazon.com/images/I/713S6OqZ+YL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0CWTPC32W?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790521163127
+  },
+  {
     "id": "f-1790515042868",
     "baslik": "AMD Ryzen 7 5700 Tray İşlemci, 4.60GHz, 16MB Önbellek, AM4 Soket, Kutusuz Fansız",
     "kategori": "anakart",
@@ -253,50 +268,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790435302050
-  },
-  {
-    "id": "f-1790433862103",
-    "baslik": "Segotep BeVere 360 ARGB Beyaz Sıvı İşlemci Soğutucusu (AM5 ve LGA1700 Uyumlu)",
-    "kategori": "anakart",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 4279,
-    "yeniFiyat": 3299,
-    "indirimOrani": 23,
-    "netKazanc": 980,
-    "resim": "https://m.media-amazon.com/images/I/51SYNw9p2gL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0G8LFV4N6?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790433862104
-  },
-  {
-    "id": "f-1790433681670",
-    "baslik": "Dark DKCCA90 AM4 Ryzen Uyumlu İşlemci Soğutucu (DKCCA90)",
-    "kategori": "anakart",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 349,
-    "yeniFiyat": 319,
-    "indirimOrani": 9,
-    "netKazanc": 30,
-    "resim": "https://m.media-amazon.com/images/I/51sxablc-3L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B09J55THX2?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790433681671
-  },
-  {
-    "id": "f-1790429901888",
-    "baslik": "GIGABYTE ANAKART AMD AM5 ATX X870 A STEALTH",
-    "kategori": "anakart",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 23401,
-    "yeniFiyat": 21035,
-    "indirimOrani": 10,
-    "netKazanc": 2366,
-    "resim": "https://m.media-amazon.com/images/I/71cC1EFECLL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0G6121N27?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790429901888
   }
 ]
