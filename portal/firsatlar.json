@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790499023111",
+    "baslik": "Logitech G PRO X Superlight 2C Kablosuz Oyuncu Mouse, Hafif, Hero 2 Sensör, 44.000 DPI, Siyah",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 6239,
+    "yeniFiyat": 6000,
+    "indirimOrani": 4,
+    "netKazanc": 239,
+    "resim": "https://m.media-amazon.com/images/I/51yIx9LUTFL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0FLFCBWTJ?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790499023112
+  },
+  {
     "id": "f-1790491102914",
     "baslik": "MSI MB PRO H610M-E SOKET 1700 DDR5 5600MHZ(OC) HDMI VGA M.2 USB3.2 1x 1G LAN mATX",
     "kategori": "anakart",
@@ -358,50 +373,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790414241170
-  },
-  {
-    "id": "f-1790409562093",
-    "baslik": "Samsung M7 M70F LS43FM700UUXUF 43\" VA 4K 60 Hz 4 ms Smart Monitör",
-    "kategori": "monitor",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 15499,
-    "yeniFiyat": 14929,
-    "indirimOrani": 4,
-    "netKazanc": 570,
-    "resim": "https://m.media-amazon.com/images/I/71svTaFafuL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0FFGZP3WZ?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790409562094
-  },
-  {
-    "id": "f-1790407581540",
-    "baslik": "MSI MAG A1000GL PCIE5 II Güç Kaynağı, 1000W, 80 PLUS Gold, ATX 3.1, PCIe 5.1, Tam Modüler, 135mm Fan",
-    "kategori": "kasa-psu",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 8999,
-    "yeniFiyat": 8499,
-    "indirimOrani": 6,
-    "netKazanc": 500,
-    "resim": "https://m.media-amazon.com/images/I/61zEhjpm+NL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0C61R6FD3?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790407581541
-  },
-  {
-    "id": "f-1790407221741",
-    "baslik": "MSI MAG PANO M100R PZ Temperli Cam 3x120mm 1x120mm ARGB Fan 650W Bronz mATX Panoramik Bilgisayar Kasası",
-    "kategori": "ssd-ram",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 7199,
-    "yeniFiyat": 6539,
-    "indirimOrani": 9,
-    "netKazanc": 660,
-    "resim": "https://m.media-amazon.com/images/I/61rbXvbb3HL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0DQD26MC6?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790407221742
   }
 ]
