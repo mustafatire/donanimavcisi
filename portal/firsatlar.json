@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790580576127",
+    "baslik": "ASUS ProArt GeForce RTX 5070 Ti 16GB GDDR7 OC Edition Ekran Kartı",
+    "kategori": "ekran-karti",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 95081,
+    "yeniFiyat": 91110,
+    "indirimOrani": 4,
+    "netKazanc": 3971,
+    "resim": "https://m.media-amazon.com/images/I/71ry-dq5kKL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0FQCR9QQZ?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790580576127
+  },
+  {
     "id": "f-1790575895756",
     "baslik": "SteelSeries Arctis Nova 3P Wireless Lavender Gaming Kulaklık - Mobil Uygulama ile Kontrol - 40 Saat Pil Ömrü -PS5, PS4, PC, Switch, Mobil Uyumlu",
     "kategori": "cevre-birimleri",
@@ -208,20 +223,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790499023112
-  },
-  {
-    "id": "f-1790491102914",
-    "baslik": "MSI MB PRO H610M-E SOKET 1700 DDR5 5600MHZ(OC) HDMI VGA M.2 USB3.2 1x 1G LAN mATX",
-    "kategori": "anakart",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 2399,
-    "yeniFiyat": 2204,
-    "indirimOrani": 8,
-    "netKazanc": 195,
-    "resim": "https://m.media-amazon.com/images/I/81wZP-QhheL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0CC9G49JQ?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790491102914
   }
 ]
