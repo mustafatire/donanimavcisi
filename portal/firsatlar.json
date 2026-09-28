@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790622718429",
+    "baslik": "Oral-B iO3 Siyah Şarjlı/Elektrikli Diş Fırçası, 1 Fırça Başlığı, Uzun Ömürlü Pil, Seyahat Kabı",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 8299,
+    "yeniFiyat": 4536,
+    "indirimOrani": 45,
+    "netKazanc": 3763,
+    "resim": "https://m.media-amazon.com/images/I/7170Ps-P--L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0GQC6KZMG?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790622718430
+  },
+  {
     "id": "f-1790621817555",
     "baslik": "Tefal GV9230 Pro Express Protect Buhar Kazanlı Ütü |140gr | 2600W | 560gr Şok Buhar | Kireç Önleyici",
     "kategori": "cevre-birimleri",
@@ -643,20 +658,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790536643155
-  },
-  {
-    "id": "f-1790536103719",
-    "baslik": "Redragon K630W-RGB Dragonborn Blue Switch%60 TR Q Beyaz Mekanik Kablolu Gaming (Oyuncu) Klavye",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 1402,
-    "yeniFiyat": 1279,
-    "indirimOrani": 9,
-    "netKazanc": 123,
-    "resim": "https://m.media-amazon.com/images/I/61QdxnvTh+L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0DJQZPZRW?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790536103720
   }
 ]
