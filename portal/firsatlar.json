@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790609556006",
+    "baslik": "Corsair Nautilus 360 RS LCD Sıvı CPU Soğutucu - 2,1 inç IPS LCD Ekran, 360 mm AIO, Düşük Gürültülü, Papatya Zinciri, Intel LGA 1851/1700, AMD AM5/AM4-3X RS120 Fanlar Dahil - Siyah",
+    "kategori": "anakart",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 7664,
+    "yeniFiyat": 7177,
+    "indirimOrani": 6,
+    "netKazanc": 487,
+    "resim": "https://m.media-amazon.com/images/I/71XVdDyqthL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0FGDJ3QP1?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790609556009
+  },
+  {
     "id": "f-1790605416228",
     "baslik": "Cooler Master MWE V2 750W 80+ Bronze 2xEPS, Aktif PFC, 120mm Fanlı PSU (MPE-7501-ACABW-BEU)",
     "kategori": "kasa-psu",
@@ -598,20 +613,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790523503352
-  },
-  {
-    "id": "f-1790521163126",
-    "baslik": "Antec C5 ARGB Beyaz, 4 x 120mm ARGB PWM Fan Dahil, Temperli Cam, Tip-C 3.2, Mid-Tower ATX Oyuncu Kasası",
-    "kategori": "kasa-psu",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 8169,
-    "yeniFiyat": 7699,
-    "indirimOrani": 6,
-    "netKazanc": 470,
-    "resim": "https://m.media-amazon.com/images/I/713S6OqZ+YL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0CWTPC32W?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790521163127
   }
 ]
