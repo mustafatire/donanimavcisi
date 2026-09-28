@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790605056414",
+    "baslik": "MSI SSD SPATIUM M461 NVME M.2 2TB NVMe M.2 2TB R:5000 W:4200",
+    "kategori": "ssd-ram",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 16423,
+    "yeniFiyat": 15764,
+    "indirimOrani": 4,
+    "netKazanc": 659,
+    "resim": "https://m.media-amazon.com/images/I/71H07m+44GL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0BTPH7YZM?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790605056414
+  },
+  {
     "id": "f-1790604875665",
     "baslik": "WD Blue SN5100 NVME™ 1TB M.2 2280",
     "kategori": "ssd-ram",
