@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790609915912",
+    "baslik": "Dark Freezer W247W 2025 Edition 240mm 2x12cm FRGB LED Fan + Pompa, 250W TDP, LGA1700 - AM5 Uyumlu Beyaz Sıvı Soğutma Sistemi (DKCCW247W)",
+    "kategori": "anakart",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 2499,
+    "yeniFiyat": 2299,
+    "indirimOrani": 8,
+    "netKazanc": 200,
+    "resim": "https://m.media-amazon.com/images/I/41SmaUniViL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0DPL67R74?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790609915912
+  },
+  {
     "id": "f-1790609556006",
     "baslik": "Corsair Nautilus 360 RS LCD Sıvı CPU Soğutucu - 2,1 inç IPS LCD Ekran, 360 mm AIO, Düşük Gürültülü, Papatya Zinciri, Intel LGA 1851/1700, AMD AM5/AM4-3X RS120 Fanlar Dahil - Siyah",
     "kategori": "anakart",
@@ -598,20 +613,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790525123483
-  },
-  {
-    "id": "f-1790523503351",
-    "baslik": "ATTACK SHARK K85 Mekanik Klavye – 75% Kompakt Tasarım, Manyetik Anahtarlar, Ayarlanabilir Tepki Süresi, RGB Işık, Döner Kontrol Tuşu, DKS/MT/TGL Destekli, PC/Mac Uyumlu - Blue",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 4166,
-    "yeniFiyat": 3833,
-    "indirimOrani": 8,
-    "netKazanc": 333,
-    "resim": "https://m.media-amazon.com/images/I/612APtl0sKL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0FXBM3HLP?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790523503352
   }
 ]
