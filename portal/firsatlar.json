@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790672757926",
+    "baslik": "512GB Dual USB-A/C Portable SSD, Up to 1050MB/s USB 3.2 Gen 2 SPSD/512GB",
+    "kategori": "ssd-ram",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 7499,
+    "yeniFiyat": 5819,
+    "indirimOrani": 22,
+    "netKazanc": 1680,
+    "resim": "https://m.media-amazon.com/images/I/61REpmyOmoL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0FXY6CZ2Q?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790672757927
+  },
+  {
     "id": "f-1790671867657",
     "baslik": "Philips i9000 SkinIQ Islak ve Kuru Tıraş Makinesi, 360° Hassas Başlıklar, Yapay Zeka Destekli, Temizleme Ünitesi ve Seyahat Çantası Hediyeli, X9002/30",
     "kategori": "monitor",
@@ -973,35 +988,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790587055637
-  },
-  {
-    "id": "f-1790585795463",
-    "baslik": "MSI MAG 27C6X 1ms 250Hz Adaptive-Sync VA Curved Full HD Gaming (Oyuncu) Monitör",
-    "kategori": "monitor",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 7469,
-    "yeniFiyat": 7139,
-    "indirimOrani": 4,
-    "netKazanc": 330,
-    "resim": "https://m.media-amazon.com/images/I/71GpvfAuraL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0D2NTSXLH?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790585795464
-  },
-  {
-    "id": "f-1790585615877",
-    "baslik": "MSI 23.8 MAG 245F X24, Gaming Monitör, FHD, 16:9, Flat, Rapid IPS, 240Hz, 0.5ms (GtG Min.), FreeSync Premium",
-    "kategori": "monitor",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 7432,
-    "yeniFiyat": 6299,
-    "indirimOrani": 15,
-    "netKazanc": 1133,
-    "resim": "https://m.media-amazon.com/images/I/81RB8nh4YiL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B096Y4JT1G?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790585615878
   }
 ]
