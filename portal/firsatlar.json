@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790662317325",
+    "baslik": "POWERTEC TR-901 Profesyonel Fön Makinesi & Saç Kurutma Makinesi",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 1079,
+    "yeniFiyat": 1029,
+    "indirimOrani": 5,
+    "netKazanc": 50,
+    "resim": "https://m.media-amazon.com/images/I/51eZvmovcUL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B07PZHZY4V?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790662317325
+  },
+  {
     "id": "f-1790653677592",
     "baslik": "Logitech G G102 Kablolu Oyuncu Mouse, LIGHTSYNC RGB Aydınlatma, 8.000 DPI, 6 Programlanabilir Tuş, Siyah",
     "kategori": "ssd-ram",
@@ -913,35 +928,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790580576127
-  },
-  {
-    "id": "f-1790575895756",
-    "baslik": "SteelSeries Arctis Nova 3P Wireless Lavender Gaming Kulaklık - Mobil Uygulama ile Kontrol - 40 Saat Pil Ömrü -PS5, PS4, PC, Switch, Mobil Uyumlu",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 5999,
-    "yeniFiyat": 4999,
-    "indirimOrani": 17,
-    "netKazanc": 1000,
-    "resim": "https://m.media-amazon.com/images/I/716dMIziOkL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0F5GMVC8S?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790575895757
-  },
-  {
-    "id": "f-1790574456411",
-    "baslik": "Claw's Nexus X1 12800 Dpi Makro Yazılımlı & Değiştirilebilir Kapaklı RGB Gaming Mouse - Siyah",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 399,
-    "yeniFiyat": 359,
-    "indirimOrani": 10,
-    "netKazanc": 40,
-    "resim": "https://m.media-amazon.com/images/I/61vwH-h47kL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0D6VYYHJ5?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790574456412
   }
 ]
