@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790668078452",
+    "baslik": "Karcher Vc 7 Cordless Yourmax Şarjlı Dikey Süpürge",
+    "kategori": "cevre-birimleri",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 24418,
+    "yeniFiyat": 21732,
+    "indirimOrani": 11,
+    "netKazanc": 2686,
+    "resim": "https://m.media-amazon.com/images/I/61zbfO9L-GL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0DPXK1DXM?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790668078453
+  },
+  {
     "id": "f-1790666817504",
     "baslik": "Homend Airfryday 2508H Siyah Rose",
     "kategori": "cevre-birimleri",
@@ -943,20 +958,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790582376394
-  },
-  {
-    "id": "f-1790580576127",
-    "baslik": "ASUS ProArt GeForce RTX 5070 Ti 16GB GDDR7 OC Edition Ekran Kartı",
-    "kategori": "ekran-karti",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 95081,
-    "yeniFiyat": 91110,
-    "indirimOrani": 4,
-    "netKazanc": 3971,
-    "resim": "https://m.media-amazon.com/images/I/71ry-dq5kKL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0FQCR9QQZ?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790580576127
   }
 ]
