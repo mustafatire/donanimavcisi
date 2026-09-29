@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790669338286",
+    "baslik": "WMF Lono Tost Makinesi, 2 Standart veya XXL Tost Kapasiteli, 2 Kademeli Yükseklik Ayarlı, Mat Paslanmaz Çelik",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 7725,
+    "yeniFiyat": 7359,
+    "indirimOrani": 5,
+    "netKazanc": 366,
+    "resim": "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_UL80_.gif",
+    "link": "https://www.amazon.com.tr/dp/B01IVDXVM6?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790669338287
+  },
+  {
     "id": "f-1790669158059",
     "baslik": "Chermik Crwn Elektrikli Çay Makinesi Çelik Çaydanlık Takımı Su Isıtıcı Türk Çayı 1800W",
     "kategori": "cevre-birimleri",
@@ -943,20 +958,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790583995180
-  },
-  {
-    "id": "f-1790582916015",
-    "baslik": "Colorful CN600 512GB 3200/2000MB/s M.2 NVMe SSD Disk",
-    "kategori": "ssd-ram",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 5359,
-    "yeniFiyat": 5052,
-    "indirimOrani": 6,
-    "netKazanc": 307,
-    "resim": "https://m.media-amazon.com/images/I/513AnPHtU+L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B08SK9JHZJ?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790582916016
   }
 ]
