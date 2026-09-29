@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790689678698",
+    "baslik": "Hava Temizleyici Kompakt Tasarım ve Güçlü Filtreleme Özellikli",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 14504,
+    "yeniFiyat": 9993,
+    "indirimOrani": 31,
+    "netKazanc": 4511,
+    "resim": "https://m.media-amazon.com/images/I/61LnVuxwvlL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0HJ5BLYVL?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790689678698
+  },
+  {
     "id": "f-1790688958735",
     "baslik": "BergHOFF Gem Titan Izgara & Tost Makinesi – 2000 W, 340×240 mm, LCD Dokunmatik Kontrol",
     "kategori": "cevre-birimleri",
@@ -883,20 +898,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790604875665
-  },
-  {
-    "id": "f-1790602895951",
-    "baslik": "ASRock AMD Radeon RX 9060 XT Steel Legend 8GB OC 8GB ARGB Ekran Kartı - 8GB GDDR6, 128-bit, AMD RDNA 4, 1x HDMI, 2x DisplayPort 2.1a, 1x HDMI 2.1b, AMD HYPR-RX",
-    "kategori": "ekran-karti",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 26874,
-    "yeniFiyat": 25463,
-    "indirimOrani": 5,
-    "netKazanc": 1411,
-    "resim": "https://m.media-amazon.com/images/I/61M3P6-zLgL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0F8B462JH?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790602895951
   }
 ]
