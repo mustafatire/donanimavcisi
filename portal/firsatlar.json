@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790669158059",
+    "baslik": "Chermik Crwn Elektrikli Çay Makinesi Çelik Çaydanlık Takımı Su Isıtıcı Türk Çayı 1800W",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 1395,
+    "yeniFiyat": 1298,
+    "indirimOrani": 7,
+    "netKazanc": 97,
+    "resim": "https://m.media-amazon.com/images/I/51lSabZim2L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0G2C49S8D?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790669158060
+  },
+  {
     "id": "f-1790668078452",
     "baslik": "Karcher Vc 7 Cordless Yourmax Şarjlı Dikey Süpürge",
     "kategori": "cevre-birimleri",
@@ -943,20 +958,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790582916016
-  },
-  {
-    "id": "f-1790582376394",
-    "baslik": "XPG ADATA AX4U32008G16A-SBKD35G 8GB 3200Mhz DDR4 SPECTRIX D35G RGB BLACK PC Bellek",
-    "kategori": "ssd-ram",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 5500,
-    "yeniFiyat": 4892,
-    "indirimOrani": 11,
-    "netKazanc": 608,
-    "resim": "https://m.media-amazon.com/images/I/61GVMyoBZvL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0C6HX2KWT?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790582376394
   }
 ]
