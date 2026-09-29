@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790702098393",
+    "baslik": "WD Elements Portable Taşınabilir Disk, 2 TB, HDD",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 6199,
+    "yeniFiyat": 5799,
+    "indirimOrani": 6,
+    "netKazanc": 400,
+    "resim": "https://m.media-amazon.com/images/I/61EunJBqIkL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B06W55K9N6?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790702098394
+  },
+  {
     "id": "f-1790701018039",
     "baslik": "Philips i9000 Ultra Prestige Islak ve Kuru Tıraş Makinesi, SkinIQ Pro, 360° Hassas Başlıklar, Şarj Standı, Temizleme Ünitesi ve Seyahat Çantası Hediyeli, XP9402/31",
     "kategori": "monitor",
@@ -913,20 +928,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790621458041
-  },
-  {
-    "id": "f-1790615338681",
-    "baslik": "Spigen Audio TWS P20 Bluetooth Kablosuz Kulaklık - ANC Pro Aktif Gürültü Engelleme & 10mm Graphene Sürücü & 30 Saat & ENC 6 Mikrofon & Şeffaf & Gaming Mod iPX5 Black - ASD07888",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 1399,
-    "yeniFiyat": 1189,
-    "indirimOrani": 15,
-    "netKazanc": 210,
-    "resim": "https://m.media-amazon.com/images/I/51V04y8dKSL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0DGX3GMJY?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790615338682
   }
 ]
