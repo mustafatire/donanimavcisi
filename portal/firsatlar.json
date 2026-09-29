@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790710415874",
+    "baslik": "Philips Sonicare Premium Plaque Defence Yedek Başlık, 10 Kat Daha Fazla Plak Temizliği, Yumuşak Fırça Başlığı, 2’li Paket, Beyaz, HX9042/87",
+    "kategori": "monitor",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 1099,
+    "yeniFiyat": 999,
+    "indirimOrani": 9,
+    "netKazanc": 100,
+    "resim": "https://m.media-amazon.com/images/I/61tiaHtkjBL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0DHZR8CM2?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790710415874
+  },
+  {
     "id": "f-1790709696734",
     "baslik": "Philips Psg9050/20 Perfectcare Activesense 3100 W Buhar Kazanlı Ütü",
     "kategori": "monitor",
@@ -958,35 +973,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790625058013
-  },
-  {
-    "id": "f-1790623977351",
-    "baslik": "SJCAM M60 3 Kameralı Ön+İç+Arka 4K+FHD+FHD HDR Sony Starvis 2 Sensörlü WiFi GPS'li Araç Kamerası",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 11491,
-    "yeniFiyat": 10342,
-    "indirimOrani": 10,
-    "netKazanc": 1149,
-    "resim": "https://m.media-amazon.com/images/I/617GUqQ0J-L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0DJ1D44S7?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790623977351
-  },
-  {
-    "id": "f-1790623437682",
-    "baslik": "Grundig Hd 3361 Saç Kurutma Makinesi Siyah",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 999,
-    "yeniFiyat": 899,
-    "indirimOrani": 10,
-    "netKazanc": 100,
-    "resim": "https://m.media-amazon.com/images/I/31DpNNtO7oL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0H4ZD9Q3R?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790623437683
   }
 ]
