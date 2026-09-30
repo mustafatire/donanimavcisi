@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790726976756",
+    "baslik": "Nespresso D 140 Citiz Platinum, Paslanmaz Çelik Kahve Makinesi",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 13956,
+    "yeniFiyat": 13288,
+    "indirimOrani": 5,
+    "netKazanc": 668,
+    "resim": "https://m.media-amazon.com/images/I/61Y7omxAqiL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0C46STQ74?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790726976756
+  },
+  {
     "id": "f-1790723916923",
     "baslik": "Outdoor 30 W taşınabilir Bluetooth hoparlör .Toz ve suya dayanıklı IP67, Mavi (Xiaomi Türkiye Garantili)",
     "kategori": "cevre-birimleri",
@@ -898,35 +913,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790646658278
-  },
-  {
-    "id": "f-1790639458407",
-    "baslik": "KARACA Hatır Hüp Düet Aroma Türk Kahve Makinesi Rosegold",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 3999,
-    "yeniFiyat": 3760,
-    "indirimOrani": 6,
-    "netKazanc": 239,
-    "resim": "https://m.media-amazon.com/images/I/61vL5pxv4eL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0DJF6L1BN?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790639458407
-  },
-  {
-    "id": "f-1790637837795",
-    "baslik": "Ninja CRISPi 4-in-1 Taşınabilir Cam Hazneli Pişirme Sistemi - Blue FN101EUGY",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 12999,
-    "yeniFiyat": 10491,
-    "indirimOrani": 19,
-    "netKazanc": 2508,
-    "resim": "https://m.media-amazon.com/images/I/71G-LfC4hQL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0F99K7DS9?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790637837796
   }
 ]
