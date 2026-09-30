@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790777917770",
+    "baslik": "AR5176 SateenTouch IPL Lazer Epilasyon, 999.999 Atım, Evde Tüy Alma, Soğutmalı, 5 Kademe, Otomatik Mod",
+    "kategori": "kasa-psu",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 3999,
+    "yeniFiyat": 3788,
+    "indirimOrani": 5,
+    "netKazanc": 211,
+    "resim": "https://m.media-amazon.com/images/I/61Pu9NMkwhL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0H4J6TJHN?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790777917770
+  },
+  {
     "id": "f-1790775587741",
     "baslik": "De'Longhi COMBI KAHVE MAK BCO421.S, Gümüş/Siyah",
     "kategori": "cevre-birimleri",
@@ -238,21 +253,6 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790758836293
-  },
-  {
-    "id": "f-1790758486672",
-    "baslik": "AR5176 SateenTouch IPL Lazer Epilasyon, 999.999 Atım, Evde Tüy Alma, Soğutmalı, 5 Kademe, Otomatik Mod",
-    "kategori": "kasa-psu",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 3999,
-    "yeniFiyat": 3788,
-    "indirimOrani": 5,
-    "netKazanc": 211,
-    "resim": "https://m.media-amazon.com/images/I/61Pu9NMkwhL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0H4J6TJHN?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790758486673
   },
   {
     "id": "f-1790758476678",
@@ -943,50 +943,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790692558775
-  },
-  {
-    "id": "f-1790690578263",
-    "baslik": "Kaş Bıyık Tüy Epilasyon Aleti Pilli Yüz Kaş Epilatör Kıl Tüy Alma Epilasyon",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 1385,
-    "yeniFiyat": 1209,
-    "indirimOrani": 13,
-    "netKazanc": 176,
-    "resim": "https://m.media-amazon.com/images/I/61r4kXjxGbL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0HJHQ3P6N?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790690578273
-  },
-  {
-    "id": "f-1790690219065",
-    "baslik": "Tefal GV9230 Pro Express Protect Buhar Kazanlı Ütü |140gr | 2600W | 560gr Şok Buhar | Kireç Önleyici",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 13900,
-    "yeniFiyat": 12799,
-    "indirimOrani": 8,
-    "netKazanc": 1101,
-    "resim": "https://m.media-amazon.com/images/I/51PZyBLXj4L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B08PKQ3H2T?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790690219065
-  },
-  {
-    "id": "f-1790689678698",
-    "baslik": "Hava Temizleyici Kompakt Tasarım ve Güçlü Filtreleme Özellikli",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 14504,
-    "yeniFiyat": 9993,
-    "indirimOrani": 31,
-    "netKazanc": 4511,
-    "resim": "https://m.media-amazon.com/images/I/61LnVuxwvlL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0HJ5BLYVL?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790689678698
   }
 ]
