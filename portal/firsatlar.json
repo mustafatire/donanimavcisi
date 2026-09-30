@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790755956682",
+    "baslik": "Philips 5000 Serisi Türk Kahvesi Makinesi, Közde Türk Kahvesi Pişirme Fonksiyonu, Kullanımı Kolay Dokunmatik Tuşlar Siyah & Bakır, HDA150/60",
+    "kategori": "monitor",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 1994,
+    "yeniFiyat": 1889,
+    "indirimOrani": 5,
+    "netKazanc": 105,
+    "resim": "https://m.media-amazon.com/images/I/51BqkH3uZQL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0CNW7VGW4?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790755956682
+  },
+  {
     "id": "f-1790754156667",
     "baslik": "Patriot LX Series High Speed Micro SDXC Class 10 UHS-I en fazla 70 MB/s aktarma hızları - parent ASIN 64 GB Siyah PSF64GMCSDXC10",
     "kategori": "cevre-birimleri",
@@ -1018,50 +1033,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790670597857
-  },
-  {
-    "id": "f-1790669338286",
-    "baslik": "WMF Lono Tost Makinesi, 2 Standart veya XXL Tost Kapasiteli, 2 Kademeli Yükseklik Ayarlı, Mat Paslanmaz Çelik",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 7725,
-    "yeniFiyat": 7359,
-    "indirimOrani": 5,
-    "netKazanc": 366,
-    "resim": "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_UL80_.gif",
-    "link": "https://www.amazon.com.tr/dp/B01IVDXVM6?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790669338287
-  },
-  {
-    "id": "f-1790669158059",
-    "baslik": "Chermik Crwn Elektrikli Çay Makinesi Çelik Çaydanlık Takımı Su Isıtıcı Türk Çayı 1800W",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 1395,
-    "yeniFiyat": 1298,
-    "indirimOrani": 7,
-    "netKazanc": 97,
-    "resim": "https://m.media-amazon.com/images/I/51lSabZim2L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0G2C49S8D?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790669158060
-  },
-  {
-    "id": "f-1790668078452",
-    "baslik": "Karcher Vc 7 Cordless Yourmax Şarjlı Dikey Süpürge",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 24418,
-    "yeniFiyat": 21732,
-    "indirimOrani": 11,
-    "netKazanc": 2686,
-    "resim": "https://m.media-amazon.com/images/I/61zbfO9L-GL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0DPXK1DXM?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790668078453
   }
 ]
