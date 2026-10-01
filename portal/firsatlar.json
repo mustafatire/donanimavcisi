@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790883260833",
+    "baslik": "Grundig HD 6481 2200 W Saç Kurutma Makinesi",
+    "kategori": "cevre-birimleri",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 2479,
+    "yeniFiyat": 2099,
+    "indirimOrani": 15,
+    "netKazanc": 380,
+    "resim": "https://m.media-amazon.com/images/I/51ncdqH3T4L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0DJN4T5CJ?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790883260834
+  },
+  {
     "id": "f-1790879180549",
     "baslik": "Hikvision Macbook iPad ve Laptop Uyumlu 65W Gan 2 Type-C 1 USB Çıkışlı Şarj Adaptörü",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790805641061
-  },
-  {
-    "id": "f-1790805631060",
-    "baslik": "Juo C30 2K QHD Ön + FHD İç + FHD Arka 3 Kameralı WiFi GPS HDR Araç Kamerası Ekranlı 170 Derece Geniş Açı Gece Görüş",
-    "kategori": "monitor",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 5238,
-    "yeniFiyat": 3999,
-    "indirimOrani": 24,
-    "netKazanc": 1239,
-    "resim": "https://m.media-amazon.com/images/I/71d8jHk+AxL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0H292PG8L?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790805631061
   }
 ]
