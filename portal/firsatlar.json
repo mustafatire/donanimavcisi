@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790894621751",
+    "baslik": "Bosch Thermotechnik Air 4000 Hava Temizleyici, Beyaz",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 10299,
+    "yeniFiyat": 9399,
+    "indirimOrani": 9,
+    "netKazanc": 900,
+    "resim": "https://m.media-amazon.com/images/I/7132L5HdD0L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0B5D7H7VP?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790894621751
+  },
+  {
     "id": "f-1790893422294",
     "baslik": "Philips 5500 series kahve makinesi Tam otomatik Espresso makinesi 1,8 l",
     "kategori": "monitor",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790808499470
-  },
-  {
-    "id": "f-1790807659230",
-    "baslik": "Samsung Music Frame HW-LS60D Frame Design Wireless Speaker (2024)",
-    "kategori": "ssd-ram",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 11234,
-    "yeniFiyat": 10627,
-    "indirimOrani": 5,
-    "netKazanc": 607,
-    "resim": "https://m.media-amazon.com/images/I/612SuhtazpL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0D41YK25D?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790807659231
   }
 ]
