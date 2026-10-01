@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790892702516",
+    "baslik": "Roborock Qrevo Curv 2 Flow Robot Süpürge ve Paspas, SpiraFlow Gerçek Zamanlı Kendi Kendini Temizleyen Paspas, Çift Sıfır Dolanma Sistemi, Yapay Zeka Engel Algılama, Isıtmalı Yıkama ve Kurutma",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 62999,
+    "yeniFiyat": 49999,
+    "indirimOrani": 21,
+    "netKazanc": 13000,
+    "resim": "https://m.media-amazon.com/images/I/615YZDkBQZL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0FXG2BDTJ?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790892702517
+  },
+  {
     "id": "f-1790890241491",
     "baslik": "Arçelik Ekolojik 18325 A++ 18000 BTU Inverter Duvar Tipi Klima",
     "kategori": "cevre-birimleri",
@@ -1468,35 +1483,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790806459322
-  },
-  {
-    "id": "f-1790806099461",
-    "baslik": "Machenike Şarj Edilebilir Kablosuz Oyun Faresi, 26.000 DPI, PAW3395 Sensör, Ultra Hafif, 6 Programlanabilir Düğme, RGB Aydınlatma, Uzun Pil Ömrü, PC/Mac için Kablosuz Oyun Faresi",
-    "kategori": "ssd-ram",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 4049,
-    "yeniFiyat": 2849,
-    "indirimOrani": 30,
-    "netKazanc": 1200,
-    "resim": "https://m.media-amazon.com/images/I/61-v31mN2XL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0CN914Z8H?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790806099462
-  },
-  {
-    "id": "f-1790805641061",
-    "baslik": "Kawa D7 2 Kameralı Ön ve Arka 4K+1080P HDR Wi-Fi 6 ve GPS'li Araç Kamerası",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 5225,
-    "yeniFiyat": 4889,
-    "indirimOrani": 6,
-    "netKazanc": 336,
-    "resim": "https://m.media-amazon.com/images/I/615ClFDhWsL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0FVMN41D7?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790805641061
   }
 ]
