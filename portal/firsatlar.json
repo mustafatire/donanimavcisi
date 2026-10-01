@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790842459833",
+    "baslik": "Sinbo SSM-2598 Izgara ve Tost Makinesi 2000W Döküm Plakalı Ayarlanabilir Isı ve Zaman Kontrollü",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 3799,
+    "yeniFiyat": 2999,
+    "indirimOrani": 21,
+    "netKazanc": 800,
+    "resim": "https://m.media-amazon.com/images/I/411J8U2bsrL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0GZNV3BNW?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790842459834
+  },
+  {
     "id": "f-1790841500410",
     "baslik": "Dreame R20 Şarjlı Dikey Süpürge",
     "kategori": "cevre-birimleri",
@@ -1123,20 +1138,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790758476679
-  },
-  {
-    "id": "f-1790755956682",
-    "baslik": "Philips 5000 Serisi Türk Kahvesi Makinesi, Közde Türk Kahvesi Pişirme Fonksiyonu, Kullanımı Kolay Dokunmatik Tuşlar Siyah & Bakır, HDA150/60",
-    "kategori": "monitor",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 1994,
-    "yeniFiyat": 1889,
-    "indirimOrani": 5,
-    "netKazanc": 105,
-    "resim": "https://m.media-amazon.com/images/I/51BqkH3uZQL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0CNW7VGW4?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790755956682
   }
 ]
