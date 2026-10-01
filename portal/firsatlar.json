@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790893422294",
+    "baslik": "Philips 5500 series kahve makinesi Tam otomatik Espresso makinesi 1,8 l",
+    "kategori": "monitor",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 21469,
+    "yeniFiyat": 20498,
+    "indirimOrani": 5,
+    "netKazanc": 971,
+    "resim": "https://m.media-amazon.com/images/I/51FjwGedh7L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0DV9M7MY5?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790893422294
+  },
+  {
     "id": "f-1790892712510",
     "baslik": "Roborock Q8 Max Pro Akıllı Robot Süpürge",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790807659231
-  },
-  {
-    "id": "f-1790806459312",
-    "baslik": "Soundcore by Anker K20i Kulak İçi Bluetooth Kulaklık, 36 Saat Çalma Süresi, Hızlı Şarj, Net Ses, Konforlu Uyum, ENC 2-Mikrofon ile Net Çağrılar, Özelleştirilebilir EQ, IPX5, Bluetooth 5.3, Beyaz",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 1049,
-    "yeniFiyat": 998,
-    "indirimOrani": 5,
-    "netKazanc": 51,
-    "resim": "https://m.media-amazon.com/images/I/41gnEM5HqpL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0DCZQJT4L?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790806459322
   }
 ]
