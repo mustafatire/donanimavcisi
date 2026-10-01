@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790855540258",
+    "baslik": "Arçelik Tm 6046 C Resital Tost Makinesi Beyaz",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 7219,
+    "yeniFiyat": 6756,
+    "indirimOrani": 6,
+    "netKazanc": 463,
+    "resim": "https://m.media-amazon.com/images/I/419GZRUF7TL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0FQNQFBMT?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790855540258
+  },
+  {
     "id": "f-1790854940139",
     "baslik": "Arçelik Tkm 3341 Telve-X Siyah Türk Kahve Makinesi Siyah",
     "kategori": "cevre-birimleri",
@@ -1213,35 +1228,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790770537902
-  },
-  {
-    "id": "f-1790769097196",
-    "baslik": "BIC Hybrid 3 Flex 4'lü Yedek Tıraş Bıçağı Kartuşu, 3 Nano Teknolojik Titanyum Bıçak, E Vitaminli Geniş Kayganlaştırıcı Band",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 179,
-    "yeniFiyat": 164,
-    "indirimOrani": 8,
-    "netKazanc": 15,
-    "resim": "https://m.media-amazon.com/images/I/61Dt1ihJa8L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B08ZJKT96Q?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790769097196
-  },
-  {
-    "id": "f-1790768916782",
-    "baslik": "Gillette Mach3 Charcoal Tıraş Makinesi + 5 Adet Yedek Tıraş Bıçağı + Premium Stand Hediyeli Peket",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 728,
-    "yeniFiyat": 679,
-    "indirimOrani": 7,
-    "netKazanc": 49,
-    "resim": "https://m.media-amazon.com/images/I/71iJfk2HRCL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0CZRV9LVX?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790768916782
   }
 ]
