@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790895582013",
+    "baslik": "Gillette Mach3 Sport Tıraş Makinesi + 2 Adet Yedek Tıraş Bıçağı",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 314,
+    "yeniFiyat": 235,
+    "indirimOrani": 25,
+    "netKazanc": 79,
+    "resim": "https://m.media-amazon.com/images/I/71uCxXO5ecL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B09HS6HT7P?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790895582014
+  },
+  {
     "id": "f-1790895342084",
     "baslik": "Şarjlı Diş Fırçası, Elektrikli Diş Fırçası, 5 Modlu Otomatik Diş Fırçası, Güçlü Temizlik, IPX7 Su Geçirmez, 4 Yedek Başlık (BEYAZ)",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790810539658
-  },
-  {
-    "id": "f-1790809819658",
-    "baslik": "KARACA Çaysever 3 in 1 Konuşan Cam Çay Makinesi Su Isıtıcı ve Mama Suyu Hazırlama 1700W Black",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 5519,
-    "yeniFiyat": 4999,
-    "indirimOrani": 9,
-    "netKazanc": 520,
-    "resim": "https://m.media-amazon.com/images/I/61BpOMUBH7L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0DNZNSM57?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790809819659
   }
 ]
