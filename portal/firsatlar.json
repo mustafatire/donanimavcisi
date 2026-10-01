@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790841500410",
+    "baslik": "Dreame R20 Şarjlı Dikey Süpürge",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 15299,
+    "yeniFiyat": 14758,
+    "indirimOrani": 4,
+    "netKazanc": 541,
+    "resim": "https://m.media-amazon.com/images/I/41TJdpiK+TL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0C5MDCNLZ?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790841500410
+  },
+  {
     "id": "f-1790840320515",
     "baslik": "Belkin 2 Bağlantı Noktalı USB-C Şarj Cihazı 50 W, 2x USB-C Çift Bağlantı Noktalı GaN Şarj Cihazı, MacBook, iPhone 17, iPad Pro, Chromebook, Galaxy S25 Ultra, Pixel 10 vb. için, Seyahat için, Siyah",
     "kategori": "cevre-birimleri",
@@ -1123,20 +1138,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790755956682
-  },
-  {
-    "id": "f-1790754156667",
-    "baslik": "Patriot LX Series High Speed Micro SDXC Class 10 UHS-I en fazla 70 MB/s aktarma hızları - parent ASIN 64 GB Siyah PSF64GMCSDXC10",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 649,
-    "yeniFiyat": 599,
-    "indirimOrani": 8,
-    "netKazanc": 50,
-    "resim": "https://m.media-amazon.com/images/I/61bRFULdgyL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B00BTYZ3GM?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790754156668
   }
 ]
