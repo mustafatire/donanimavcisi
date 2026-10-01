@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790870780524",
+    "baslik": "SanDisk Extreme Portable SSD 4 TB, Sky Blue (taşınabilir NVMe SSD, USB-C, 1.050 MB/sn'ye kadar okuma hızı ve 1.000 MB/s yazma hızı, su ve toza dayanıklı) SDSSDE61-4T00-G25B",
+    "kategori": "ssd-ram",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 57133,
+    "yeniFiyat": 40999,
+    "indirimOrani": 28,
+    "netKazanc": 16134,
+    "resim": "https://m.media-amazon.com/images/I/71pPw9OAZ7L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0C5SF333L?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790870780524
+  },
+  {
     "id": "f-1790870420870",
     "baslik": "Kawa Mini 7 Pro 4K Ultra HD HDR Wi-Fi 6 GPS'li Mini Araç Kamerası",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790799428779
-  },
-  {
-    "id": "f-1790799019922",
-    "baslik": "Pluzz Mini X116 SE Yüksek Hızlı Akıllı İyonlu Saç Kurutma Makinesi Ultra Sessiz",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 3480,
-    "yeniFiyat": 3132,
-    "indirimOrani": 10,
-    "netKazanc": 348,
-    "resim": "https://m.media-amazon.com/images/I/51k2szcCGWL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0DG5ZNZTR?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790799019922
   }
 ]
