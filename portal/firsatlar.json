@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790845460047",
+    "baslik": "SteelSeries Arctis Nova Elite Hi-Res Wireless Gaming Kulaklık - Sage Gold",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 44456,
+    "yeniFiyat": 42297,
+    "indirimOrani": 5,
+    "netKazanc": 2159,
+    "resim": "https://m.media-amazon.com/images/I/61yNMNm8rNL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0FNW8X8QK?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790845460048
+  },
+  {
     "id": "f-1790844980784",
     "baslik": "Razer Cobra - Chroma RGB'ye sahip hafif kablolu oyun faresi (tüy hafifliğinde 57g, 3-Nesil optik fare anahtarları, gövde altı aydınlatmalı Chroma aydınlatma, hassas sensör ayarları) Siyah",
     "kategori": "cevre-birimleri",
@@ -1123,35 +1138,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790759377227
-  },
-  {
-    "id": "f-1790758846295",
-    "baslik": "Oral-B iO - 5 Siyah Yapay Zeka Teknolojili Şarjlı/Elektrikli Diş Fırçası + Oral-B iO Ultimate Clean Siyah Diş Fırçası Yedek Başlığı 2 Adet",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 7447,
-    "yeniFiyat": 6925,
-    "indirimOrani": 7,
-    "netKazanc": 522,
-    "resim": "https://m.media-amazon.com/images/I/51X3JfCREVL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0F79XB6XW?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790758846295
-  },
-  {
-    "id": "f-1790758836293",
-    "baslik": "Oral-B iO - 5 Siyah Yapay Zeka Teknolojili Şarjlı/Elektrikli Diş Fırçası",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 6621,
-    "yeniFiyat": 6099,
-    "indirimOrani": 8,
-    "netKazanc": 522,
-    "resim": "https://m.media-amazon.com/images/I/71EcLl-YchL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0B5192LBN?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790758836293
   }
 ]
