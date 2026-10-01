@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790824219740",
+    "baslik": "Philips Yüz Epilasyon Cihazı, Hipoalerjenik Başlık, Tam Dairesel LED Işık, Dahili Ayna, Kendiliğinden Bilenebilir Bıçaklar, Kompakt ve Taşınabilir Tasarım, BRR454/00",
+    "kategori": "monitor",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 1199,
+    "yeniFiyat": 1139,
+    "indirimOrani": 5,
+    "netKazanc": 60,
+    "resim": "https://m.media-amazon.com/images/I/51dC16+uGFL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0B9RQB3NQ?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790824219741
+  },
+  {
     "id": "f-1790820740155",
     "baslik": "Spigen 65W USB-C 2 Port Araç içi Hızlı Şarj Aleti PPS Desteği Akım Korumalı Güç Adaptörü Çakmaklık iPhone & Android & iPad & MacBook Type-C - ACP02562",
     "kategori": "cevre-birimleri",
@@ -943,20 +958,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790738316592
-  },
-  {
-    "id": "f-1790734356838",
-    "baslik": "KIOXIA TransMemory U301 128GB USB Bellek – USB 3.2 Gen 1, Beyaz",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 595,
-    "yeniFiyat": 469,
-    "indirimOrani": 21,
-    "netKazanc": 126,
-    "resim": "https://m.media-amazon.com/images/I/51atI3LKVPL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B088H8CRC9?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790734356839
   }
 ]
