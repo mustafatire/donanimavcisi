@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790877760613",
+    "baslik": "JBL Tune 530BT Multi Connect Wireless Kulaklık, Bej",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 1996,
+    "yeniFiyat": 1899,
+    "indirimOrani": 5,
+    "netKazanc": 97,
+    "resim": "https://m.media-amazon.com/images/I/61f1HBhInDL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0FSHQTM51?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790877760613
+  },
+  {
     "id": "f-1790877750611",
     "baslik": "JBL Tune 730BT Wireless Kulaklık, CT, OE,Siyah",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790804419536
-  },
-  {
-    "id": "f-1790804065427",
-    "baslik": "Bosch électroménager MUMS2VM00, 2 serisi mutfak robotu – 900 W, 7 hız kademesi + Turbo, pişirme seti, 3,8 l paslanmaz çelik kase, siyah",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 8499,
-    "yeniFiyat": 7999,
-    "indirimOrani": 6,
-    "netKazanc": 500,
-    "resim": "https://m.media-amazon.com/images/I/71uqIkjQfqS._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0987L7DL3?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790804065427
   }
 ]
