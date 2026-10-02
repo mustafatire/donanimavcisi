@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790933623639",
+    "baslik": "TEFAL FV2C40 Virtuo 27 gr Sürekli Buhar ve 120 gr Şok Buharlı 2000 Watt Buharlı Ütü",
+    "kategori": "cevre-birimleri",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 2399,
+    "yeniFiyat": 2099,
+    "indirimOrani": 13,
+    "netKazanc": 300,
+    "resim": "https://m.media-amazon.com/images/I/41Zx1ZI+bTL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0G3PP7HZV?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790933623640
+  },
+  {
     "id": "f-1790932073192",
     "baslik": "Pirantech Ek200 Torbasız Kablolu Dikey Süpürge Elektrikli Süpürge",
     "kategori": "cevre-birimleri",
@@ -1303,35 +1318,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790847619944
-  },
-  {
-    "id": "f-1790847139835",
-    "baslik": "Lexar 128GB 633x MicroSDXC UHS-I U3 100/45 MB/sn Yüksek Performanslı MicroSD Hafıza Kartı",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 1743,
-    "yeniFiyat": 1599,
-    "indirimOrani": 8,
-    "netKazanc": 144,
-    "resim": "https://m.media-amazon.com/images/I/71RmVb68m1L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B082T4174M?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790847139835
-  },
-  {
-    "id": "f-1790846539676",
-    "baslik": "BANG & OLUFSEN Beosound Exlore - Bluetooth Hoparlör - Su Geçirmez, Taşınabilir, Dış Mekan Koşullarına Dayanıklı, 360 derece ses - Siyah Antrasit",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 20999,
-    "yeniFiyat": 19999,
-    "indirimOrani": 5,
-    "netKazanc": 1000,
-    "resim": "https://m.media-amazon.com/images/I/71BQf3HsBaS._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B08YRT9T38?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790846539677
   }
 ]
