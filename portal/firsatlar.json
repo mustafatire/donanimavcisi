@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790943343533",
+    "baslik": "Edifier M90 Kompakt Aktif Hoparlör Beyaz",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 17848,
+    "yeniFiyat": 16464,
+    "indirimOrani": 8,
+    "netKazanc": 1384,
+    "resim": "https://m.media-amazon.com/images/I/5186tx2DcOL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0GC5R69CM?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790943343533
+  },
+  {
     "id": "f-1790943113299",
     "baslik": "Samsung Galaxy Fit3 Akıllı Bileklik, Gri (Samsung Türkiye Garantili)",
     "kategori": "cevre-birimleri",
@@ -1198,35 +1213,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790858060272
-  },
-  {
-    "id": "f-1790856860581",
-    "baslik": "CURAPROX Cs 5460 Ultra Soft Diş Fırçası",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 614,
-    "yeniFiyat": 509,
-    "indirimOrani": 17,
-    "netKazanc": 105,
-    "resim": "https://m.media-amazon.com/images/I/31MnNnSbztL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B077VVJXZ7?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790856860581
-  },
-  {
-    "id": "f-1790856740371",
-    "baslik": "COLGATE Gentle Clean Diş Fırçası 2+1",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 196,
-    "yeniFiyat": 141,
-    "indirimOrani": 28,
-    "netKazanc": 55,
-    "resim": "https://m.media-amazon.com/images/I/71OhvCXOg7L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0DZ2CF8M1?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790856740372
   }
 ]
