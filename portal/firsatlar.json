@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790938423458",
+    "baslik": "Versuni Philips 3000 Series Xd3110/09 900 W Toz Torbalı Süpürge",
+    "kategori": "monitor",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 8999,
+    "yeniFiyat": 8398,
+    "indirimOrani": 7,
+    "netKazanc": 601,
+    "resim": "https://m.media-amazon.com/images/I/61ShVV805FL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B08D6CR4N9?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790938423459
+  },
+  {
     "id": "f-1790936863338",
     "baslik": "Edifier R1280DBs Hoparlör",
     "kategori": "cevre-birimleri",
@@ -328,21 +343,6 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790899903118
-  },
-  {
-    "id": "f-1790899542281",
-    "baslik": "Versuni Philips 3000 Series Xd3110/09 900 W Toz Torbalı Süpürge",
-    "kategori": "monitor",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 8999,
-    "yeniFiyat": 8360,
-    "indirimOrani": 7,
-    "netKazanc": 639,
-    "resim": "https://m.media-amazon.com/images/I/61ShVV805FL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B08D6CR4N9?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790899542281
   },
   {
     "id": "f-1790899182380",
@@ -1228,50 +1228,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790854940139
-  },
-  {
-    "id": "f-1790851580525",
-    "baslik": "Mad Catz M.M.O. 7+ Kablosuz MMO Gaming Mouse – 26.000 DPI, 21 Programlanabilir Tuş, 40 Saat Pil",
-    "kategori": "ssd-ram",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 5999,
-    "yeniFiyat": 4999,
-    "indirimOrani": 17,
-    "netKazanc": 1000,
-    "resim": "https://m.media-amazon.com/images/I/71NkfOey09L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0GMQKSC1S?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790851580525
-  },
-  {
-    "id": "f-1790850990298",
-    "baslik": "Hasuba 3 Kameralı Araç İçi Kamera Seti - 1080P Full HD Wi-Fi Destekli Araç Kameralı Güvenlik Sistemi, 170° Geniş Açı, Gece Görüşlü Kabin Ve Su Geçirmez Arka Park Kamerası, WDR Araç DVR 361",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 3248,
-    "yeniFiyat": 1742,
-    "indirimOrani": 46,
-    "netKazanc": 1506,
-    "resim": "https://m.media-amazon.com/images/I/61cnlGyVrAL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0H7LHSKBQ?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790850990299
-  },
-  {
-    "id": "f-1790850980304",
-    "baslik": "Hasuba 3 Kameralı Araç İçi Kamera Seti-1080P Full HD,170° Geniş Açı Ön,120° Kabin İç Kamera,Gece Görüşlü Su Geçirmez Arka Park Kamerası,Döngüsel Kayıt Ve G-Sensor Destekli 360-2",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 3248,
-    "yeniFiyat": 1284,
-    "indirimOrani": 60,
-    "netKazanc": 1964,
-    "resim": "https://m.media-amazon.com/images/I/51tQFCfpi-L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0H7LHJKVJ?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790850980304
   }
 ]
