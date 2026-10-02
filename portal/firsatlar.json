@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790946343561",
+    "baslik": "KitchenAid 5KFP0921EER 2,1 L Mutfak Robotu Empire Red",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 16999,
+    "yeniFiyat": 16389,
+    "indirimOrani": 4,
+    "netKazanc": 610,
+    "resim": "https://m.media-amazon.com/images/I/51bpug3ocKL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0BGC852XG?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790946343562
+  },
+  {
     "id": "f-1790945623769",
     "baslik": "KARACA Çaysever 3 in 1 Konuşan Cam Çay Makinesi Su Isıtıcı ve Mama Suyu Hazırlama 1700W Black",
     "kategori": "cevre-birimleri",
@@ -1213,35 +1228,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790861300365
-  },
-  {
-    "id": "f-1790859620840",
-    "baslik": "120W Watt Turbo Ultra Hızlı Şarj Aleti Seti Usb- Type-C Kablo ve Adaptör Şarj Seti Tüm Telefonlarla Uyumlu Şarj Aleti Seti Şarj Başlığı Şarj Kablosu Şarj Adaptörü",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 650,
-    "yeniFiyat": 550,
-    "indirimOrani": 15,
-    "netKazanc": 100,
-    "resim": "https://m.media-amazon.com/images/I/41rHo6EVf+L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0HDCY4Q4R?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790859620840
-  },
-  {
-    "id": "f-1790859380413",
-    "baslik": "BANG & OLUFSEN Beosound Explore - Bluetooth Hoparlör - Su Geçirmez, Taşınabilir, Dış Mekan Koşullarına Dayanıklı, 360 derece ses - Yeşil",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 20999,
-    "yeniFiyat": 19999,
-    "indirimOrani": 5,
-    "netKazanc": 1000,
-    "resim": "https://m.media-amazon.com/images/I/61o3c0gow3L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B08YRRZ2X7?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790859380414
   }
 ]
