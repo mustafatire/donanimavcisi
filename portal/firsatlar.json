@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790903023089",
+    "baslik": "MSI FORGE GM300 Siyah Kablolu Gaming (Oyuncu) Mouse",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 730,
+    "yeniFiyat": 570,
+    "indirimOrani": 22,
+    "netKazanc": 160,
+    "resim": "https://m.media-amazon.com/images/I/61Dqmj0dMwL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0D3QLNYQ6?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790903023090
+  },
+  {
     "id": "f-1790902062761",
     "baslik": "Philips 7000Serisi 16in1, Erkek Bakım Seti,Yüz/Saç/Vücut/Sakal Tıraş Makinesi, Islak&Kuru, MG7931/30",
     "kategori": "monitor",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790828540208
-  },
-  {
-    "id": "f-1790824219740",
-    "baslik": "Philips Yüz Epilasyon Cihazı, Hipoalerjenik Başlık, Tam Dairesel LED Işık, Dahili Ayna, Kendiliğinden Bilenebilir Bıçaklar, Kompakt ve Taşınabilir Tasarım, BRR454/00",
-    "kategori": "monitor",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 1199,
-    "yeniFiyat": 1139,
-    "indirimOrani": 5,
-    "netKazanc": 60,
-    "resim": "https://m.media-amazon.com/images/I/51dC16+uGFL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0B9RQB3NQ?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790824219741
   }
 ]
