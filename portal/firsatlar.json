@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790908359656",
+    "baslik": "Oral-B iO10 Gold Şarjlı/Elektrikli Diş Fırçası, 1 Fırça Başlığı, Hızlı Manyetik Şarj Cihazı, Uzun Ömürlü Pil, Şarj Eden Seyahat Kabı",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 16900,
+    "yeniFiyat": 15900,
+    "indirimOrani": 6,
+    "netKazanc": 1000,
+    "resim": "https://m.media-amazon.com/images/I/617DcmyFlgL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0G363Q1NF?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790908359657
+  },
+  {
     "id": "f-1790903023089",
     "baslik": "MSI FORGE GM300 Siyah Kablolu Gaming (Oyuncu) Mouse",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790828899759
-  },
-  {
-    "id": "f-1790828540208",
-    "baslik": "Philips 8000 Serisi Aqua Plus Kablosuz Dik Süpürge, 25.2 V, 80 dk'ya kadar Çalışma Süresi, XC8057/01",
-    "kategori": "monitor",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 18574,
-    "yeniFiyat": 17729,
-    "indirimOrani": 5,
-    "netKazanc": 845,
-    "resim": "https://m.media-amazon.com/images/I/61TYowpgGlL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0CLB91BJR?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790828540208
   }
 ]
