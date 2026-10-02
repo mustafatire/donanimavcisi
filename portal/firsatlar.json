@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790925103255",
+    "baslik": "Roborock S9 Akıllı Robot Süpürge 13.000 pa - Beyaz",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 19999,
+    "yeniFiyat": 18675,
+    "indirimOrani": 7,
+    "netKazanc": 1324,
+    "resim": "https://m.media-amazon.com/images/I/51fx6y77+iL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0H46KLW9F?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790925103255
+  },
+  {
     "id": "f-1790923663374",
     "baslik": "Garmin vívosmart 5 ekstra büyük OLED dokunmatik ekranlı fitness takip cihazı, uyku kalitesi ve kalp atış hızı izleme gibi sağlık özellikleri. 7 güne kadar pil ömrü, su geçirmez ve acil yardım.",
     "kategori": "monitor",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790839240095
-  },
-  {
-    "id": "f-1790839230095",
-    "baslik": "Belkin BoostCharge Power Bank, Entegre Kablolu Taşınabilir Şarj Cihazı 10K PD 20W - USB-C Güç Dağıtımı, iPhone Power Bank iPhone 16 Serisi, iPad Pro, Galaxy S24 ve Daha Fazlası için Hızlı Şarj",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 1049,
-    "yeniFiyat": 945,
-    "indirimOrani": 10,
-    "netKazanc": 104,
-    "resim": "https://m.media-amazon.com/images/I/511Rg05S8xL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0DJFJFFKG?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790839230095
   }
 ]
