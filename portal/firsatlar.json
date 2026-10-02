@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1790900982322",
+    "baslik": "Electrolux E5KM1-6GBP Create 5 Mutfak Şefi 1200W Paslanmaz Çelik",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 18899,
+    "yeniFiyat": 17399,
+    "indirimOrani": 8,
+    "netKazanc": 1500,
+    "resim": "https://m.media-amazon.com/images/I/712mcRHr9oL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0B41N8S81?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1790900982322
+  },
+  {
     "id": "f-1790899903118",
     "baslik": "Electrolux E6EC1-6ST Explorer 6 Espresso Cappuccino Kahve Makinesi",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790820740156
-  },
-  {
-    "id": "f-1790819900165",
-    "baslik": "Duracell 10.000Mah Wireless Powerbank CORE10 Pd 25W (USB-A, USB-C) - Siyah",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 2341,
-    "yeniFiyat": 2209,
-    "indirimOrani": 6,
-    "netKazanc": 132,
-    "resim": "https://m.media-amazon.com/images/I/61R0APn8tkL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0CVQPP44R?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790819900165
   }
 ]
