@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791020149377",
+    "baslik": "Roborock Saros 20 Sonic Akıllı Robot Süpürge",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 85999,
+    "yeniFiyat": 79999,
+    "indirimOrani": 7,
+    "netKazanc": 6000,
+    "resim": "https://m.media-amazon.com/images/I/61mh1jWXCiL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0G4QY3NFT?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791020149378
+  },
+  {
     "id": "f-1791019309388",
     "baslik": "Juo 45W GaN USB-C + USB-A Şarj Aleti iPhone & iPad & Macbook & Samsung PPS Type-C Hızlı Şarj Cihazı",
     "kategori": "cevre-birimleri",
@@ -1108,20 +1123,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790935543125
-  },
-  {
-    "id": "f-1790933623639",
-    "baslik": "TEFAL FV2C40 Virtuo 27 gr Sürekli Buhar ve 120 gr Şok Buharlı 2000 Watt Buharlı Ütü",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 2399,
-    "yeniFiyat": 2099,
-    "indirimOrani": 13,
-    "netKazanc": 300,
-    "resim": "https://m.media-amazon.com/images/I/41Zx1ZI+bTL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0G3PP7HZV?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790933623640
   }
 ]
