@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791013669891",
+    "baslik": "Roborock S9 Akıllı Robot Süpürge 13.000 pa - Beyaz",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 19999,
+    "yeniFiyat": 18720,
+    "indirimOrani": 6,
+    "netKazanc": 1279,
+    "resim": "https://m.media-amazon.com/images/I/51fx6y77+iL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0H46KLW9F?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791013669892
+  },
+  {
     "id": "f-1791012949999",
     "baslik": "SanDisk Ultra Flair SDCZ73-064G-G46 64 GB Flash Bellek",
     "kategori": "cevre-birimleri",
@@ -628,20 +643,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1790929663708
-  },
-  {
-    "id": "f-1790927262678",
-    "baslik": "Philips Azur DST7041/20 7000 Serisi 2800 W Buharlı Ütü",
-    "kategori": "monitor",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 3171,
-    "yeniFiyat": 2869,
-    "indirimOrani": 10,
-    "netKazanc": 302,
-    "resim": "https://m.media-amazon.com/images/I/61BP2G65ImL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0C2HFJJFX?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1790927262678
   }
 ]
