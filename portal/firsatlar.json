@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791110350397",
+    "baslik": "Aksesuarcı Sunix 64 GB Metal Flash Bellek, Anahtarlık Metal Flash Bellek, Usb Taşınabilir Bellek",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 620,
+    "yeniFiyat": 589,
+    "indirimOrani": 5,
+    "netKazanc": 31,
+    "resim": "https://m.media-amazon.com/images/I/51atyzCiXcL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B09WKFSM5Y?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791110350397
+  },
+  {
     "id": "f-1791109870110",
     "baslik": "Klipsch The Austin Taşınabilir Bluetooth Hoparlör",
     "kategori": "monitor",
@@ -673,35 +688,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791024229373
-  },
-  {
-    "id": "f-1791023629263",
-    "baslik": "H309 Full Hd 1080P Üç Kameralı Araç Içi Kamera Araba Güvenlik Kamerası Gece Görüşü Ön Geri iç Kayıt IR LED",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 1670,
-    "yeniFiyat": 799,
-    "indirimOrani": 52,
-    "netKazanc": 871,
-    "resim": "https://m.media-amazon.com/images/I/51cWPgxoGkL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0FQW957NN?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791023629264
-  },
-  {
-    "id": "f-1791023509337",
-    "baslik": "1080P DVR Araç İçi Kamera Ön & İç & Arka Kamera Sürüş Kaydedici 2 İnç Ekran Dashcam Desteği Gece Görüş Döngü Kayıt Tek Tuş Kilidi",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 1199,
-    "yeniFiyat": 799,
-    "indirimOrani": 33,
-    "netKazanc": 400,
-    "resim": "https://m.media-amazon.com/images/I/51QgspYOegL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0BFHRWTGV?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791023509338
   }
 ]
