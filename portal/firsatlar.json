@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791150820862",
+    "baslik": "Dexart GrindBrew Öğütücülü Filtre Kahve Makinesi - KC102C",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 14559,
+    "yeniFiyat": 13507,
+    "indirimOrani": 7,
+    "netKazanc": 1052,
+    "resim": "https://m.media-amazon.com/images/I/61pYSd-oTHL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0GF873TFH?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791150820863
+  },
+  {
     "id": "f-1791150810862",
     "baslik": "Taşınabilir Espresso Makinesi, Kapsül ve Öğütülmüş Kahve Uyumlu, Suyunu Kendi Isıtan, 13500 mAh Bataryalı Type-C Şarjlı ve Taşıma Çantalı Kahve Makinesi",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791147793115
-  },
-  {
-    "id": "f-1791147711237",
-    "baslik": "JBL Endurance Peak 4 Gürültü Önleyici Tamamen Kablosuz Kulak İçi Spor Kulaklıklar, Bluetooth, 48h Pil Ömrü, Güvenli Uyum için TwistLock, IP68 Su Geçirmez ve Toz Geçirmez, JBL Pure Bass Sound, Siyah",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 7382,
-    "yeniFiyat": 6643,
-    "indirimOrani": 10,
-    "netKazanc": 739,
-    "resim": "https://m.media-amazon.com/images/I/51a8z4-eobL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0FSSB8R6J?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791147711237
   }
 ]
