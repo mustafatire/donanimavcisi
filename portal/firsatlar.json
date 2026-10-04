@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791151754195",
+    "baslik": "WINIX T500 WiFi hava temizleyici, alerjisi olanlar, CADR 250 m³/h, 50 ㎡, HEPA filtreli hava temizleyici, alerji, toz, polen, hayvan tüyleri, hava kalitesi geri bildirimi, Alexa modu",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 10999,
+    "yeniFiyat": 8800,
+    "indirimOrani": 20,
+    "netKazanc": 2199,
+    "resim": "https://m.media-amazon.com/images/I/71k7AGYZ1wL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0GZNFJ6ZJ?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791151754195
+  },
+  {
     "id": "f-1791151671327",
     "baslik": "Kenwood Chef Hamur Makinesi Planetaria KVL4170S, Gümüş Karıştırma Makinesi + Mikser + Kıyma Makinesi 6.7 Gri",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791148905668
-  },
-  {
-    "id": "f-1791148895668",
-    "baslik": "Baseus 30W Hızlı Şarj Cihazı, Palm 1C USB-C Duvar Adaptörü, BCT Soğutma Teknolojisi ve Akıllı Çip Koruması, Kompakt Şarj Başlığı, Samsung ve iPhone Uyumlu, Beyaz",
-    "kategori": "kasa-psu",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 549,
-    "yeniFiyat": 439,
-    "indirimOrani": 20,
-    "netKazanc": 110,
-    "resim": "https://m.media-amazon.com/images/I/41qj0rFXLQL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0DNZFZ8SM?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791148895668
   }
 ]
