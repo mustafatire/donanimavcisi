@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791151784218",
+    "baslik": "Electrolux Hava Temizleyici Pure 600 5 Aşamalı Filtreleme EPO60571DG",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 15599,
+    "yeniFiyat": 14799,
+    "indirimOrani": 5,
+    "netKazanc": 800,
+    "resim": "https://m.media-amazon.com/images/I/71mg6gm+EWL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0DK24VP2K?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791151784219
+  },
+  {
     "id": "f-1791151774221",
     "baslik": "Bosch Thermotechnik Air 4000 Hava Temizleyici, Beyaz",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791149002048
-  },
-  {
-    "id": "f-1791148992054",
-    "baslik": "Mcdodo CH-8640 FreeGo Pro 67W GaN USB-C Şarj Adaptörü, Akıllı LED Güç Ekranı, 2 x 80 cm Geri Çekilebilir Ledli USB-C Kablo ve Ek USB-C Port, Siyah",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 3899,
-    "yeniFiyat": 2399,
-    "indirimOrani": 38,
-    "netKazanc": 1500,
-    "resim": "https://m.media-amazon.com/images/I/51sCWZbLgcL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0HFSRWPD8?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791148992054
   }
 ]
