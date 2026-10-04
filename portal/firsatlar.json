@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791152977678",
+    "baslik": "Xiaomi H101 Saç Kurutma Makinesi Pembe",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 1999,
+    "yeniFiyat": 1899,
+    "indirimOrani": 5,
+    "netKazanc": 100,
+    "resim": "https://m.media-amazon.com/images/I/61JMpldsCqL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0CDTWH7K9?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791152977678
+  },
+  {
     "id": "f-1791152967677",
     "baslik": "Powertec TR-1001 Profesyonel Saç Kurutma & Fön Makinesi 2500W",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791150341041
-  },
-  {
-    "id": "f-1791150331041",
-    "baslik": "Karcher VCH 4 UVCLEAN Yatak Temizleyici Toz Torbasız Süpürge 1.198-412.0",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 8799,
-    "yeniFiyat": 7919,
-    "indirimOrani": 10,
-    "netKazanc": 880,
-    "resim": "https://m.media-amazon.com/images/I/81MMJHIRoeL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0FPQMRBYZ?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791150331041
   }
 ]
