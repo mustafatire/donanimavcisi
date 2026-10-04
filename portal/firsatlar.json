@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791153951334",
+    "baslik": "ARCELIK 12570 Hp A++ 12000 Btu Duvar Tipi Klima Siyah",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 49499,
+    "yeniFiyat": 47024,
+    "indirimOrani": 5,
+    "netKazanc": 2475,
+    "resim": "https://m.media-amazon.com/images/I/416JVctxEmL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0G5PRJYDL?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791153951335
+  },
+  {
     "id": "f-1791153941332",
     "baslik": "Arçelik 09325 A Ekolojik Inverter Klima 9.000 Btu/H Split Klima",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791151284867
-  },
-  {
-    "id": "f-1791151274876",
-    "baslik": "Amboss KUV-0274 Kuvars Ocak Üstü Döküm El Tost Makinesi-Siyah",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 1199,
-    "yeniFiyat": 1019,
-    "indirimOrani": 15,
-    "netKazanc": 180,
-    "resim": "https://m.media-amazon.com/images/I/51cdgoiXBjL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0BXHJCFK7?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791151274876
   }
 ]
