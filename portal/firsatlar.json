@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791151412628",
+    "baslik": "Grundig GRUNDİG RHB 1410 BLENDER SET",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 2299,
+    "yeniFiyat": 2099,
+    "indirimOrani": 9,
+    "netKazanc": 200,
+    "resim": "https://m.media-amazon.com/images/I/51J-GkvhCLL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0G4RDYXJQ?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791151412628
+  },
+  {
     "id": "f-1791151402625",
     "baslik": "Schafer Chef Blend Mega Blender Set-Siyah",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791148641063
-  },
-  {
-    "id": "f-1791148631078",
-    "baslik": "Samsung Music Frame HW-LS60D Frame Design Wireless Speaker (2024)",
-    "kategori": "ssd-ram",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 9661,
-    "yeniFiyat": 7999,
-    "indirimOrani": 17,
-    "netKazanc": 1662,
-    "resim": "https://m.media-amazon.com/images/I/612SuhtazpL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0D41YK25D?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791148631078
   }
 ]
