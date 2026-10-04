@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791150200828",
+    "baslik": "Philips 8000 Serisi Aqua Plus Kablosuz Dik Süpürge, 25.2 V, 80 dk'ya kadar Çalışma Süresi, XC8057/01",
+    "kategori": "monitor",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 18574,
+    "yeniFiyat": 16999,
+    "indirimOrani": 8,
+    "netKazanc": 1575,
+    "resim": "https://m.media-amazon.com/images/I/61TYowpgGlL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0CLB91BJR?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791150200828
+  },
+  {
     "id": "f-1791150190857",
     "baslik": "Romofy Şarjlı Araç Süpürgesi 22.000 pa - Üfleme Özellikli Mini Oto Süpürgesi 3 Kademeli - 15.000 mAh Şarj Kapasitesi, Çok Fonksiyonlu Süpürge Başlıkları ile Taşınabilir Kablosuz Süpürge",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791114790961
-  },
-  {
-    "id": "f-1791114071088",
-    "baslik": "Ghd Helios Saç Kurutma Makinesi, Siyah",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 10624,
-    "yeniFiyat": 10200,
-    "indirimOrani": 4,
-    "netKazanc": 424,
-    "resim": "https://m.media-amazon.com/images/I/71oPnngkadL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B084QXHHKZ?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791114071089
   }
 ]
