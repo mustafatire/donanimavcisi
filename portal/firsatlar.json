@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791152371058",
+    "baslik": "Philips Epilasyon Cihazı, Taşınabilir Kompakt Tasarım, Yıkanabilir Başlık, Kablolu, 4 Haftaya Kadar Pürüzsüzlük, Mavi Renk, BRE228/05",
+    "kategori": "monitor",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 1104,
+    "yeniFiyat": 1013,
+    "indirimOrani": 8,
+    "netKazanc": 91,
+    "resim": "https://m.media-amazon.com/images/I/61U+kifHNhL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0F4DLXL29?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791152371058
+  },
+  {
     "id": "f-1791152361055",
     "baslik": "Philips Yüz Epilasyon Cihazı, Hipoalerjenik Başlık, Tam Dairesel LED Işık, Dahili Ayna, Kendiliğinden Bilenebilir Bıçaklar, Kompakt ve Taşınabilir Tasarım, BRR454/00",
     "kategori": "monitor",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791149611781
-  },
-  {
-    "id": "f-1791149601777",
-    "baslik": "ROBO Trident T701 7 Litre XXL Buharlı Airfryer Siyah",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 4999,
-    "yeniFiyat": 4748,
-    "indirimOrani": 5,
-    "netKazanc": 251,
-    "resim": "https://m.media-amazon.com/images/I/71n6prXvoTL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0HJ22WY6M?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791149601777
   }
 ]
