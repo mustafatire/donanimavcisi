@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791149861255",
+    "baslik": "robotyedek, QRevo L Roborock ile Uyumlu Ana Fırça, Hepa Mop Yan Fırça Toz Torbası Seti 9 Parça",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 731,
+    "yeniFiyat": 694,
+    "indirimOrani": 5,
+    "netKazanc": 37,
+    "resim": "https://m.media-amazon.com/images/I/61qkehpfmNL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0FFN2TSPC?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791149861255
+  },
+  {
     "id": "f-1791149851255",
     "baslik": "Xiaomi X20+ / X20 Plus / X10+ / X10 Plus Robot Vakum için Aksesuar Seti, 1 Ana Fırça, 3 Filtre, 4 Yan Fırça, 6 Paspas Pedi, 6 Toz Torbası, Yedek Parça Yedek Onarımı Ekleri Değiştirin",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791077469561
-  },
-  {
-    "id": "f-1791077349576",
-    "baslik": "Edifier M90 Kompakt Aktif Hoparlör Siyah",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 16464,
-    "yeniFiyat": 14700,
-    "indirimOrani": 11,
-    "netKazanc": 1764,
-    "resim": "https://m.media-amazon.com/images/I/51sHy9LU6AL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0GC539V44?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791077349576
   }
 ]
