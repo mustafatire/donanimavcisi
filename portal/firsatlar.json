@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791152593595",
+    "baslik": "Oral-B iO Çocuk 6+ Stitch Şarjlı Diş Fırçası",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 2865,
+    "yeniFiyat": 2239,
+    "indirimOrani": 22,
+    "netKazanc": 626,
+    "resim": "https://m.media-amazon.com/images/I/71gbrSMgzeL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0FXMYK6N6?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791152593595
+  },
+  {
     "id": "f-1791152513673",
     "baslik": "Oral-B iO3 Beyaz Şarjlı/Elektrikli Diş Fırçası, 1 Fırça Başlığı, Uzun Ömürlü Pil",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791149861255
-  },
-  {
-    "id": "f-1791149851255",
-    "baslik": "Xiaomi X20+ / X20 Plus / X10+ / X10 Plus Robot Vakum için Aksesuar Seti, 1 Ana Fırça, 3 Filtre, 4 Yan Fırça, 6 Paspas Pedi, 6 Toz Torbası, Yedek Parça Yedek Onarımı Ekleri Değiştirin",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 1285,
-    "yeniFiyat": 1164,
-    "indirimOrani": 9,
-    "netKazanc": 121,
-    "resim": "https://m.media-amazon.com/images/I/71P2SDuzRKL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0F6TT2QJ9?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791149851255
   }
 ]
