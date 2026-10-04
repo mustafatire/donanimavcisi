@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791154532539",
+    "baslik": "Juo 10000mAh 22.5W USB-A + USB-C Powerbank Taşınabilir Hızlı Şarj Cihazı Siyah",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 769,
+    "yeniFiyat": 729,
+    "indirimOrani": 5,
+    "netKazanc": 40,
+    "resim": "https://m.media-amazon.com/images/I/61cBSfj41KL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0DV9H3X4R?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791154532539
+  },
+  {
     "id": "f-1791154522538",
     "baslik": "Juo 20000mAh 165W LED Ekranlı Type-C Kablolu Powerbank USB-A + USB-C Macbook Notebook Telefon Taşınabilir PD Hızlı Şarj Cihazı",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791151641325
-  },
-  {
-    "id": "f-1791151631332",
-    "baslik": "Grundig KMP 4470 G 1500 W 6 Kademeli 5L Mutfak Şefi",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 5879,
-    "yeniFiyat": 4539,
-    "indirimOrani": 23,
-    "netKazanc": 1340,
-    "resim": "https://m.media-amazon.com/images/I/61yZBqN8pqL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0D341N21H?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791151631332
   }
 ]
