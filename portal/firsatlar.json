@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791154400817",
+    "baslik": "JUO 22,5W 20000 mAh mAh Powerbank Siyah",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 1058,
+    "yeniFiyat": 999,
+    "indirimOrani": 6,
+    "netKazanc": 59,
+    "resim": "https://m.media-amazon.com/images/I/51CVDh+aq+L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0DV5PWWJX?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791154400817
+  },
+  {
     "id": "f-1791154390825",
     "baslik": "Anker 20.000 mAh Powerbank, Taşınabilir Şarj Cihazı, Dahili USB-C Kablosu, 87W, 1 USB-C ve 1 USB-A Bağlantı Noktası, Siyah - A1383",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791151432632
-  },
-  {
-    "id": "f-1791151422630",
-    "baslik": "Arzum AR1004 Blender Seti, 800ml ve 1.5L Hazne, 1000W, Beyaz",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 3190,
-    "yeniFiyat": 2999,
-    "indirimOrani": 6,
-    "netKazanc": 191,
-    "resim": "https://m.media-amazon.com/images/I/51udAcx4QhL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B07B4T8QWN?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791151422630
   }
 ]
