@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791151195738",
+    "baslik": "Schafer Grill Chef Tost Makinesi-Krem",
+    "kategori": "cevre-birimleri",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 2899,
+    "yeniFiyat": 2469,
+    "indirimOrani": 15,
+    "netKazanc": 430,
+    "resim": "https://m.media-amazon.com/images/I/81EoC4mRuRL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0DMTBZ7YP?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791151195738
+  },
+  {
     "id": "f-1791151185737",
     "baslik": "Schäfer Grill Chef Tost Makinesi-Lal Kırmızı",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791148163299
-  },
-  {
-    "id": "f-1791148153305",
-    "baslik": "Apple Watch SE 3 GPS 40 mm Yıldız Işığı Alüminyum Kasa Akıllı Saat ve Yıldız Işığı Spor Kordon - S/M. Fitness ve Uyku Takibi, Kalp Atış Hızı Takibi, Hep Açık Ekran, Suya Dayanıklı Tasarım",
-    "kategori": "kasa-psu",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 13999,
-    "yeniFiyat": 12999,
-    "indirimOrani": 7,
-    "netKazanc": 1000,
-    "resim": "https://m.media-amazon.com/images/I/617EZ-1MOKL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0FQFW4ZCQ?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791148153305
   }
 ]
