@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791152713799",
+    "baslik": "BIC Hybrid 5 Flex Erkek Tıraş Bıçağı 1 Sap ve 2 Yedek Başlık (5 Bıçak), 5 Nano Teknolojik Titanyum Bıçak, E Vitamini ile Zenginleştirilmiş Geniş Kayganlaştırıcı Bant",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 229,
+    "yeniFiyat": 149,
+    "indirimOrani": 35,
+    "netKazanc": 80,
+    "resim": "https://m.media-amazon.com/images/I/71A2JEdcwNL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B08ZJKB1DY?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791152713799
+  },
+  {
     "id": "f-1791152633578",
     "baslik": "Philips Sonicare Optimal White Yedek Diş Fırçası Başlığı, 7 Kat Daha Fazla Plak Temizliği, Orta Yumuşak Fırça Başlığı, 2’li Paket, Siyah, HX6062/88",
     "kategori": "monitor",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791149984029
-  },
-  {
-    "id": "f-1791149974026",
-    "baslik": "robotyedek, QRevo Curv 2 Flow Roborock ile Uyumlu Yan Fırça Takmı-1 Adet",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 637,
-    "yeniFiyat": 575,
-    "indirimOrani": 10,
-    "netKazanc": 62,
-    "resim": "https://m.media-amazon.com/images/I/41jBe7Q744L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0H37J2BRL?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791149974026
   }
 ]
