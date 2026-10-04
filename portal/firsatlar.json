@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791111790469",
+    "baslik": "Electrolux E5CM1-6ST Create 5 Filtre Kahve Makinesi",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 9490,
+    "yeniFiyat": 4798,
+    "indirimOrani": 49,
+    "netKazanc": 4692,
+    "resim": "https://m.media-amazon.com/images/I/61Nk62XlOkL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0BX9MGW6G?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791111790470
+  },
+  {
     "id": "f-1791110350397",
     "baslik": "Aksesuarcı Sunix 64 GB Metal Flash Bellek, Anahtarlık Metal Flash Bellek, Usb Taşınabilir Bellek",
     "kategori": "cevre-birimleri",
@@ -673,20 +688,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791041150126
-  },
-  {
-    "id": "f-1791024229373",
-    "baslik": "Arcelik Ekolojik 24325 A 24000 Btu Inverter Duvar Tipi Klima Beyaz Tek Ebat T2837 3749",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 63399,
-    "yeniFiyat": 50399,
-    "indirimOrani": 21,
-    "netKazanc": 13000,
-    "resim": "https://m.media-amazon.com/images/I/31J9bHpSr8L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0F1Q1TK1T?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791024229373
   }
 ]
