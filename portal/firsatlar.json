@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791151991530",
+    "baslik": "STEAMONE RUST400 Karl XL Dikey Buharlı Ütü ve Giysi Tiftik Temizleme Cihazı",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 9999,
+    "yeniFiyat": 4999,
+    "indirimOrani": 50,
+    "netKazanc": 5000,
+    "resim": "https://m.media-amazon.com/images/I/51HiPgtergL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0GNMQ5WTW?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791151991530
+  },
+  {
     "id": "f-1791151911558",
     "baslik": "Devecioğlu MM123 Blackboard Ütü Masası",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791149132722
-  },
-  {
-    "id": "f-1791149122718",
-    "baslik": "Kingston Kingston DataTraveler Exodia 128GB USB Flash Bellek USB3.2 Gen1 (Black + Yellow) DTX/128GB",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 658,
-    "yeniFiyat": 586,
-    "indirimOrani": 11,
-    "netKazanc": 72,
-    "resim": "https://m.media-amazon.com/images/I/51AsGiXV6WL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B08JD4TBM3?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791149122718
   }
 ]
