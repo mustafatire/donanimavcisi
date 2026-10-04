@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791147310676",
+    "baslik": "MSI GG CLUTCH GM08 GAMING MOUSE 4.200 DPI PIXART PAW3519 OPTIK SENSOR RED LED 1.8M KABLO AYARLANABILIR AGIRLIK ALTIN KAPLAMA USB BAGLANTI OYUNCU FARESI",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 770,
+    "yeniFiyat": 549,
+    "indirimOrani": 29,
+    "netKazanc": 221,
+    "resim": "https://m.media-amazon.com/images/I/81s3BPCdInL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B08FDLQ265?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791147310677
+  },
+  {
     "id": "f-1791142150783",
     "baslik": "JBL Go5, Bluetooth Hoparlör, IP67, Siyah",
     "kategori": "cevre-birimleri",
@@ -568,35 +583,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791064389415
-  },
-  {
-    "id": "f-1791059229792",
-    "baslik": "Dreame L40 Ultra CE Robot Süpürge Beyaz, 13.000Pa Vormax™ Emiş Gücü, DuoScrub™ Çift Döner Paspas, Otomatik Toz Boşaltma ve Paspas Yıkama, Akıllı Navigasyon",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 32999,
-    "yeniFiyat": 31258,
-    "indirimOrani": 5,
-    "netKazanc": 1741,
-    "resim": "https://m.media-amazon.com/images/I/41GfwsWngEL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0FSLRFJ4Z?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791059229793
-  },
-  {
-    "id": "f-1791057189061",
-    "baslik": "Belkin 10000 mAh Powerbank, 15W USB-C & 12W 2xUSB-A Girişli, Kompakt Dizayn, Kablo Dahil, Mavi",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 949,
-    "yeniFiyat": 773,
-    "indirimOrani": 19,
-    "netKazanc": 176,
-    "resim": "https://m.media-amazon.com/images/I/51gZRwaPV4L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B092TNMFYB?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791057189062
   }
 ]
