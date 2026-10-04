@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791152391061",
+    "baslik": "Philips Epilasyon Cihazı, Islak ve Kuru Kablosuz Kullanım, LED Işık, Ekstra Geniş Başlık, Hassas Bölge, Tıraş Başlığı ve Düzeltme Tarağı, 4 Aksesuar Dahil, Beyaz Renk, BRE710/05",
+    "kategori": "monitor",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 6183,
+    "yeniFiyat": 5899,
+    "indirimOrani": 5,
+    "netKazanc": 284,
+    "resim": "https://m.media-amazon.com/images/I/41IYGWb2NGL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B08HRDCQ15?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791152391061
+  },
+  {
     "id": "f-1791152381059",
     "baslik": "Philips Epilasyon Cihazı, Taşınabilir Kompakt Tasarım, Hassas Bölge ve Masaj Başlığı, Yıkanabilir, 4 Haftaya Kadar Pürüzsüzlük, Lila Renk, BRE237/05",
     "kategori": "monitor",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791149720897
-  },
-  {
-    "id": "f-1791149710905",
-    "baslik": "Goldmaster GM-7491 Cenova Dijital Dokunmatik 10 Ön Ayarlı Airfryer Yağsız Kızartma Sıcak Hava Fritöz",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 12073,
-    "yeniFiyat": 6185,
-    "indirimOrani": 49,
-    "netKazanc": 5888,
-    "resim": "https://m.media-amazon.com/images/I/51nGdZYQEnL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0BT7SX6VR?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791149710905
   }
 ]
