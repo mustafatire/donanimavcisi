@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791152743791",
+    "baslik": "Gillette Fusion5 Yedek Tıraş Bıçağı 4 Adet",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 666,
+    "yeniFiyat": 536,
+    "indirimOrani": 20,
+    "netKazanc": 130,
+    "resim": "https://m.media-amazon.com/images/I/71AHCFYXS+L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B013YBAA60?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791152743792
+  },
+  {
     "id": "f-1791152733791",
     "baslik": "Gillette Venus Extra Smooth Kadın Bıçakları, 3 Yedek Bıçak",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791150081471
-  },
-  {
-    "id": "f-1791150071492",
-    "baslik": "Karcher RVC 3 Konfor Ekstra",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 23499,
-    "yeniFiyat": 19124,
-    "indirimOrani": 19,
-    "netKazanc": 4375,
-    "resim": "https://m.media-amazon.com/images/I/61f7so23QLL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0G8HH1VSS?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791150071492
   }
 ]
