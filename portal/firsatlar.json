@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791157991672",
+    "baslik": "Schäfer Chef Blend Mega Blender Set-Kırmızı",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 4299,
+    "yeniFiyat": 2599,
+    "indirimOrani": 40,
+    "netKazanc": 1700,
+    "resim": "https://m.media-amazon.com/images/I/81eu5EIEAzL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0B5PKS8QR?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791157991673
+  },
+  {
     "id": "f-1791156570763",
     "baslik": "Xiaomi X20+, X10+, X20 Plus için aksesuar seti",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791152120828
-  },
-  {
-    "id": "f-1791152110850",
-    "baslik": "Harbinger MM142 İnovaBoard Yeni Model Ütü Masası",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 2499,
-    "yeniFiyat": 2374,
-    "indirimOrani": 5,
-    "netKazanc": 125,
-    "resim": "https://m.media-amazon.com/images/I/71B7MBSTFLL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0FRT3RT1C?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791152110850
   }
 ]
