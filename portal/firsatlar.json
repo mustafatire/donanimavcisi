@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791149611781",
+    "baslik": "ROBO Trident T701 7 Litre XXL Buharlı Airfryer Beyaz",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 4999,
+    "yeniFiyat": 4748,
+    "indirimOrani": 5,
+    "netKazanc": 251,
+    "resim": "https://m.media-amazon.com/images/I/71-vmJuqfeL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0HJ27GWG6?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791149611781
+  },
+  {
     "id": "f-1791149601777",
     "baslik": "ROBO Trident T701 7 Litre XXL Buharlı Airfryer Siyah",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791064399408
-  },
-  {
-    "id": "f-1791064389415",
-    "baslik": "Xiaomi Sound Pocket",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 998,
-    "yeniFiyat": 950,
-    "indirimOrani": 5,
-    "netKazanc": 48,
-    "resim": "https://m.media-amazon.com/images/I/71wOrl8wEwL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0CZRLRGM5?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791064389415
   }
 ]
