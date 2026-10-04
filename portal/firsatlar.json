@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791153671216",
+    "baslik": "MSI FORGE GM300 Siyah Kablolu Gaming (Oyuncu) Mouse",
+    "kategori": "cevre-birimleri",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 719,
+    "yeniFiyat": 579,
+    "indirimOrani": 19,
+    "netKazanc": 140,
+    "resim": "https://m.media-amazon.com/images/I/61Dqmj0dMwL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0D3QLNYQ6?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791153671216
+  },
+  {
     "id": "f-1791153590919",
     "baslik": "Coverzone Orico USB 10Gbps M.2 NVMe & SATA SSD Harici Kutu, Toolless Tasarım, Alüminyum Soğutuculu Enclosure, 2230–2280 Uyumlu, 4TB Destekli Yüksek Hızlı SSD Dönüştürücü | 1187",
     "kategori": "ssd-ram",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791150930692
-  },
-  {
-    "id": "f-1791150920692",
-    "baslik": "Sinbo STM-5845 Çelik Elektrikli Çay Makinesi Inox Çaycı 2-in-1 Demlik Su Isıtıcı 1600W Otomatik Kapama",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 1538,
-    "yeniFiyat": 1349,
-    "indirimOrani": 12,
-    "netKazanc": 189,
-    "resim": "https://m.media-amazon.com/images/I/41yCpYEa2bL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0DPMJHHJC?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791150920692
   }
 ]
