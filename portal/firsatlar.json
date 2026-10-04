@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791150830864",
+    "baslik": "NESPRESSO Gran Lattissima Kahve Makinesi, F541 Beyaz Anneler Günü Seti",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 19999,
+    "yeniFiyat": 18999,
+    "indirimOrani": 5,
+    "netKazanc": 1000,
+    "resim": "https://m.media-amazon.com/images/I/410FO9kWsPL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0GYSD2QKN?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791150830864
+  },
+  {
     "id": "f-1791150820862",
     "baslik": "Dexart GrindBrew Öğütücülü Filtre Kahve Makinesi - KC102C",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791147803110
-  },
-  {
-    "id": "f-1791147793115",
-    "baslik": "CELLULARLINE SYNC BLUETOOTH KULAKLIK SIYAH",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 909,
-    "yeniFiyat": 600,
-    "indirimOrani": 34,
-    "netKazanc": 309,
-    "resim": "https://m.media-amazon.com/images/I/61eYtFYNPaL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B09652M8JP?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791147793115
   }
 ]
