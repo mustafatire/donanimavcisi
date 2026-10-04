@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791151671327",
+    "baslik": "Kenwood Chef Hamur Makinesi Planetaria KVL4170S, Gümüş Karıştırma Makinesi + Mikser + Kıyma Makinesi 6.7 Gri",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 30949,
+    "yeniFiyat": 28519,
+    "indirimOrani": 8,
+    "netKazanc": 2430,
+    "resim": "https://m.media-amazon.com/images/I/71u31fFrUTL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B076M74ZCT?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791151671327
+  },
+  {
     "id": "f-1791151661326",
     "baslik": "Kitchenaid 1, 7 L Mutfak Robotu 5KFP0719 Matte Black - EBM",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791148895668
-  },
-  {
-    "id": "f-1791148885666",
-    "baslik": "Samsung EP-T4511N Type C Hızlı Şarj Adaptörü (45W), Siyah",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 1948,
-    "yeniFiyat": 1366,
-    "indirimOrani": 30,
-    "netKazanc": 582,
-    "resim": "https://m.media-amazon.com/images/I/51AVPj8-zjL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0FGDHSD1B?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791148885666
   }
 ]
