@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791189552066",
+    "baslik": "Conti Elektrikli Çelik Cezve –Türk Kahvesi Makinesi – 400 ml (5 Fincan) Kapasite – Paslanmaz Çelik Gövde, Gizli Rezistans, Susuz Çalışma Emniyetli, Yüksek Güç (1000W)",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 999,
+    "yeniFiyat": 664,
+    "indirimOrani": 34,
+    "netKazanc": 335,
+    "resim": "https://m.media-amazon.com/images/I/41hqWxvLBWL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0H1YMJ4X3?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791189552067
+  },
+  {
     "id": "f-1791189431789",
     "baslik": "Arzum Okka Arzum OK0010 OKKA Minio Pro Türk Kahvesi Makinesi, 4 Fincan, 480W, 16.5x16x22.5 cm, Paslanmaz Çelik, Bakır",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791153671216
-  },
-  {
-    "id": "f-1791153590919",
-    "baslik": "Coverzone Orico USB 10Gbps M.2 NVMe & SATA SSD Harici Kutu, Toolless Tasarım, Alüminyum Soğutuculu Enclosure, 2230–2280 Uyumlu, 4TB Destekli Yüksek Hızlı SSD Dönüştürücü | 1187",
-    "kategori": "ssd-ram",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 1416,
-    "yeniFiyat": 1331,
-    "indirimOrani": 6,
-    "netKazanc": 85,
-    "resim": "https://m.media-amazon.com/images/I/61RPoEKx8tL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0GDQN3844?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791153590919
   }
 ]
