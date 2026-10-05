@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791221472517",
+    "baslik": "Philips Aqua Kablosuz Dik Süpürge XC7055/01",
+    "kategori": "monitor",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 14188,
+    "yeniFiyat": 13230,
+    "indirimOrani": 7,
+    "netKazanc": 958,
+    "resim": "https://m.media-amazon.com/images/I/513dHb+QpJL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0DNW62WSV?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791221472517
+  },
+  {
     "id": "f-1791219922369",
     "baslik": "HP DHS-2111 2.0 Mini Taşınabilir Multimedya Speaker Hoparlör (Beyaz)",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791188711763
-  },
-  {
-    "id": "f-1791187751489",
-    "baslik": "Belkin BoostCharge Pro 2 Portlu USB-C Şarj Cihazı 67 W, hızlı şarj",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 1399,
-    "yeniFiyat": 999,
-    "indirimOrani": 29,
-    "netKazanc": 400,
-    "resim": "https://m.media-amazon.com/images/I/51YocoGaq0L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0FVXM4X4J?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791187751489
   }
 ]
