@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791211871591",
+    "baslik": "SanDisk Extreme 2TB Taşınabilir SSD - SDSSDE31-2T00-G25",
+    "kategori": "ssd-ram",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 18999,
+    "yeniFiyat": 17999,
+    "indirimOrani": 5,
+    "netKazanc": 1000,
+    "resim": "https://m.media-amazon.com/images/I/81AU7KLC+kL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0H4HHBHY8?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791211871592
+  },
+  {
     "id": "f-1791211162364",
     "baslik": "Gillette Venus Comfortglide Olay Kadın Tıraş Makinesi",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791174791856
-  },
-  {
-    "id": "f-1791174672978",
-    "baslik": "M-AUDIO BX3BT 3.5\" Bluetooth Stüdyo Monitör Çifti",
-    "kategori": "monitor",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 8161,
-    "yeniFiyat": 7345,
-    "indirimOrani": 10,
-    "netKazanc": 816,
-    "resim": "https://m.media-amazon.com/images/I/81wodaLJXeL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B09V1FYVTB?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791174672978
   }
 ]
