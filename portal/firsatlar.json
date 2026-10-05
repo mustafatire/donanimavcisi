@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791209231929",
+    "baslik": "Karaca Tea Break Cay Makinesi Inox, Siyah",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 3127,
+    "yeniFiyat": 2899,
+    "indirimOrani": 7,
+    "netKazanc": 228,
+    "resim": "https://m.media-amazon.com/images/I/612nZRB1tgL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B08YCV25YZ?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791209231930
+  },
+  {
     "id": "f-1791208992036",
     "baslik": "Karaca MyCaffe Barista S20 Entegre Süt Hazneli Otomatik Espresso ve Latte Makinesi Amber 900 ml 1360W",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791165920944
-  },
-  {
-    "id": "f-1791165910947",
-    "baslik": "MOVA Aero C Yüksek Hızlı Saç Kurutma Makinesi, C-Shape DualForce Cyclone™, 360° Plazma İyon, Akıllı Isı Kontrolü, Coanda Hava Akışı, 3 Yıl Garanti",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 9999,
-    "yeniFiyat": 8499,
-    "indirimOrani": 15,
-    "netKazanc": 1500,
-    "resim": "https://m.media-amazon.com/images/I/71YNCLCVU+L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0GWM4KJYS?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791165910948
   }
 ]
