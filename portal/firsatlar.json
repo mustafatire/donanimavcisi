@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791189072290",
+    "baslik": "Philips 7000 Serisi AquaTrio Kablosuz Dikey Süpürge, Islak ve Kuru Temizlik, Otomatik Temizleme ve Şarj İstasyonu, Kuru Süpürme Başlığı, XW7263/11",
+    "kategori": "monitor",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 16699,
+    "yeniFiyat": 15371,
+    "indirimOrani": 8,
+    "netKazanc": 1328,
+    "resim": "https://m.media-amazon.com/images/I/51KvBeoi-XL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0DMB4PV64?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791189072290
+  },
+  {
     "id": "f-1791188711762",
     "baslik": "Roborock S9 Akıllı Robot Süpürge 13.000 pa - Beyaz",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791153580920
-  },
-  {
-    "id": "f-1791153570915",
-    "baslik": "Western Digital My Book 26TB Taşınabilir Disk",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 46999,
-    "yeniFiyat": 41999,
-    "indirimOrani": 11,
-    "netKazanc": 5000,
-    "resim": "https://m.media-amazon.com/images/I/61cOyn09OeL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0F9PBXPSL?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791153570916
   }
 ]
