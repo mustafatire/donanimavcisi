@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791240073244",
+    "baslik": "Samsung T7 256GB Micro SD Hafıza Kartı",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 3498,
+    "yeniFiyat": 3293,
+    "indirimOrani": 6,
+    "netKazanc": 205,
+    "resim": "https://m.media-amazon.com/images/I/71bx4PmC+hL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0GMS4VYVT?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791240073244
+  },
+  {
     "id": "f-1791239952572",
     "baslik": "Philips Vivid Super Speed 32 GB USB Stick 3.0 Turuncu",
     "kategori": "monitor",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791196991591
-  },
-  {
-    "id": "f-1791196871669",
-    "baslik": "Lura El Blender Seti, 1200W Güçlü Motor, 700ml Ölçü Kabı, Paslanmaz Çelik Bıçaklı, 3 Yıl Garantili, Smoothie ve Karıştırma için",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 1690,
-    "yeniFiyat": 1605,
-    "indirimOrani": 5,
-    "netKazanc": 85,
-    "resim": "https://m.media-amazon.com/images/I/51+sOyfJwhL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0G2LN37GC?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791196871669
   }
 ]
