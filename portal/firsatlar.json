@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791229632642",
+    "baslik": "PHILIPS Gc9682/80 Perfectcare Elite Plus Buhar Kazanlı Ütü",
+    "kategori": "monitor",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 19299,
+    "yeniFiyat": 18400,
+    "indirimOrani": 5,
+    "netKazanc": 899,
+    "resim": "https://m.media-amazon.com/images/I/61RNS7FFz8L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B074M9LB4X?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791229632643
+  },
+  {
     "id": "f-1791229392638",
     "baslik": "Karaca Chefcrafter Stand Mikser Mutfak Şefi 1900 W Porcelain White",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791194352107
-  },
-  {
-    "id": "f-1791193891878",
-    "baslik": "Riversong Motive Glow Amoled Ekran Kadın Akıllı Saat, Siyah",
-    "kategori": "monitor",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 2999,
-    "yeniFiyat": 2849,
-    "indirimOrani": 5,
-    "netKazanc": 150,
-    "resim": "https://m.media-amazon.com/images/I/61mDVIxMY-L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0DZ6JT2M8?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791193891878
   }
 ]
