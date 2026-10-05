@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791203831893",
+    "baslik": "Arnica Flora 2000 Seramik Ütü Siyah Gümüş",
+    "kategori": "ssd-ram",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 1585,
+    "yeniFiyat": 1427,
+    "indirimOrani": 10,
+    "netKazanc": 158,
+    "resim": "https://m.media-amazon.com/images/I/6153sXSUBQL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0FB45KC1M?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791203831893
+  },
+  {
     "id": "f-1791203471829",
     "baslik": "Karaca Multichef Stand Mikser, 1400W, 5.5L Hacim, Paslanmaz Çelik, Rose Gold",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791160160740
-  },
-  {
-    "id": "f-1791160150747",
-    "baslik": "Claw's Nexus X1 12800 Dpi Makro Yazılımlı & Değiştirilebilir Kapaklı RGB Gaming Mouse - Siyah",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 599,
-    "yeniFiyat": 351,
-    "indirimOrani": 41,
-    "netKazanc": 248,
-    "resim": "https://m.media-amazon.com/images/I/61vwH-h47kL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0D6VYYHJ5?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791160150747
   }
 ]
