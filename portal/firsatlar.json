@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791234072837",
+    "baslik": "Roborock S8 Pro Akıllı Robot Süpürge",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 15999,
+    "yeniFiyat": 15202,
+    "indirimOrani": 5,
+    "netKazanc": 797,
+    "resim": "https://m.media-amazon.com/images/I/51qEkcFwlIL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0F7J1BKVV?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791234072838
+  },
+  {
     "id": "f-1791233232943",
     "baslik": "Coverzone 120W GaN Şarj İstasyonu 5 Portlu Hızlı Şarj Adaptörü PD30W QC18W Smart Chip Teknolojili USB-A USB-C Çoklu Şarj Cihazı Masaüstü Hızlı Şarj Ünitesi | XK-HC205 (Beyaz)",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791195192149
-  },
-  {
-    "id": "f-1791194951983",
-    "baslik": "Conti CDF-451 Prime Airfryer Yağsız Fritöz 4,5 L 1500 W Dokunmatik LED Ekran, 8 Hazır Program, 80–200°C Ayar, Yapışmaz Çıkarılabilir Hazne, Aşırı Isınma Koruması",
-    "kategori": "ssd-ram",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 2999,
-    "yeniFiyat": 2499,
-    "indirimOrani": 17,
-    "netKazanc": 500,
-    "resim": "https://m.media-amazon.com/images/I/51mbGko2Z1L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0HGF7W3CS?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791194951984
   }
 ]
