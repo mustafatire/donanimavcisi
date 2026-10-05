@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791188711762",
+    "baslik": "Roborock S9 Akıllı Robot Süpürge 13.000 pa - Beyaz",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 19799,
+    "yeniFiyat": 17998,
+    "indirimOrani": 9,
+    "netKazanc": 1801,
+    "resim": "https://m.media-amazon.com/images/I/51fx6y77+iL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0H46KLW9F?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791188711763
+  },
+  {
     "id": "f-1791187751489",
     "baslik": "Belkin BoostCharge Pro 2 Portlu USB-C Şarj Cihazı 67 W, hızlı şarj",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791153570916
-  },
-  {
-    "id": "f-1791153560915",
-    "baslik": "PrimeX PX-M224 M.2 NVMe SSD Kutusu, Type-C USB 3.1/3.2 Harici SSD Kutu, PCIe NVMe M.2 SSD Uyumlu Alüminyum Taşınabilir Disk Muhafazası, USB-C Hızlı Veri Aktarım Harici SSD HDD Kutusu",
-    "kategori": "ssd-ram",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 791,
-    "yeniFiyat": 699,
-    "indirimOrani": 12,
-    "netKazanc": 92,
-    "resim": "https://m.media-amazon.com/images/I/51wS+9XaOlL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0H1J9FW3K?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791153560915
   }
 ]
