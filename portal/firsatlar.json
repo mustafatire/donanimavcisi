@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791207311708",
+    "baslik": "Samsung Hızlı şarj cihazı, USB-C, 25 W veri kablosuz, siyah",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 699,
+    "yeniFiyat": 649,
+    "indirimOrani": 7,
+    "netKazanc": 50,
+    "resim": "https://m.media-amazon.com/images/I/615S9jD5NNL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0CBDWQVSF?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791207311708
+  },
+  {
     "id": "f-1791207191911",
     "baslik": "Belkin USB-C Fiş 25 W - USB-C Telefon Şarj Cihazı, Apple iPhone 16, 15 Plus, Pro, Pro Max, iPad, Samsung Galaxy S25, Pixel 9, Nintendo Switch ve Fazlası için PD 3.0 PPS Hızlı Şarj Cihazı, Beyaz",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791165681016
-  },
-  {
-    "id": "f-1791165671023",
-    "baslik": "Philips 3000X Serisi Erkek Tıraş Makinesi, PowerCut Bıçak Teknolojisi, 5D Esnek Başlık, Islak ve Kuru Kullanım, Hassas Düzeltici, Cilt Koruma Özellikli, X3021/00",
-    "kategori": "monitor",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 2025,
-    "yeniFiyat": 1821,
-    "indirimOrani": 10,
-    "netKazanc": 204,
-    "resim": "https://m.media-amazon.com/images/I/61flXa21ClL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0CQCHPY8S?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791165671023
   }
 ]
