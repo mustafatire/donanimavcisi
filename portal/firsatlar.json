@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791197111875",
+    "baslik": "Bosch Air 2000 Hava Temizleyici",
+    "kategori": "cevre-birimleri",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 7849,
+    "yeniFiyat": 7028,
+    "indirimOrani": 10,
+    "netKazanc": 821,
+    "resim": "https://m.media-amazon.com/images/I/71QKthwvOyL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0BNNC3767?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791197111875
+  },
+  {
     "id": "f-1791196991590",
     "baslik": "Karaca Multichef Artisan Digital Ekran 7 Litre Döküm Stand Mikser Siyah 1800W",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791154532539
-  },
-  {
-    "id": "f-1791154522538",
-    "baslik": "Juo 20000mAh 165W LED Ekranlı Type-C Kablolu Powerbank USB-A + USB-C Macbook Notebook Telefon Taşınabilir PD Hızlı Şarj Cihazı",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 3136,
-    "yeniFiyat": 2969,
-    "indirimOrani": 5,
-    "netKazanc": 167,
-    "resim": "https://m.media-amazon.com/images/I/61zymUjDb1L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0GXG6JSQN?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791154522538
   }
 ]
