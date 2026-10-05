@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791189431789",
+    "baslik": "Arzum Okka Arzum OK0010 OKKA Minio Pro Türk Kahvesi Makinesi, 4 Fincan, 480W, 16.5x16x22.5 cm, Paslanmaz Çelik, Bakır",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 3422,
+    "yeniFiyat": 3219,
+    "indirimOrani": 6,
+    "netKazanc": 203,
+    "resim": "https://m.media-amazon.com/images/I/51xa5ns1VQL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0844LSWD3?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791189431790
+  },
+  {
     "id": "f-1791189072290",
     "baslik": "Philips 7000 Serisi AquaTrio Kablosuz Dikey Süpürge, Islak ve Kuru Temizlik, Otomatik Temizleme ve Şarj İstasyonu, Kuru Süpürme Başlığı, XW7263/11",
     "kategori": "monitor",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791153590919
-  },
-  {
-    "id": "f-1791153580919",
-    "baslik": "Western Digital My Book 22TB USB 3.2 Gen 1 masaüstü sabit diski, şifre koruması ve yedekleme yazılımı ile",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 43999,
-    "yeniFiyat": 39499,
-    "indirimOrani": 10,
-    "netKazanc": 4500,
-    "resim": "https://m.media-amazon.com/images/I/61k+4mo5bNL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0BSFR3JCS?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791153580920
   }
 ]
