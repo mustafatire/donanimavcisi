@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791239952572",
+    "baslik": "Philips Vivid Super Speed 32 GB USB Stick 3.0 Turuncu",
+    "kategori": "monitor",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 500,
+    "yeniFiyat": 399,
+    "indirimOrani": 20,
+    "netKazanc": 101,
+    "resim": "https://m.media-amazon.com/images/I/51tsqFZMe5L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B00OG9LJY2?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791239952573
+  },
+  {
     "id": "f-1791239593410",
     "baslik": "Belkin USB-C Fiş 25 W - USB-C Telefon Şarj Cihazı, Apple iPhone 16, 15 Plus, Pro, Pro Max, iPad, Samsung Galaxy S25, Pixel 9, Nintendo Switch ve Fazlası için PD 3.0 PPS Hızlı Şarj Cihazı, Beyaz",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791196871669
-  },
-  {
-    "id": "f-1791196751560",
-    "baslik": "arnica GH21590 Diva El Blender Seti, 1.1 L Hazne, 1200 W, Beyaz",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 2590,
-    "yeniFiyat": 2460,
-    "indirimOrani": 5,
-    "netKazanc": 130,
-    "resim": "https://m.media-amazon.com/images/I/51m2w9QVDJL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B084XSSNN2?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791196751561
   }
 ]
