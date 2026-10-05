@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791190991597",
+    "baslik": "Laurastar Lift Xtra Buhar Kazanlı Ütü - 1980",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 64999,
+    "yeniFiyat": 60999,
+    "indirimOrani": 6,
+    "netKazanc": 4000,
+    "resim": "https://m.media-amazon.com/images/I/41AouaYe0+L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0B1QM6VC7?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791190991598
+  },
+  {
     "id": "f-1791189552066",
     "baslik": "Conti Elektrikli Çelik Cezve –Türk Kahvesi Makinesi – 400 ml (5 Fincan) Kapasite – Paslanmaz Çelik Gövde, Gizli Rezistans, Susuz Çalışma Emniyetli, Yüksek Güç (1000W)",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791153681204
-  },
-  {
-    "id": "f-1791153671216",
-    "baslik": "MSI FORGE GM300 Siyah Kablolu Gaming (Oyuncu) Mouse",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 719,
-    "yeniFiyat": 579,
-    "indirimOrani": 19,
-    "netKazanc": 140,
-    "resim": "https://m.media-amazon.com/images/I/61Dqmj0dMwL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0D3QLNYQ6?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791153671216
   }
 ]
