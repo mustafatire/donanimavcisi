@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791187151623",
+    "baslik": "Apple Watch Series 9 GPS 41 mm (PRODUCT) RED Alüminyum Kasa Akıllı Saat ve (PRODUCT) RED Spor Kordon - S/M. Fitness Takibi, Kanda Oksijen ve EKG Uygulamaları, Hep Açık Retina Ekran",
+    "kategori": "kasa-psu",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 19999,
+    "yeniFiyat": 15999,
+    "indirimOrani": 20,
+    "netKazanc": 4000,
+    "resim": "https://m.media-amazon.com/images/I/7157O4ulkTL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0CHX1FXBD?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791187151624
+  },
+  {
     "id": "f-1791186791815",
     "baslik": "Baseus Nomos 3'ü 1 arada MagSafe10000mAh Power Bank - Qi2 15W Kablosuz Şarj, 45W Dahili Çift Yönlü Hızlı Şarj Kablolu, Gri",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791153450987
-  },
-  {
-    "id": "f-1791153440983",
-    "baslik": "NPO DK01 NVMe M.2 1000/900Mb/s USB-A/Type-C Kablosuz Taşınabilir Harici SSD (GB, 0)",
-    "kategori": "ssd-ram",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 999,
-    "yeniFiyat": 951,
-    "indirimOrani": 5,
-    "netKazanc": 48,
-    "resim": "https://m.media-amazon.com/images/I/61tDBJ0VHrL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0CQLSGH3M?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791153440983
   }
 ]
