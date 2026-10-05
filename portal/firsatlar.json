@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791241272567",
+    "baslik": "Nespresso D40 Inissia Kapsüllü Kahve Makinesi, Siyah",
+    "kategori": "cevre-birimleri",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 6949,
+    "yeniFiyat": 6192,
+    "indirimOrani": 11,
+    "netKazanc": 757,
+    "resim": "https://m.media-amazon.com/images/I/616DOmuSg8L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B01N8YAKO0?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791241272568
+  },
+  {
     "id": "f-1791240432946",
     "baslik": "Sage SOV860 The Smart Oven™ Air Fryer Özellikli Akıllı Fırın",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791197231943
-  },
-  {
-    "id": "f-1791197111875",
-    "baslik": "Bosch Air 2000 Hava Temizleyici",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 7849,
-    "yeniFiyat": 7028,
-    "indirimOrani": 10,
-    "netKazanc": 821,
-    "resim": "https://m.media-amazon.com/images/I/71QKthwvOyL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0BNNC3767?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791197111875
   }
 ]
