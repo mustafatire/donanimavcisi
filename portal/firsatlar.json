@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791223872246",
+    "baslik": "NPO Nicefeel X500 Çocuklar için Dakikada 39600 Titreşim,Şarjlı Sonic Profesyonel Diş Fırçası (Pembe)",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 844,
+    "yeniFiyat": 675,
+    "indirimOrani": 20,
+    "netKazanc": 169,
+    "resim": "https://m.media-amazon.com/images/I/51uOIfduadL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0FFH97XNP?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791223872247
+  },
+  {
     "id": "f-1791222792724",
     "baslik": "Multiquick El Blender Seti MQ50813",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791191351722
-  },
-  {
-    "id": "f-1791190991597",
-    "baslik": "Laurastar Lift Xtra Buhar Kazanlı Ütü - 1980",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 64999,
-    "yeniFiyat": 60999,
-    "indirimOrani": 6,
-    "netKazanc": 4000,
-    "resim": "https://m.media-amazon.com/images/I/41AouaYe0+L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0B1QM6VC7?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791190991598
   }
 ]
