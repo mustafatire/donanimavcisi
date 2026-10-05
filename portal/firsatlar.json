@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791222792724",
+    "baslik": "Multiquick El Blender Seti MQ50813",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 4999,
+    "yeniFiyat": 4774,
+    "indirimOrani": 5,
+    "netKazanc": 225,
+    "resim": "https://m.media-amazon.com/images/I/31bZtyAeZVL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0HGGKQQ7N?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791222792724
+  },
+  {
     "id": "f-1791222432378",
     "baslik": "Karaca Biogranit Izgara ve Tost Makinesi Inox 2000W Paslanmaz Çelik 6 Dilim Kapasiteli",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791190991598
-  },
-  {
-    "id": "f-1791189552066",
-    "baslik": "Conti Elektrikli Çelik Cezve –Türk Kahvesi Makinesi – 400 ml (5 Fincan) Kapasite – Paslanmaz Çelik Gövde, Gizli Rezistans, Susuz Çalışma Emniyetli, Yüksek Güç (1000W)",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 999,
-    "yeniFiyat": 664,
-    "indirimOrani": 34,
-    "netKazanc": 335,
-    "resim": "https://m.media-amazon.com/images/I/41hqWxvLBWL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0H1YMJ4X3?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791189552067
   }
 ]
