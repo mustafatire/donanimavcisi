@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791198551752",
+    "baslik": "Kawa D6 2K 135 Derece Araç Kamerası",
+    "kategori": "monitor",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 2529,
+    "yeniFiyat": 2381,
+    "indirimOrani": 6,
+    "netKazanc": 148,
+    "resim": "https://m.media-amazon.com/images/I/61uiq42Om+L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0BCPQ624P?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791198551752
+  },
+  {
     "id": "f-1791198201758",
     "baslik": "Braun Hepsi Bir Arada Series 7, 15'i 1 arada Tıraş Kiti, ProBlade, AutoSense, AIO7580",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791155111486
-  },
-  {
-    "id": "f-1791154870856",
-    "baslik": "HUAWEI WATCH FIT 4 Akıllı Saat, 100+ Spor Modu, Ultra İnce Tasarım, Mor",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 5649,
-    "yeniFiyat": 5084,
-    "indirimOrani": 10,
-    "netKazanc": 565,
-    "resim": "https://m.media-amazon.com/images/I/71AuaIxiioL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0F1DN1J7V?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791154870856
   }
 ]
