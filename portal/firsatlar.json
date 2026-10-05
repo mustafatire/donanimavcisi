@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791204351788",
+    "baslik": "Oral-B Profesyonel Temizlik 1 Şarj Edilebilir Diş Fırçası",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 1997,
+    "yeniFiyat": 1899,
+    "indirimOrani": 5,
+    "netKazanc": 98,
+    "resim": "https://m.media-amazon.com/images/I/71qsv3pIP9L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B08FTFPPQX?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791204351789
+  },
+  {
     "id": "f-1791204341785",
     "baslik": "Philips Sonicare 5300 Şarjlı Diş Fırçası, 21 Gün Şarj, 7 kat plak temizliği, Basınç sensörü, 2 mod, Seyahat kabı, 2 başlık, Beyaz, HX7108/03",
     "kategori": "monitor",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791161351584
-  },
-  {
-    "id": "f-1791161111120",
-    "baslik": "TCL MoveTime MT46X Family Mavi Akıllı Çocuk Saati",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 6499,
-    "yeniFiyat": 6157,
-    "indirimOrani": 5,
-    "netKazanc": 342,
-    "resim": "https://m.media-amazon.com/images/I/51BUhA9nfsL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0D1Y6ZVWB?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791161111132
   }
 ]
