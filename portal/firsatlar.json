@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791174791856",
+    "baslik": "Samsung EP-T2510N Type C Hızlı Şarj Adaptörü (25W) - Siyah",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 688,
+    "yeniFiyat": 649,
+    "indirimOrani": 6,
+    "netKazanc": 39,
+    "resim": "https://m.media-amazon.com/images/I/611VUBX5iZL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0C9QT2J6W?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791174791856
+  },
+  {
     "id": "f-1791174672978",
     "baslik": "M-AUDIO BX3BT 3.5\" Bluetooth Stüdyo Monitör Çifti",
     "kategori": "monitor",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791152977678
-  },
-  {
-    "id": "f-1791152967677",
-    "baslik": "Powertec TR-1001 Profesyonel Saç Kurutma & Fön Makinesi 2500W",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 1261,
-    "yeniFiyat": 1160,
-    "indirimOrani": 8,
-    "netKazanc": 101,
-    "resim": "https://m.media-amazon.com/images/I/51TcuC7ewPL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0GYSM78PZ?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791152967677
   }
 ]
