@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791240432946",
+    "baslik": "Sage SOV860 The Smart Oven™ Air Fryer Özellikli Akıllı Fırın",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 72999,
+    "yeniFiyat": 49999,
+    "indirimOrani": 32,
+    "netKazanc": 23000,
+    "resim": "https://m.media-amazon.com/images/I/71CfGG6rnKL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B084XRJ8G8?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791240432946
+  },
+  {
     "id": "f-1791240073244",
     "baslik": "Samsung T7 256GB Micro SD Hafıza Kartı",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791197111875
-  },
-  {
-    "id": "f-1791196991590",
-    "baslik": "Karaca Multichef Artisan Digital Ekran 7 Litre Döküm Stand Mikser Siyah 1800W",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 13999,
-    "yeniFiyat": 13299,
-    "indirimOrani": 5,
-    "netKazanc": 700,
-    "resim": "https://m.media-amazon.com/images/I/612v9Z8-igL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0C3WKM8QN?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791196991591
   }
 ]
