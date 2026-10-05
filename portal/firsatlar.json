@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791211152367",
+    "baslik": "Powertec TR-2900 Profesyonel RGB'li Tıraş Makinesi & Makas Hediyeli",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 1999,
+    "yeniFiyat": 1499,
+    "indirimOrani": 25,
+    "netKazanc": 500,
+    "resim": "https://m.media-amazon.com/images/I/61-GmczewlL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0GRVKS19Q?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791211152368
+  },
+  {
     "id": "f-1791210911869",
     "baslik": "ibrush Kids Extra Care Oral-B Çocuk Elektrikli ve Şarjlı Diş Fırçaları Çocuklar ile Uyumlu Çocuk Diş Fırçası Yedek Başlığı Ekstra Hassas Yedek Başlık",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791172391584
-  },
-  {
-    "id": "f-1791172041848",
-    "baslik": "Oral-B iO5 Şarjlı/Elektrikli Diş Fırçası, 2'li Set, Mat Siyah & Beyaz, 2 Fırça Başlığı, Uzun Ömürlü Pil, Premium Seyahat Kabı",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 10379,
-    "yeniFiyat": 9729,
-    "indirimOrani": 6,
-    "netKazanc": 650,
-    "resim": "https://m.media-amazon.com/images/I/71TmjJmTiJL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0B5FGHCKR?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791172041848
   }
 ]
