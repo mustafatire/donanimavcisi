@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791176721649",
+    "baslik": "De'Longhi ICM16210.WS kahve makinesi, 10 fincana kadar filtre kahve makinesi, damlama önleyici fonksiyon, 1,25 l, 1000 W, gümüş/beyaz",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 6221,
+    "yeniFiyat": 5989,
+    "indirimOrani": 4,
+    "netKazanc": 232,
+    "resim": "https://m.media-amazon.com/images/I/41QWp2MVxkL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B07HWJ7RDQ?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791176721650
+  },
+  {
     "id": "f-1791176711656",
     "baslik": "Philips 5500 Serisi LatteGo Tam Otomatik Espresso Makinesi, 20 Sıcak ve Soğuk İçecek, Renkli Dokunmatik Ekran, SilentBrew Teknolojisi (EP5543/90)",
     "kategori": "monitor",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791153091085
-  },
-  {
-    "id": "f-1791153081085",
-    "baslik": "Etap Super Energica Beyaz Saç Kurutma Makinesi",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 1569,
-    "yeniFiyat": 1329,
-    "indirimOrani": 15,
-    "netKazanc": 240,
-    "resim": "https://m.media-amazon.com/images/I/51J3tjml3BL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0HDTRLSM9?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791153081085
   }
 ]
