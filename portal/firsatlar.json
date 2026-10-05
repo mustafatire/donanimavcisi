@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791187751489",
+    "baslik": "Belkin BoostCharge Pro 2 Portlu USB-C Şarj Cihazı 67 W, hızlı şarj",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 1399,
+    "yeniFiyat": 999,
+    "indirimOrani": 29,
+    "netKazanc": 400,
+    "resim": "https://m.media-amazon.com/images/I/51YocoGaq0L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0FVXM4X4J?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791187751489
+  },
+  {
     "id": "f-1791187519642",
     "baslik": "Xiaomi Ses Paketi Mi Taşınabilir Bluetooth 5.4 Hoparlör, IP67 Su Geçirmez Açık Bluetooth Hoparlör, Dinamik Ses, TWS Bağlantısını Destekler, 10 Saat Çalma Süresi, Siyah",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791153560915
-  },
-  {
-    "id": "f-1791153550923",
-    "baslik": "WD Elements Portable Taşınabilir Disk, 2 TB, HDD",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 6099,
-    "yeniFiyat": 5379,
-    "indirimOrani": 12,
-    "netKazanc": 720,
-    "resim": "https://m.media-amazon.com/images/I/61EunJBqIkL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B06W55K9N6?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791153550923
   }
 ]
