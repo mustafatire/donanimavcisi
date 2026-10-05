@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791242352726",
+    "baslik": "KARACA Mastermaid Chef Ultra D2000 Mutfak Şefi, Silver",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 9699,
+    "yeniFiyat": 8854,
+    "indirimOrani": 9,
+    "netKazanc": 845,
+    "resim": "https://m.media-amazon.com/images/I/61tw4O8PEfL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0FWDY67D4?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791242352726
+  },
+  {
     "id": "f-1791241282562",
     "baslik": "KARACA Hatır Neo Inox Türk Kahvesi Makinesi, Inox",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791198201759
-  },
-  {
-    "id": "f-1791198191764",
-    "baslik": "Gillette Venus ComfortGlide Sugarberry Kokulu Miami Kadın 5 Bıçaklı Tıraş Makinesi",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 516,
-    "yeniFiyat": 429,
-    "indirimOrani": 17,
-    "netKazanc": 87,
-    "resim": "https://m.media-amazon.com/images/I/710Xl5G9qrL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0DW9J5VBL?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791198191765
   }
 ]
