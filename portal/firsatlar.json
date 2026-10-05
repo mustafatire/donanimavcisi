@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791225432951",
+    "baslik": "JBL Sense Lite, True Wireless Kulaklık, Mor",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 5547,
+    "yeniFiyat": 5269,
+    "indirimOrani": 5,
+    "netKazanc": 278,
+    "resim": "https://m.media-amazon.com/images/I/61GvSVNh7JL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0FG2V5QTD?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791225432951
+  },
+  {
     "id": "f-1791225312787",
     "baslik": "JBL Wave Flex, Kablosuz Kulakiçi Kulaklık, Bej",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791193032206
-  },
-  {
-    "id": "f-1791191711356",
-    "baslik": "Gillette Mach3 Turbo 3D Erkek Tıraş Makinesi + 2 Bıçak, 1 Adet",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 545,
-    "yeniFiyat": 495,
-    "indirimOrani": 9,
-    "netKazanc": 50,
-    "resim": "https://m.media-amazon.com/images/I/71FehAgPLLL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B082XLG9K9?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791191711356
   }
 ]
