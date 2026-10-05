@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791205512748",
+    "baslik": "Logitech G305 Lightspeed Kablosuz Gaming Mouse, Siyah",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 1710,
+    "yeniFiyat": 1629,
+    "indirimOrani": 5,
+    "netKazanc": 81,
+    "resim": "https://m.media-amazon.com/images/I/41K5gjYDbrS._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B07CGPZ3ZQ?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791205512748
+  },
+  {
     "id": "f-1791204351788",
     "baslik": "Oral-B Profesyonel Temizlik 1 Şarj Edilebilir Diş Fırçası",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791161591596
-  },
-  {
-    "id": "f-1791161351584",
-    "baslik": "Ray-Ban Meta Display Akıllı Gözlük ve Bileklik Seti, Kamera, Canlı Yayın, Sesli Asistan, Siyah",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 69889,
-    "yeniFiyat": 66762,
-    "indirimOrani": 4,
-    "netKazanc": 3127,
-    "resim": "https://m.media-amazon.com/images/I/61vkonu3RAL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0GZQZ2DGX?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791161351584
   }
 ]
