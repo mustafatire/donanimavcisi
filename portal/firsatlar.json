@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791275233352",
+    "baslik": "Homend Steamwork 1168H Buhar Kazanlı Ütü Lacivert",
+    "kategori": "cevre-birimleri",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 4499,
+    "yeniFiyat": 3919,
+    "indirimOrani": 13,
+    "netKazanc": 580,
+    "resim": "https://m.media-amazon.com/images/I/71S6mWaT-fL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0CF1VDK73?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791275233352
+  },
+  {
     "id": "f-1791273923458",
     "baslik": "De'Longhi LA Specialista Opera EC9555.M Manuel Barista Tipi Espresso Kahve Makinesi",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791205631648
-  },
-  {
-    "id": "f-1791205512748",
-    "baslik": "Logitech G305 Lightspeed Kablosuz Gaming Mouse, Siyah",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 1710,
-    "yeniFiyat": 1629,
-    "indirimOrani": 5,
-    "netKazanc": 81,
-    "resim": "https://m.media-amazon.com/images/I/41K5gjYDbrS._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B07CGPZ3ZQ?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791205512748
   }
 ]
