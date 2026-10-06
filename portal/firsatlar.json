@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791323114565",
+    "baslik": "Samsung Galaxy Watch8 Classic Beyaz, Bluetooth, 46mm Akıllı Saat (Samsung Türkiye Garantili)",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 12799,
+    "yeniFiyat": 11899,
+    "indirimOrani": 7,
+    "netKazanc": 900,
+    "resim": "https://m.media-amazon.com/images/I/71VffjtDDDL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0FGQQ2GCV?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791323114566
+  },
+  {
     "id": "f-1791322875028",
     "baslik": "Belkin USB C Taşınabilir Powerbank 20000 mAh, USB Tip C Giriş Çıkış Bağlantı Noktalı 20K Güç Bankası için USB C - A Kablosu Dahil 2 USB A Bağlantı Noktası, Siyah",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791284843993
-  },
-  {
-    "id": "f-1791284833999",
-    "baslik": "Anker soundcore Glow Mini Taşınabilir Hoparlör, 360° Ses Bluetooth Hoparlör, Işık Gösterisi, 12 Saat Pil Ömrü, A3136",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 2999,
-    "yeniFiyat": 1999,
-    "indirimOrani": 33,
-    "netKazanc": 1000,
-    "resim": "https://m.media-amazon.com/images/I/617FNag22oL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0CFDLM2TH?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791284833999
   }
 ]
