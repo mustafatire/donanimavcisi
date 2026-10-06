@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791292753626",
+    "baslik": "Shark HydroVac Pro Islak&Kuru Şarjlı Silme ve Süpürme Makinesi WD210EU",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 17999,
+    "yeniFiyat": 17325,
+    "indirimOrani": 4,
+    "netKazanc": 674,
+    "resim": "https://m.media-amazon.com/images/I/514ExHIyAVL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0CR6RHV7D?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791292753626
+  },
+  {
     "id": "f-1791292633679",
     "baslik": "Roborock ile Uyumlu Q8 Max Pro / Q8 Max Pro Plus Robot Süpürge Fırça,Toz Torbası,Hepa Filtre,Yedek Parça Seti-7 Parça",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791239952573
-  },
-  {
-    "id": "f-1791239473170",
-    "baslik": "Edifier R2000DB Aktif Hoparlör",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 17247,
-    "yeniFiyat": 16016,
-    "indirimOrani": 7,
-    "netKazanc": 1231,
-    "resim": "https://m.media-amazon.com/images/I/81rzFX6tjXL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0D9BLRTLN?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791239473171
   }
 ]
