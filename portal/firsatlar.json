@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791313514009",
+    "baslik": "Fakir Mr.Chef Quadro Kum Beji 1000 W Blender Seti",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 5399,
+    "yeniFiyat": 3699,
+    "indirimOrani": 31,
+    "netKazanc": 1700,
+    "resim": "https://m.media-amazon.com/images/I/51p7XfQOYPL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0DNQMLDQ3?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791313514009
+  },
+  {
     "id": "f-1791313054343",
     "baslik": "Fakir Chaimood Çay Makinesi Rouge",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791282563553
-  },
-  {
-    "id": "f-1791282553556",
-    "baslik": "Sinbo SHD 1727 1600W BLDC Saç Kurutma Makinesi Gri – Sessiz ve Hızlı Kurutma",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 1225,
-    "yeniFiyat": 1000,
-    "indirimOrani": 18,
-    "netKazanc": 225,
-    "resim": "https://m.media-amazon.com/images/I/51INoQkFDRL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0GPCVGLY5?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791282553557
   }
 ]
