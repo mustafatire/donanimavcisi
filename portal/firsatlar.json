@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791273923458",
+    "baslik": "De'Longhi LA Specialista Opera EC9555.M Manuel Barista Tipi Espresso Kahve Makinesi",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 56900,
+    "yeniFiyat": 54900,
+    "indirimOrani": 4,
+    "netKazanc": 2000,
+    "resim": "https://m.media-amazon.com/images/I/81U8zfoPMCL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0CWP67FWS?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791273923459
+  },
+  {
     "id": "f-1791273913464",
     "baslik": "Karaca Hatır Plus 2 In 1 Kahve Makinesi Rosie Brown",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791205512748
-  },
-  {
-    "id": "f-1791204351788",
-    "baslik": "Oral-B Profesyonel Temizlik 1 Şarj Edilebilir Diş Fırçası",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 1997,
-    "yeniFiyat": 1899,
-    "indirimOrani": 5,
-    "netKazanc": 98,
-    "resim": "https://m.media-amazon.com/images/I/71qsv3pIP9L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B08FTFPPQX?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791204351789
   }
 ]
