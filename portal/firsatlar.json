@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791317954401",
+    "baslik": "Philips NA322/00 3000 Serisi Airfryer (Philips Türkiye Garantili)",
+    "kategori": "monitor",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 4649,
+    "yeniFiyat": 4297,
+    "indirimOrani": 8,
+    "netKazanc": 352,
+    "resim": "https://m.media-amazon.com/images/I/51BKxLiORZL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0DJR8CNCZ?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791317954402
+  },
+  {
     "id": "f-1791317114217",
     "baslik": "Divoom SongBird Ultra 100W Çift Mikrofonlu Karaoke Bluetooth Hoparlör, Taşınabilir Ses Bombası, 8 Saate Varan Çalma Süresi, Kablosuz, TF/Aux/USB/Bluetooth5.2, Beyaz",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791283403428
-  },
-  {
-    "id": "f-1791283393434",
-    "baslik": "Razer Basilisk V3 Pro 35K Phantom Green Edition - Tamamen Özelleştirilebilir Kablosuz Ergonomik RGB Oyun Mouse'u (4 Yönlü Tekerleği, 35K DPI Sensör, 13 Düğme) Phantom Green",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 7439,
-    "yeniFiyat": 6799,
-    "indirimOrani": 9,
-    "netKazanc": 640,
-    "resim": "https://m.media-amazon.com/images/I/71qV8bJZxUL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0DWXK17NN?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791283393434
   }
 ]
