@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791296233634",
+    "baslik": "Logitech G Pro X Superlight 2 Kablosuz Oyun Faresi, Siyah",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 6680,
+    "yeniFiyat": 6429,
+    "indirimOrani": 4,
+    "netKazanc": 251,
+    "resim": "https://m.media-amazon.com/images/I/51+8eCBJeXL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B07W5JKP66?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791296233634
+  },
+  {
     "id": "f-1791294553656",
     "baslik": "Grundig SI 8050 Buharlı Ütü",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791241282562
-  },
-  {
-    "id": "f-1791241272567",
-    "baslik": "Nespresso D40 Inissia Kapsüllü Kahve Makinesi, Siyah",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 6949,
-    "yeniFiyat": 6192,
-    "indirimOrani": 11,
-    "netKazanc": 757,
-    "resim": "https://m.media-amazon.com/images/I/616DOmuSg8L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B01N8YAKO0?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791241272568
   }
 ]
