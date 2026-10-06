@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791283293381",
+    "baslik": "Logitech G G502 HERO Kablolu Oyuncu Mouse, LIGHTSYNC Teknolojisi, 25.600 DPI, 11 Programlanabilir Tuş, 121 gr Ağırlık, Siyah",
+    "kategori": "ssd-ram",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 1659,
+    "yeniFiyat": 1580,
+    "indirimOrani": 5,
+    "netKazanc": 79,
+    "resim": "https://m.media-amazon.com/images/I/51M8STWoKjL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B07GS6ZB7T?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791283293381
+  },
+  {
     "id": "f-1791283283380",
     "baslik": "Razer DeathAdder V3 HyperSpeed - 26K DPI ile ultra hafif kablosuz ergonomik e-spor oyun faresi (55g hafif, yumuşak dokunuşlu kaplama, 100 saat pil ömrü, HyperSpeed) Siyah",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791217872046
-  },
-  {
-    "id": "f-1791217512338",
-    "baslik": "Philips 3000Serisi 9in1,Erkek Bakım Seti,Yüz/Saç/Vücut Tıraş Makinesi, Cilt Dostu Bıçaklar,MG3946/15",
-    "kategori": "monitor",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 1845,
-    "yeniFiyat": 1757,
-    "indirimOrani": 5,
-    "netKazanc": 88,
-    "resim": "https://m.media-amazon.com/images/I/71X76QUeHHL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0FDL1XP3J?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791217512338
   }
 ]
