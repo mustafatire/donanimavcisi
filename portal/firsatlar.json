@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791326114389",
+    "baslik": "BRAUN CG9167 Multigrill 9 Pro Izgara&Tost Makinesi",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 22900,
+    "yeniFiyat": 21900,
+    "indirimOrani": 4,
+    "netKazanc": 1000,
+    "resim": "https://m.media-amazon.com/images/I/61z3Tvmx-BL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0DFYY8VGL?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791326114389
+  },
+  {
     "id": "f-1791325524138",
     "baslik": "Ninja Prestige Dualbrew Filtre ve Kapsül Kahve Makinesi CFN802EU",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791285433554
-  },
-  {
-    "id": "f-1791285073664",
-    "baslik": "Belkin 2 Bağlantı Noktalı USB-C Şarj Cihazı 50 W, 2x USB-C Çift Bağlantı Noktalı GaN Şarj Cihazı, MacBook, iPhone 17, iPad Pro, Chromebook, Galaxy S25 Ultra, Pixel 10 vb. için, Seyahat için, Siyah",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 999,
-    "yeniFiyat": 949,
-    "indirimOrani": 5,
-    "netKazanc": 50,
-    "resim": "https://m.media-amazon.com/images/I/51vj99-9CfL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0FP2V4HP1?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791285073664
   }
 ]
