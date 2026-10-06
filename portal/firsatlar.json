@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791312795174",
+    "baslik": "Fakir Aroma Gourmet Filtre Kahve Makinesi-Silver",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 3499,
+    "yeniFiyat": 3299,
+    "indirimOrani": 6,
+    "netKazanc": 200,
+    "resim": "https://m.media-amazon.com/images/I/51fubIxTkdL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0D4QN551M?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791312795175
+  },
+  {
     "id": "f-1791312564138",
     "baslik": "Ninja Luxe Café Premier Espresso Makinesi ES601EU",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791281593756
-  },
-  {
-    "id": "f-1791280993669",
-    "baslik": "Grundig HBS 4421 G Cam Hazneli Blender Seti",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 2599,
-    "yeniFiyat": 2482,
-    "indirimOrani": 5,
-    "netKazanc": 117,
-    "resim": "https://m.media-amazon.com/images/I/312MuHXz7tL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0FWVZVCXR?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791280993669
   }
 ]
