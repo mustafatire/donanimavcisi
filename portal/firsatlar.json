@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791275833785",
+    "baslik": "Philips 5000 Series MG5923/15 11in1 Erkek Bakım Seti",
+    "kategori": "monitor",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 2262,
+    "yeniFiyat": 2116,
+    "indirimOrani": 6,
+    "netKazanc": 146,
+    "resim": "https://m.media-amazon.com/images/I/61mNPCj0iNL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0GH1D4XRR?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791275833785
+  },
+  {
     "id": "f-1791275233352",
     "baslik": "Homend Steamwork 1168H Buhar Kazanlı Ütü Lacivert",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791206352615
-  },
-  {
-    "id": "f-1791205631648",
-    "baslik": "Aula SC380 Pro PAW3311 Sensör 12000 DPI 1000Hz Kablolu ve Kablosuz Gaming Oyuncu Mouse Siyah",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 1196,
-    "yeniFiyat": 1136,
-    "indirimOrani": 5,
-    "netKazanc": 60,
-    "resim": "https://m.media-amazon.com/images/I/51GodyovcWL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0FXXY1LFZ?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791205631648
   }
 ]
