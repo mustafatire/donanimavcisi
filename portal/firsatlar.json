@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791279073119",
+    "baslik": "Dynamic Life Pro 005 Airfryer 5 Lt Fritöz Beyaz",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 2149,
+    "yeniFiyat": 1999,
+    "indirimOrani": 7,
+    "netKazanc": 150,
+    "resim": "https://m.media-amazon.com/images/I/41rkvUpSe-L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0CZF35PY5?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791279073120
+  },
+  {
     "id": "f-1791278953180",
     "baslik": "Samsung EVO Plus microSD Hafıza Kartı 128 GB",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791209231930
-  },
-  {
-    "id": "f-1791208992036",
-    "baslik": "Karaca MyCaffe Barista S20 Entegre Süt Hazneli Otomatik Espresso ve Latte Makinesi Amber 900 ml 1360W",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 5839,
-    "yeniFiyat": 4999,
-    "indirimOrani": 14,
-    "netKazanc": 840,
-    "resim": "https://m.media-amazon.com/images/I/715qqHBVPDL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0FHVNSSCB?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791208992037
   }
 ]
