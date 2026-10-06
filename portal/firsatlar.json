@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791260712961",
+    "baslik": "Nespresso C62 Pixie Kahve Makinesi,Yeşil",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 11624,
+    "yeniFiyat": 10663,
+    "indirimOrani": 8,
+    "netKazanc": 961,
+    "resim": "https://m.media-amazon.com/images/I/71Ns3JRIpeL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0D6N6SCFN?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791260712962
+  },
+  {
     "id": "f-1791259033551",
     "baslik": "Spigen 67W USB-C + USB-A 3 Port Hızlı Şarj Aleti PPS 3.0 Super Hızlı Şarj GaN Pro Isı Düşürücü Güç Adaptörü Akım Koruma iPhone & Android & iPad & MacBook Type-C White - ACH08710",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791200491968
-  },
-  {
-    "id": "f-1791200481967",
-    "baslik": "JBL Boombox 4, Bluetooth Hoparlör, IP67, Siyah",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 35909,
-    "yeniFiyat": 30303,
-    "indirimOrani": 16,
-    "netKazanc": 5606,
-    "resim": "https://m.media-amazon.com/images/I/71MLABFRYWL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0FNS3ZYC5?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791200481967
   }
 ]
