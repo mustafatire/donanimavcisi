@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791247393276",
+    "baslik": "Dyson V12 Detect Slim Absolute Şarjlı Dikey Süpürge",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 30990,
+    "yeniFiyat": 29590,
+    "indirimOrani": 5,
+    "netKazanc": 1400,
+    "resim": "https://m.media-amazon.com/images/I/51xjgZ1d4oL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0CK74L5RN?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791247393277
+  },
+  {
     "id": "f-1791246433394",
     "baslik": "KIOXIA TransMemory U202 128GB USB Bellek – USB 2.0, Beyaz",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791199152009
-  },
-  {
-    "id": "f-1791199042315",
-    "baslik": "Aula S12 Pro 12800 DPI 8 Tuşlu Makrolu Kablolu Optik Gaming Oyuncu Mouse Siyah",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 638,
-    "yeniFiyat": 609,
-    "indirimOrani": 5,
-    "netKazanc": 29,
-    "resim": "https://m.media-amazon.com/images/I/61gBy32RefL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0CPLS36Q5?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791199042316
   }
 ]
