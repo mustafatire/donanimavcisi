@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791312554145",
+    "baslik": "Fakir KM6151 Öğütücülü Kahve Makinesi",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 8799,
+    "yeniFiyat": 5499,
+    "indirimOrani": 38,
+    "netKazanc": 3300,
+    "resim": "https://m.media-amazon.com/images/I/51BP5fchBgL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0BM4WLHR4?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791312554146
+  },
+  {
     "id": "f-1791311354011",
     "baslik": "Lexar 256 GB Profesyonel Silver Plus microSDXC Hafıza Kartı w/SD Adaptör, UHS-I, C10, U3, V30, Full-HD ve 4K Video, 205/150 MB/s'ye kadar Okuma/Yazma, Videografçılar, Oyuncular (LMSSIPL256G-BNANU)",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791280513575
-  },
-  {
-    "id": "f-1791280393365",
-    "baslik": "GRUNDIG TCM 7065 K İkili Çelik Türk Kahve Makinesi",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 8287,
-    "yeniFiyat": 7567,
-    "indirimOrani": 9,
-    "netKazanc": 720,
-    "resim": "https://m.media-amazon.com/images/I/51ul46nf5gL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0GZVPGJFF?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791280393366
   }
 ]
