@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791312564138",
+    "baslik": "Ninja Luxe Café Premier Espresso Makinesi ES601EU",
+    "kategori": "cevre-birimleri",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 34975,
+    "yeniFiyat": 30715,
+    "indirimOrani": 12,
+    "netKazanc": 4260,
+    "resim": "https://m.media-amazon.com/images/I/618CqHD95CL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0DFCSXC1S?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791312564139
+  },
+  {
     "id": "f-1791312554145",
     "baslik": "Fakir KM6151 Öğütücülü Kahve Makinesi",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791280993669
-  },
-  {
-    "id": "f-1791280513575",
-    "baslik": "Kiwi Ktm-2919 Cam Çaycı Elektrikli Çay Makinesi | 1.7L & 1.0L Demlik & Derece Ayarlı Dijital Panel & Cam Kettle",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 2499,
-    "yeniFiyat": 1645,
-    "indirimOrani": 34,
-    "netKazanc": 854,
-    "resim": "https://m.media-amazon.com/images/I/71S6YL3TwjL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0H8QGBSN8?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791280513575
   }
 ]
