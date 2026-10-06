@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791301754073",
+    "baslik": "Philips 3000Serisi 9in1,Erkek Bakım Seti,Yüz/Saç/Vücut Tıraş Makinesi, Cilt Dostu Bıçaklar,MG3946/15",
+    "kategori": "monitor",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 1898,
+    "yeniFiyat": 1757,
+    "indirimOrani": 7,
+    "netKazanc": 141,
+    "resim": "https://m.media-amazon.com/images/I/71X76QUeHHL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0FDL1XP3J?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791301754073
+  },
+  {
     "id": "f-1791301523625",
     "baslik": "Oral-B iO10 Gold Şarjlı/Elektrikli Diş Fırçası, 1 Fırça Başlığı, Hızlı Manyetik Şarj Cihazı, Uzun Ömürlü Pil, Şarj Eden Seyahat Kabı",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791271993104
-  },
-  {
-    "id": "f-1791271032996",
-    "baslik": "UGREEN 100W Güç Bankası 20000mAh 3 Portlu Harici Pil MacBook Pro/Air, iPhone 15 Pro Max/Pro/15/14 Pro, Galaxy S23 Ultra, Dell ile Uyum",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 3188,
-    "yeniFiyat": 3020,
-    "indirimOrani": 5,
-    "netKazanc": 168,
-    "resim": "https://m.media-amazon.com/images/I/514bgqH8f8L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0C3GTMX5M?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791271032996
   }
 ]
