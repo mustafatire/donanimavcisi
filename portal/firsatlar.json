@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791249312843",
+    "baslik": "Homend Jetsteam 1173h Buhar Kazanlı Ütü Mor Siyah",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 8999,
+    "yeniFiyat": 7198,
+    "indirimOrani": 20,
+    "netKazanc": 1801,
+    "resim": "https://m.media-amazon.com/images/I/71J0usVfqEL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0CF1YB1JX?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791249312844
+  },
+  {
     "id": "f-1791247393276",
     "baslik": "Dyson V12 Detect Slim Absolute Şarjlı Dikey Süpürge",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791199392702
-  },
-  {
-    "id": "f-1791199152009",
-    "baslik": "Redragon M612 PRO RGB oyun faresi, 8000 DPI kablolu/kablosuz optik oyuncu faresi, 9 programlanabilir tuş ve arka plan aydınlatması, BT & 2.4G, yazılım destekli, Rapid Fire Button",
-    "kategori": "ssd-ram",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 1299,
-    "yeniFiyat": 1169,
-    "indirimOrani": 10,
-    "netKazanc": 130,
-    "resim": "https://m.media-amazon.com/images/I/51VV+zLR66L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0CY1PYYNS?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791199152009
   }
 ]
