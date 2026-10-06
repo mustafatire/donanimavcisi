@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791299594107",
+    "baslik": "Sinbo SCM-2953 Filtre Kahve Makinesi",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 1199,
+    "yeniFiyat": 1104,
+    "indirimOrani": 8,
+    "netKazanc": 95,
+    "resim": "https://m.media-amazon.com/images/I/6164vPwtpPL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0866WZT1S?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791299594107
+  },
+  {
     "id": "f-1791299473684",
     "baslik": "Samsung Jet 60 (VS15A6031R4) Dikey/Pratik Elektrikli Süpürge - Jet Siklon",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791258323143
-  },
-  {
-    "id": "f-1791258313148",
-    "baslik": "HUAWEI WATCH FIT 4 Akıllı Saat, 100+ Spor Modu, Ultra İnce Tasarım, Siyah",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 5599,
-    "yeniFiyat": 4999,
-    "indirimOrani": 11,
-    "netKazanc": 600,
-    "resim": "https://m.media-amazon.com/images/I/71YljPppx2L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0F1DMNC6B?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791258313149
   }
 ]
