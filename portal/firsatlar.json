@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791277032738",
+    "baslik": "Das grüne Kind: Ein berührendes Bilderbuch über den Wandel der Jahreszeiten und unsere Umwelt für Kinder ab 3 Jahren",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 1313,
+    "yeniFiyat": 1251,
+    "indirimOrani": 5,
+    "netKazanc": 62,
+    "resim": "https://m.media-amazon.com/images/I/81Lpx80dhJL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/3747408184?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791277032739
+  },
+  {
     "id": "f-1791276073150",
     "baslik": "Grundig Hd 3361 Saç Kurutma Makinesi Siyah",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791206832336
-  },
-  {
-    "id": "f-1791206592350",
-    "baslik": "Apple Watch Series 9 GPS 41 mm (PRODUCT) RED Alüminyum Kasa Akıllı Saat ve (PRODUCT) RED Spor Kordon - S/M. Fitness Takibi, Kanda Oksijen ve EKG Uygulamaları, Hep Açık Retina Ekran",
-    "kategori": "kasa-psu",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 19999,
-    "yeniFiyat": 15999,
-    "indirimOrani": 20,
-    "netKazanc": 4000,
-    "resim": "https://m.media-amazon.com/images/I/7157O4ulkTL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0CHX1FXBD?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791206592350
   }
 ]
