@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791310634068",
+    "baslik": "Xiaomi Sound Pocket",
+    "kategori": "cevre-birimleri",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 1070,
+    "yeniFiyat": 950,
+    "indirimOrani": 11,
+    "netKazanc": 120,
+    "resim": "https://m.media-amazon.com/images/I/71wOrl8wEwL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0CZRLRGM5?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791310634068
+  },
+  {
     "id": "f-1791309314025",
     "baslik": "Alienware Oyun Faresi AW620M, 1 x USB Tip A, 140 Saat Pil Ömrü",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791280273280
-  },
-  {
-    "id": "f-1791280153388",
-    "baslik": "Kiwi Kcm-7512 Inox Türk Kahve Makinesi, Gümüş",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 599,
-    "yeniFiyat": 477,
-    "indirimOrani": 20,
-    "netKazanc": 122,
-    "resim": "https://m.media-amazon.com/images/I/41ioWCCka+L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B08NSPD5W4?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791280153388
   }
 ]
