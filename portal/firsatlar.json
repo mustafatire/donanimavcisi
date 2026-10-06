@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791258323143",
+    "baslik": "HUAWEI WATCH GT 6 41 mm Akıllı Saat Beyaz Deri",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 9499,
+    "yeniFiyat": 8999,
+    "indirimOrani": 5,
+    "netKazanc": 500,
+    "resim": "https://m.media-amazon.com/images/I/710KfAEoWBL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0FK9ZYQBR?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791258323143
+  },
+  {
     "id": "f-1791258313148",
     "baslik": "HUAWEI WATCH FIT 4 Akıllı Saat, 100+ Spor Modu, Ultra İnce Tasarım, Siyah",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791200471973
-  },
-  {
-    "id": "f-1791199992295",
-    "baslik": "Bix TSW3 42mm Ultra İnce 1.32” AMOLED Ekranlı Akıllı Saat – Bluetooth Aramalı, Metal Çerçeveli, Nabız & SpO₂ Ölçer, iOS ve Android Uyumlu (Siyah)",
-    "kategori": "monitor",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 2568,
-    "yeniFiyat": 2425,
-    "indirimOrani": 6,
-    "netKazanc": 143,
-    "resim": "https://m.media-amazon.com/images/I/61r6m9yNu+L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0GSR393HP?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791199992295
   }
 ]
