@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791300803667",
+    "baslik": "Philips 900 Serisi Hava Temizleyici, 65 M2'ye Kadar Etkili, HEPA ve Aktif Karbon filtresi, 250 m3/sa temiz hava hızı (CADR), AC0951/13",
+    "kategori": "monitor",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 8599,
+    "yeniFiyat": 8199,
+    "indirimOrani": 5,
+    "netKazanc": 400,
+    "resim": "https://m.media-amazon.com/images/I/51-lKOfDQLL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0D3VDV73J?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791300803667
+  },
+  {
     "id": "f-1791300793672",
     "baslik": "Philips Hava Temizleyici 2200 Serisi, HEPA NanoProtect + Aktif Karbon Filtre, 109m² için CADR 420m³/s, Alerji hastaları, Ultra sessiz, Akıllı ve Uzun ömürlü filtre (AC2220/10)",
     "kategori": "monitor",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791268873446
-  },
-  {
-    "id": "f-1791266833018",
-    "baslik": "Shark PowerDetect Clean&Empty Auto-Empty Sistemli Pet Başlıklı Şarjlı Dikey Süpürge IP3251EUT",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 34902,
-    "yeniFiyat": 33595,
-    "indirimOrani": 4,
-    "netKazanc": 1307,
-    "resim": "https://m.media-amazon.com/images/I/719G6bFJPGL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0DFX336DH?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791266833018
   }
 ]
