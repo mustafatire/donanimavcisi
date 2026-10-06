@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791294073558",
+    "baslik": "50W 2'Li Cubuk Blender Seti, ABN21062023-2034",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 1288,
+    "yeniFiyat": 1223,
+    "indirimOrani": 5,
+    "netKazanc": 65,
+    "resim": "https://m.media-amazon.com/images/I/6114cRnMn0L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0GMXX98QN?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791294073559
+  },
+  {
     "id": "f-1791293233753",
     "baslik": "De'Longhi Dedica Duo Manuel Espresso Kahve Makinesi EC890.GR",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791240432946
-  },
-  {
-    "id": "f-1791240073244",
-    "baslik": "Samsung T7 256GB Micro SD Hafıza Kartı",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 3498,
-    "yeniFiyat": 3293,
-    "indirimOrani": 6,
-    "netKazanc": 205,
-    "resim": "https://m.media-amazon.com/images/I/71bx4PmC+hL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0GMS4VYVT?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791240073244
   }
 ]
