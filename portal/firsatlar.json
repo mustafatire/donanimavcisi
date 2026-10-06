@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791278953180",
+    "baslik": "Samsung EVO Plus microSD Hafıza Kartı 128 GB",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 2399,
+    "yeniFiyat": 2199,
+    "indirimOrani": 8,
+    "netKazanc": 200,
+    "resim": "https://m.media-amazon.com/images/I/51T3MYmx4lL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B09FFF18BQ?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791278953181
+  },
+  {
     "id": "f-1791278233508",
     "baslik": "Bitty Boomers Marvel: Into The Spider-Verse - Miles Morales - Mini Bluetooth Hoparlör",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791208992037
-  },
-  {
-    "id": "f-1791207311708",
-    "baslik": "Samsung Hızlı şarj cihazı, USB-C, 25 W veri kablosuz, siyah",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 699,
-    "yeniFiyat": 649,
-    "indirimOrani": 7,
-    "netKazanc": 50,
-    "resim": "https://m.media-amazon.com/images/I/615S9jD5NNL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0CBDWQVSF?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791207311708
   }
 ]
