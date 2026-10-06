@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791296353781",
+    "baslik": "Glorious Model D RGB Kablosuz BAMF sensörlü 19000 DPI 69 gram Mat Siyah",
+    "kategori": "ssd-ram",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 1599,
+    "yeniFiyat": 1439,
+    "indirimOrani": 10,
+    "netKazanc": 160,
+    "resim": "https://m.media-amazon.com/images/I/71KxlmYnoOL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B094RLNC83?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791296353782
+  },
+  {
     "id": "f-1791296233634",
     "baslik": "Logitech G Pro X Superlight 2 Kablosuz Oyun Faresi, Siyah",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791242352726
-  },
-  {
-    "id": "f-1791241282562",
-    "baslik": "KARACA Hatır Neo Inox Türk Kahvesi Makinesi, Inox",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 2999,
-    "yeniFiyat": 2799,
-    "indirimOrani": 7,
-    "netKazanc": 200,
-    "resim": "https://m.media-amazon.com/images/I/61kWgiECZ6L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0FWDF9JD9?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791241282562
   }
 ]
