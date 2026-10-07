@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791395115175",
+    "baslik": "Belkin BoostCharge Pro 2 Portlu USB-C Şarj Cihazı 67 W, hızlı şarj",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 1399,
+    "yeniFiyat": 949,
+    "indirimOrani": 32,
+    "netKazanc": 450,
+    "resim": "https://m.media-amazon.com/images/I/51YocoGaq0L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0FVXM4X4J?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791395115175
+  },
+  {
     "id": "f-1791394155102",
     "baslik": "Belkin USB C Taşınabilir Powerbank 20000 mAh, USB Tip C Giriş Çıkış Bağlantı Noktalı 20K Güç Bankası için USB C - A Kablosu Dahil 2 USB A Bağlantı Noktası, Siyah",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791362595826
-  },
-  {
-    "id": "f-1791362475503",
-    "baslik": "Stone M1 5W Su Geçirmez Taşınabilir Bluetooth 5.4 Hoparlör Kahverengi",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 854,
-    "yeniFiyat": 668,
-    "indirimOrani": 22,
-    "netKazanc": 186,
-    "resim": "https://m.media-amazon.com/images/I/61FmEv60YAL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B07SMZTFJ5?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791362475504
   }
 ]
