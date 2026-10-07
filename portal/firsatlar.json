@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791396435565",
+    "baslik": "Philips Aqua Kablosuz Dik Süpürge XC7055/01",
+    "kategori": "monitor",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 14188,
+    "yeniFiyat": 13230,
+    "indirimOrani": 7,
+    "netKazanc": 958,
+    "resim": "https://m.media-amazon.com/images/I/513dHb+QpJL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0DNW62WSV?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791396435566
+  },
+  {
     "id": "f-1791395835174",
     "baslik": "Heißluftfritteuse Kochbuch: Einfache, gesunde und köstliche Rezepte in nur 20 Minuten. Für die ganze Familie geeignet, mit einfachen und detaillierten Anleitungen. Perfekt für jedes Airfryer-Modell.",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791364034969
-  },
-  {
-    "id": "f-1791363194937",
-    "baslik": "Samsung T9 128GB Micro SD Hafıza Kartı",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 2699,
-    "yeniFiyat": 2564,
-    "indirimOrani": 5,
-    "netKazanc": 135,
-    "resim": "https://m.media-amazon.com/images/I/719ufrgvx1L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0GMRFQDYP?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791363194938
   }
 ]
