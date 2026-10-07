@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791367285025",
+    "baslik": "SanDisk Extreme Portable SSD 4 TB, Sky Blue (taşınabilir NVMe SSD, USB-C, 1.050 MB/sn'ye kadar okuma hızı ve 1.000 MB/s yazma hızı, su ve toza dayanıklı) SDSSDE61-4T00-G25B",
+    "kategori": "ssd-ram",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 39999,
+    "yeniFiyat": 37999,
+    "indirimOrani": 5,
+    "netKazanc": 2000,
+    "resim": "https://m.media-amazon.com/images/I/71pPw9OAZ7L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0C5SF333L?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791367285025
+  },
+  {
     "id": "f-1791367275032",
     "baslik": "KIOXIA EXCERIA PLUS G2 1TB Taşınabilir SSD – USB 3.2 Gen 2, 1050MB/s Okuma, 1000MB/s Yazma",
     "kategori": "ssd-ram",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791300073577
-  },
-  {
-    "id": "f-1791299604101",
-    "baslik": "Philips Filtre Kahve Makinesi, 1,2 Lt Kapasite, Otomatik Kapanma, Cam Demlikli, Kolay Doldurma, Zamanlayıcı, Siyah ve Metal, HD7459/20",
-    "kategori": "monitor",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 2928,
-    "yeniFiyat": 2728,
-    "indirimOrani": 7,
-    "netKazanc": 200,
-    "resim": "https://m.media-amazon.com/images/I/71NbswtKYVL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B00E385ATG?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791299604102
   }
 ]
