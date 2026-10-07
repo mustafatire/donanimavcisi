@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791390315870",
+    "baslik": "Philips Filtre Kahve Makinesi, 1,2 Lt Kapasite, Otomatik Kapanma, Cam Demlikli, Siyah ve Metal, HD7462/20",
+    "kategori": "monitor",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 3128,
+    "yeniFiyat": 2499,
+    "indirimOrani": 20,
+    "netKazanc": 629,
+    "resim": "https://m.media-amazon.com/images/I/61vOJDZOC5L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B00R04CAWA?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791390315871
+  },
+  {
     "id": "f-1791389715165",
     "baslik": "MOVA E50 Pro Ultra Robot Süpürge, 30.000 Pa Emiş Gücü, 100 °C Sıcak Su ile Paspas Temizleme, Kendi Kendini Temizleyen İstasyon, Uzatılabilir Paspas, Dolanmayı Önleyen Fırça, 3 Yıl Garanti",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791351674470
-  },
-  {
-    "id": "f-1791349635162",
-    "baslik": "Stone M1 5W Su Geçirmez Taşınabilir Bluetooth 5.4 Hoparlör Yeşil",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 954,
-    "yeniFiyat": 668,
-    "indirimOrani": 30,
-    "netKazanc": 286,
-    "resim": "https://m.media-amazon.com/images/I/6181UkJlJwL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B07SKSSZ9P?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791349635163
   }
 ]
