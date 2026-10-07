@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791392725309",
+    "baslik": "Powertec TR-301 Askı Aparatlı | Otel Tipi | Profesyonel Saç Kurutma & Fön Makinesi",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 1425,
+    "yeniFiyat": 1360,
+    "indirimOrani": 5,
+    "netKazanc": 65,
+    "resim": "https://m.media-amazon.com/images/I/51tc7sqlEQL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0GJLK1BJJ?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791392725310
+  },
+  {
     "id": "f-1791392715316",
     "baslik": "Powertec TR-701 Profesyonel Saç Kurutma & Fön Makinesi",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791359834857
-  },
-  {
-    "id": "f-1791359355264",
-    "baslik": "Philips PerfectCare 8000 Serisi Buhar kazanlı ütü - Hız Modu, Akıllı Otomatik Buhar, Otomatik Dikey Buhar, Garantili Yanık Yok (PSG8130/80)",
-    "kategori": "monitor",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 26199,
-    "yeniFiyat": 22599,
-    "indirimOrani": 14,
-    "netKazanc": 3600,
-    "resim": "https://m.media-amazon.com/images/I/61zEFExmD3L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B092DPHZ6N?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791359355264
   }
 ]
