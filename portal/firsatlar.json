@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791400072677",
+    "baslik": "Razer DeathAdder Essential (2021) - Kablolu Oyun Faresi (Optik Sensör, 6400 DPI, 5 Programlanabilir Düğme, Ergonomik Form Faktörü) Siyah",
+    "kategori": "ssd-ram",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 999,
+    "yeniFiyat": 929,
+    "indirimOrani": 7,
+    "netKazanc": 70,
+    "resim": "https://m.media-amazon.com/images/I/81Wl3jXuL6L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B092R5MCB3?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791400072677
+  },
+  {
     "id": "f-1791396915152",
     "baslik": "Nespresso C62 Pixie Kahve Makinesi,Titan",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791366074854
-  },
-  {
-    "id": "f-1791365715132",
-    "baslik": "Philips Azur 8000 serisi buharlı ütü – 70 g/dk sürekli buhar, 240 g turbo buhar çıkışı, 3000 W güç, OptimalTEMP teknolojisi, yeşil opal (DST8030/70)",
-    "kategori": "monitor",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 5299,
-    "yeniFiyat": 4774,
-    "indirimOrani": 10,
-    "netKazanc": 525,
-    "resim": "https://m.media-amazon.com/images/I/71veSVSl25L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0B7KCK2YV?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791365715133
   }
 ]
