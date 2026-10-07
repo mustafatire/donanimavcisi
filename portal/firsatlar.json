@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791358634821",
+    "baslik": "WMF Lono Tost Makinesi, 2 Standart veya XXL Tost Kapasiteli, 2 Kademeli Yükseklik Ayarlı, Mat Paslanmaz Çelik",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 7649,
+    "yeniFiyat": 7351,
+    "indirimOrani": 4,
+    "netKazanc": 298,
+    "resim": "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_UL80_.gif",
+    "link": "https://www.amazon.com.tr/dp/B01IVDXVM6?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791358634821
+  },
+  {
     "id": "f-1791358395112",
     "baslik": "Conti CTM-125 Tealine Çelik Çay Makinesi 2000 W, 1,7 L Su Isıtıcı ve 1,2 L Demlik, 304 Paslanmaz Çelik, Sıcak Tutma, Kettle Kullanımı, Gizli Rezistans, 360° Taban",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791296363776
-  },
-  {
-    "id": "f-1791296353781",
-    "baslik": "Glorious Model D RGB Kablosuz BAMF sensörlü 19000 DPI 69 gram Mat Siyah",
-    "kategori": "ssd-ram",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 1599,
-    "yeniFiyat": 1439,
-    "indirimOrani": 10,
-    "netKazanc": 160,
-    "resim": "https://m.media-amazon.com/images/I/71KxlmYnoOL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B094RLNC83?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791296353782
   }
 ]
