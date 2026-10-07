@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791378675015",
+    "baslik": "Philips Azur Buharlı Ütü DST8040/30",
+    "kategori": "monitor",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 5399,
+    "yeniFiyat": 5199,
+    "indirimOrani": 4,
+    "netKazanc": 200,
+    "resim": "https://m.media-amazon.com/images/I/51wmZITB19L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0BVGBZL8T?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791378675015
+  },
+  {
     "id": "f-1791377595035",
     "baslik": "Conti Elektrikli Çelik Cezve –Türk Kahvesi Makinesi – 400 ml (5 Fincan) Kapasite – Paslanmaz Çelik Gövde, Gizli Rezistans, Susuz Çalışma Emniyetli, Yüksek Güç (1000W)",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791313054343
-  },
-  {
-    "id": "f-1791313044342",
-    "baslik": "Fakir Chainox Çay Makinesi Silverstone",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 3268,
-    "yeniFiyat": 2499,
-    "indirimOrani": 24,
-    "netKazanc": 769,
-    "resim": "https://m.media-amazon.com/images/I/51rI87bk9tL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0FFN388PV?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791313044342
   }
 ]
