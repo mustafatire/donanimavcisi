@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791351674470",
+    "baslik": "Grundig Tkm 1342 G Türk Kahvesi Makinesi 5 Fincan Kapasiteli",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 1939,
+    "yeniFiyat": 1799,
+    "indirimOrani": 7,
+    "netKazanc": 140,
+    "resim": "https://m.media-amazon.com/images/I/51BjaEjjLIL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0C5TLZ1GQ?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791351674470
+  },
+  {
     "id": "f-1791349635162",
     "baslik": "Stone M1 5W Su Geçirmez Taşınabilir Bluetooth 5.4 Hoparlör Yeşil",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791294073559
-  },
-  {
-    "id": "f-1791293233753",
-    "baslik": "De'Longhi Dedica Duo Manuel Espresso Kahve Makinesi EC890.GR",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 14999,
-    "yeniFiyat": 13999,
-    "indirimOrani": 7,
-    "netKazanc": 1000,
-    "resim": "https://m.media-amazon.com/images/I/71anZc7ubeL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0DWFVBL9V?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791293233754
   }
 ]
