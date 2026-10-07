@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791395835174",
+    "baslik": "Heißluftfritteuse Kochbuch: Einfache, gesunde und köstliche Rezepte in nur 20 Minuten. Für die ganze Familie geeignet, mit einfachen und detaillierten Anleitungen. Perfekt für jedes Airfryer-Modell.",
+    "kategori": "cevre-birimleri",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 1347,
+    "yeniFiyat": 1158,
+    "indirimOrani": 14,
+    "netKazanc": 189,
+    "resim": "https://m.media-amazon.com/images/I/71QWwe3zi5L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0DWMVZVQG?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791395835174
+  },
+  {
     "id": "f-1791395125168",
     "baslik": "Belkin BoostCharge Pro 2 Portlu USB-C Şarj Cihazı 67 W, hızlı şarj",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791363194938
-  },
-  {
-    "id": "f-1791362955359",
-    "baslik": "Kingston Kingston DataTraveler Exodia 128GB USB Flash Bellek USB3.2 Gen1 (Black + Yellow) DTX/128GB",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 659,
-    "yeniFiyat": 575,
-    "indirimOrani": 13,
-    "netKazanc": 84,
-    "resim": "https://m.media-amazon.com/images/I/51AsGiXV6WL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B08JD4TBM3?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791362955359
   }
 ]
