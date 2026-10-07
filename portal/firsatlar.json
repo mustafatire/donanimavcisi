@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791366554979",
+    "baslik": "Philips 3000 Serisi Saç Kesme Makinesi, 13 uzunluk ayarı, Kolay temizleme, HC3525/15",
+    "kategori": "monitor",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 1751,
+    "yeniFiyat": 1585,
+    "indirimOrani": 9,
+    "netKazanc": 166,
+    "resim": "https://m.media-amazon.com/images/I/51hhxcIJwoL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B092K41JBQ?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791366554979
+  },
+  {
     "id": "f-1791366434873",
     "baslik": "Oral-B iO Çocuk 6+ Stitch Diş Fırçası Yedek Başlığı 2 Adet",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791299604102
-  },
-  {
-    "id": "f-1791299594107",
-    "baslik": "Sinbo SCM-2953 Filtre Kahve Makinesi",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 1199,
-    "yeniFiyat": 1104,
-    "indirimOrani": 8,
-    "netKazanc": 95,
-    "resim": "https://m.media-amazon.com/images/I/6164vPwtpPL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0866WZT1S?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791299594107
   }
 ]
