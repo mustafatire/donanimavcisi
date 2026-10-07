@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791384445013",
+    "baslik": "Sinbo SSM 2587 Mini Tost Makinesi",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 1399,
+    "yeniFiyat": 1299,
+    "indirimOrani": 7,
+    "netKazanc": 100,
+    "resim": "https://m.media-amazon.com/images/I/41Mx7zE7DHL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0GQV5MVM9?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791384445014
+  },
+  {
     "id": "f-1791384435019",
     "baslik": "Tefal OptiGrill+ 4 Porsiyon Kapasiteli 2000 Watt 6 Programlı Barbekü Izgara ve Tost Makinesi - Inox",
     "kategori": "ssd-ram",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791325514144
-  },
-  {
-    "id": "f-1791323114565",
-    "baslik": "Samsung Galaxy Watch8 Classic Beyaz, Bluetooth, 46mm Akıllı Saat (Samsung Türkiye Garantili)",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 12799,
-    "yeniFiyat": 11899,
-    "indirimOrani": 7,
-    "netKazanc": 900,
-    "resim": "https://m.media-amazon.com/images/I/71VffjtDDDL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0FGQQ2GCV?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791323114566
   }
 ]
