@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791385155374",
+    "baslik": "Philips Azur DST7041/20 7000 Serisi 2800 W Buharlı Ütü",
+    "kategori": "monitor",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 3095,
+    "yeniFiyat": 2869,
+    "indirimOrani": 7,
+    "netKazanc": 226,
+    "resim": "https://m.media-amazon.com/images/I/61BP2G65ImL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0C2HFJJFX?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791385155374
+  },
+  {
     "id": "f-1791385045390",
     "baslik": "Xiaomi Mijia Smart Air Purifier 6 EU",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791332114541
-  },
-  {
-    "id": "f-1791330794496",
-    "baslik": "128GB microSDXC Canvas Select Plus Gen3 150MB/s A1 Card + Adapter",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 1221,
-    "yeniFiyat": 1158,
-    "indirimOrani": 5,
-    "netKazanc": 63,
-    "resim": "https://m.media-amazon.com/images/I/71913emXQOL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0FCZTYSN6?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791330794497
   }
 ]
