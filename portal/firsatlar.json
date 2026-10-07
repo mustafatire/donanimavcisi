@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791385045390",
+    "baslik": "Xiaomi Mijia Smart Air Purifier 6 EU",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 11999,
+    "yeniFiyat": 11460,
+    "indirimOrani": 4,
+    "netKazanc": 539,
+    "resim": "https://m.media-amazon.com/images/I/71RGQMFYvhL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0FQY8RTLR?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791385045390
+  },
+  {
     "id": "f-1791385035395",
     "baslik": "Philips Hava Temizleyici 2200 Serisi, HEPA NanoProtect + Aktif Karbon Filtre, 109m² için CADR 420m³/s, Alerji hastaları, Ultra sessiz, Akıllı ve Uzun ömürlü filtre (AC2220/10)",
     "kategori": "monitor",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791330794497
-  },
-  {
-    "id": "f-1791329234720",
-    "baslik": "JBL Sense Lite, True Wireless Kulaklık, Beyaz",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 5141,
-    "yeniFiyat": 4949,
-    "indirimOrani": 4,
-    "netKazanc": 192,
-    "resim": "https://m.media-amazon.com/images/I/51g9rrumlSL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0FG2TLT5H?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791329234720
   }
 ]
