@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791406193497",
+    "baslik": "SJCAM M60 4K HDR Sony Starvis 2 Sensörlü WiFi GPS'li Araç Kamerası",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 8121,
+    "yeniFiyat": 7827,
+    "indirimOrani": 4,
+    "netKazanc": 294,
+    "resim": "https://m.media-amazon.com/images/I/618PW8UWE6L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0DJ189V1H?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791406193497
+  },
+  {
     "id": "f-1791405712505",
     "baslik": "Philips i9000 SkinIQ Islak ve Kuru Tıraş Makinesi, 360° Hassas Başlıklar, Yapay Zeka Destekli, Temizleme Ünitesi ve Seyahat Çantası Hediyeli, X9002/30",
     "kategori": "monitor",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791367515159
-  },
-  {
-    "id": "f-1791367395048",
-    "baslik": "HIKSEMI ESSD-T100 Taşınabilir Harici SSD, 512 GB, Siyah",
-    "kategori": "ssd-ram",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 4999,
-    "yeniFiyat": 4399,
-    "indirimOrani": 12,
-    "netKazanc": 600,
-    "resim": "https://m.media-amazon.com/images/I/416KrxTszgL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0CFYBKY1G?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791367395048
   }
 ]
