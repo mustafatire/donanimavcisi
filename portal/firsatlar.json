@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791409672800",
+    "baslik": "Bissell CrossWave OmniForce | Islak&Kuru Süpürme ve Silme Makinesi | 3912N",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 17999,
+    "yeniFiyat": 16999,
+    "indirimOrani": 6,
+    "netKazanc": 1000,
+    "resim": "https://m.media-amazon.com/images/I/61kmjzTnO6L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0CTJ5CFX4?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791409672800
+  },
+  {
     "id": "f-1791409553059",
     "baslik": "PHİLİPS 6000 SERİSİ XC6456/10 KABLOSUZ ŞARJLI DİKEY SÜPÜRGE",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791368255074
-  },
-  {
-    "id": "f-1791368235080",
-    "baslik": "Baseus Nomos 3'ü 1 arada MagSafe10000mAh Power Bank - Qi2 15W Kablosuz Şarj, 45W Dahili Çift Yönlü Hızlı Şarj Kablolu, Gri",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 3926,
-    "yeniFiyat": 1999,
-    "indirimOrani": 49,
-    "netKazanc": 1927,
-    "resim": "https://m.media-amazon.com/images/I/61VIEqVXNnL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0F4893YY6?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791368235081
   }
 ]
