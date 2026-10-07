@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791380835229",
+    "baslik": "Apple AirPods Pro 3 Kablosuz Kulaklık, Aktif Gürültü Engelleme, Kalp Atış Hızı Algılama, Bluetooth Kulaklık, Uzamsal Ses, Yüksek Ses Kalitesi, USB-C ile Şarj",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 13499,
+    "yeniFiyat": 12748,
+    "indirimOrani": 6,
+    "netKazanc": 751,
+    "resim": "https://m.media-amazon.com/images/I/61jdO1s7v7L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0FQF59PPW?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791380835229
+  },
+  {
     "id": "f-1791380595108",
     "baslik": "Logitech G502 X PLUS LIGHTSPEED Kablosuz Oyun Mouse'u, LIGHTSYNC RGB Aydınlatma, LIGHTFORCE Hibrit Anahtarlı Optik Mouse, HERO 25K Oyun Sensörü, MacOS, Windows ve PC ile Uyumlu, Siyah",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791316634607
-  },
-  {
-    "id": "f-1791316034911",
-    "baslik": "Apple AirPods Pro 3 Kablosuz Kulaklık, Aktif Gürültü Engelleme, Kalp Atış Hızı Algılama, Bluetooth Kulaklık, Uzamsal Ses, Yüksek Ses Kalitesi, USB-C ile Şarj",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 13499,
-    "yeniFiyat": 11899,
-    "indirimOrani": 12,
-    "netKazanc": 1600,
-    "resim": "https://m.media-amazon.com/images/I/61jdO1s7v7L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0FQF59PPW?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791316034912
   }
 ]
