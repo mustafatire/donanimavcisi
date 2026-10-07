@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791337634761",
+    "baslik": "Arnica Airfryer & Grill Izgaralı Sıcak Hava Fritözü",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 8390,
+    "yeniFiyat": 7970,
+    "indirimOrani": 5,
+    "netKazanc": 420,
+    "resim": "https://m.media-amazon.com/images/I/41k8gPEUYTL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0FRFWDZBS?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791337634761
+  },
+  {
     "id": "f-1791336444767",
     "baslik": "Zeblaze Gtr 3 Pro - Starlight Silver Akıllı Saat, Corning® Gorilla® Glass, Uyumlu Ultra Hd Amoled Ekran",
     "kategori": "monitor",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791290233607
-  },
-  {
-    "id": "f-1791289873653",
-    "baslik": "HyperX Pulsefire Haste 2 W. (White) Mouse",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 2969,
-    "yeniFiyat": 2630,
-    "indirimOrani": 11,
-    "netKazanc": 339,
-    "resim": "https://m.media-amazon.com/images/I/61-6lYyBszL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0BX51KBL9?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791289873654
   }
 ]
