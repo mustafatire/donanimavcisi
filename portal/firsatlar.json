@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791382154993",
+    "baslik": "Samsung 25 Watt Şarj Adaptörü + Kablo Seti, Beyaz",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 1414,
+    "yeniFiyat": 873,
+    "indirimOrani": 38,
+    "netKazanc": 541,
+    "resim": "https://m.media-amazon.com/images/I/31QuDqHaG-L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0CJJNTWQQ?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791382154993
+  },
+  {
     "id": "f-1791381205553",
     "baslik": "Samsung P4520X 20000 mAh Hızlı Powerbank",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791318794679
-  },
-  {
-    "id": "f-1791317954401",
-    "baslik": "Philips NA322/00 3000 Serisi Airfryer (Philips Türkiye Garantili)",
-    "kategori": "monitor",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 4649,
-    "yeniFiyat": 4297,
-    "indirimOrani": 8,
-    "netKazanc": 352,
-    "resim": "https://m.media-amazon.com/images/I/51BKxLiORZL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0DJR8CNCZ?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791317954402
   }
 ]
