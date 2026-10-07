@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791363194937",
+    "baslik": "Samsung T9 128GB Micro SD Hafıza Kartı",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 2699,
+    "yeniFiyat": 2564,
+    "indirimOrani": 5,
+    "netKazanc": 135,
+    "resim": "https://m.media-amazon.com/images/I/719ufrgvx1L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0GMRFQDYP?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791363194938
+  },
+  {
     "id": "f-1791362955359",
     "baslik": "Kingston Kingston DataTraveler Exodia 128GB USB Flash Bellek USB3.2 Gen1 (Black + Yellow) DTX/128GB",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791298634104
-  },
-  {
-    "id": "f-1791298273833",
-    "baslik": "SanDisk Ultra Dual Drive Luxe USB Type-C Sürücü Akıllı Telefon Bellek 32 GB (Mobil Bellek, USB 3.2 Gen 1, Döner Tasarım, 150 MB/s Okuma, USB Sürücü, Otomatik Yedekleme)",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 699,
-    "yeniFiyat": 649,
-    "indirimOrani": 7,
-    "netKazanc": 50,
-    "resim": "https://m.media-amazon.com/images/I/711UkF3QAzL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0842NQJ9H?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791298273833
   }
 ]
