@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791376995168",
+    "baslik": "PHİLİPS 6000 SERİSİ XC6456/10 KABLOSUZ ŞARJLI DİKEY SÜPÜRGE",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 13999,
+    "yeniFiyat": 11004,
+    "indirimOrani": 21,
+    "netKazanc": 2995,
+    "resim": "https://m.media-amazon.com/images/I/51xKBw8DcbL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0GTWN6VJD?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791376995168
+  },
+  {
     "id": "f-1791376875225",
     "baslik": "Dreame L10S Pro ULTRA / L10S Pro Ultra HEAT / L10S Ultra GEN 2 Robot Süpürge Mop Paspas Bez Yedek Parça Seti-6 Adet",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791312914842
-  },
-  {
-    "id": "f-1791312795174",
-    "baslik": "Fakir Aroma Gourmet Filtre Kahve Makinesi-Silver",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 3499,
-    "yeniFiyat": 3299,
-    "indirimOrani": 6,
-    "netKazanc": 200,
-    "resim": "https://m.media-amazon.com/images/I/51fubIxTkdL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0D4QN551M?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791312795175
   }
 ]
