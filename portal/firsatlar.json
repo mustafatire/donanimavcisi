@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791366074854",
+    "baslik": "Philips Lumea Advanced IPL epilasyon cihazı BRI921/00 (2 başlıklı, vücut, yüz ve 1 hassas düzeltici ile, kablolu)",
+    "kategori": "monitor",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 15899,
+    "yeniFiyat": 14998,
+    "indirimOrani": 6,
+    "netKazanc": 901,
+    "resim": "https://m.media-amazon.com/images/I/51VXUssstRL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B07F1SLX32?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791366074854
+  },
+  {
     "id": "f-1791365715132",
     "baslik": "Philips Azur 8000 serisi buharlı ütü – 70 g/dk sürekli buhar, 240 g turbo buhar çıkışı, 3000 W güç, OptimalTEMP teknolojisi, yeşil opal (DST8030/70)",
     "kategori": "monitor",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791299473684
-  },
-  {
-    "id": "f-1791299113654",
-    "baslik": "Roborock ile Uyumlu QRevo Curv,QRevo Curv 5A1,Qrevo Curv X,QRevo Curv 2 Pro Robot Süpürge Toz Çöp Torbası Yedek Parça Seti-10 Adet",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 684,
-    "yeniFiyat": 650,
-    "indirimOrani": 5,
-    "netKazanc": 34,
-    "resim": "https://m.media-amazon.com/images/I/61s-xNDHDrL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0GW458RGH?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791299113655
   }
 ]
