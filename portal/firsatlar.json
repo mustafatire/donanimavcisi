@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791470403388",
+    "baslik": "Powertec TR-658 Saç,Sakal,Ense,Vücut Tıraş Makinesi",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 1294,
+    "yeniFiyat": 1179,
+    "indirimOrani": 9,
+    "netKazanc": 115,
+    "resim": "https://m.media-amazon.com/images/I/617JVG4P55L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B087XWQ8NN?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791470403388
+  },
+  {
     "id": "f-1791470393394",
     "baslik": "Gillette Mach3 Charcoal Tıraş Makinesi + 5 Adet Yedek Tıraş Bıçağı + Premium Stand Hediyeli Peket",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791387435813
-  },
-  {
-    "id": "f-1791386355381",
-    "baslik": "Ventoso V5 Exclusive İyonik 2500 W Profesyonel Saç Kurutma ve Fön Makinesi Silk Touch Black",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 2499,
-    "yeniFiyat": 2235,
-    "indirimOrani": 11,
-    "netKazanc": 264,
-    "resim": "https://m.media-amazon.com/images/I/61n8uOzIJiL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B09J1D2C4D?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791386355382
   }
 ]
