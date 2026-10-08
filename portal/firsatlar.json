@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791455273495",
+    "baslik": "Nespresso C30 Essenza Mini Kapsüllü Kahve Makinesi, 19 Bar Basınç, 0.6 L Hacim, 2.3 Kg Tasarım, Gri",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 7351,
+    "yeniFiyat": 6693,
+    "indirimOrani": 9,
+    "netKazanc": 658,
+    "resim": "https://m.media-amazon.com/images/I/41qBQ-UP2kL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B07G8F22L5?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791455273496
+  },
+  {
     "id": "f-1791455153480",
     "baslik": "Philips Aqua Plus 8000 Serisi Kablosuz Dikey Süpürge, Süpürür Siler Temizlikte Süper, 360° Güçlü Emiş, Maksimum 80 dk, Saç Dolaşmasını Önleyici, Sert Zeminler ve Halılar İçin, LED Başlık (XC8156/10)",
     "kategori": "monitor",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791382164987
-  },
-  {
-    "id": "f-1791381195560",
-    "baslik": "Juo 20000mAh 65W LED Ekranlı USB-A + Type-C Kablolu Taşınabilir Hızlı Şarj Cihazı Powerbank",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 1829,
-    "yeniFiyat": 1699,
-    "indirimOrani": 7,
-    "netKazanc": 130,
-    "resim": "https://m.media-amazon.com/images/I/51cIG0UKVjL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0DV992ZBS?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791381195560
   }
 ]
