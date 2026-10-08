@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791494273725",
+    "baslik": "Arçelik K 3170 70.Yıl Telve Ikili Türk Kahve Makinesi Gri",
+    "kategori": "cevre-birimleri",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 13000,
+    "yeniFiyat": 11538,
+    "indirimOrani": 11,
+    "netKazanc": 1462,
+    "resim": "https://m.media-amazon.com/images/I/51rGbG23DnL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0FQNQG8MM?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791494273726
+  },
+  {
     "id": "f-1791491873773",
     "baslik": "Samsung Galaxy Watch 6 - 44mm , Gümüş (Samsung Türkiye Garantili)",
     "kategori": "cevre-birimleri",
@@ -1468,35 +1483,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791409672800
-  },
-  {
-    "id": "f-1791407152708",
-    "baslik": "Marley Little Bird True Wireless Bluetooth Kulaklıklar Dahili Mikrofonlu IPX4, Kulak İçi Kulaklıklarda 24 Saat Çalma Süresi, USB-C Hızlı Şarjlı Kulaklık Kılıfı, Krem",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 2615,
-    "yeniFiyat": 2398,
-    "indirimOrani": 8,
-    "netKazanc": 217,
-    "resim": "https://m.media-amazon.com/images/I/510QWqcgAqL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0CK9K2YG1?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791407152709
-  },
-  {
-    "id": "f-1791406682750",
-    "baslik": "Razer DeathAdder V3 Pro - Hafif Kablosuz Ergonomik Espor Faresi (63g Hafif Tasarım, Focus Pro 30K Optik Sensör, Fare Anahtarı Gen-3, HyperSpeed Kablosuz) Siyah",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 5491,
-    "yeniFiyat": 4942,
-    "indirimOrani": 10,
-    "netKazanc": 549,
-    "resim": "https://m.media-amazon.com/images/I/71ohoFWDWYL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0B6XZLNHQ?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791406682751
   }
 ]
