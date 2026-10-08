@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791484674123",
+    "baslik": "Apple AirPods Pro 3 Kablosuz Kulaklık, Aktif Gürültü Engelleme, Kalp Atış Hızı Algılama, Bluetooth Kulaklık, Uzamsal Ses, Yüksek Ses Kalitesi, USB-C ile Şarj",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 12739,
+    "yeniFiyat": 11899,
+    "indirimOrani": 7,
+    "netKazanc": 840,
+    "resim": "https://m.media-amazon.com/images/I/61jdO1s7v7L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0FQF59PPW?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791484674124
+  },
+  {
     "id": "f-1791482513368",
     "baslik": "Teflon Ütü Altlığı – Ütü Yanmasını Önler, Parlama Yapmaz, Hassas Kumaş Koruyucu, Kaygan Taban, Kolay Takılır, Tüm Ütülerle Uyumlu Ütü Aparatı",
     "kategori": "cevre-birimleri",
@@ -1425,21 +1440,6 @@
     "timestamp": 1791400552895
   },
   {
-    "id": "f-1791400433381",
-    "baslik": "Apple AirPods Pro 3 Kablosuz Kulaklık, Aktif Gürültü Engelleme, Kalp Atış Hızı Algılama, Bluetooth Kulaklık, Uzamsal Ses, Yüksek Ses Kalitesi, USB-C ile Şarj",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 12748,
-    "yeniFiyat": 11899,
-    "indirimOrani": 7,
-    "netKazanc": 849,
-    "resim": "https://m.media-amazon.com/images/I/61jdO1s7v7L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0FQF59PPW?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791400433381
-  },
-  {
     "id": "f-1791400072677",
     "baslik": "Razer DeathAdder Essential (2021) - Kablolu Oyun Faresi (Optik Sensör, 6400 DPI, 5 Programlanabilir Düğme, Ergonomik Form Faktörü) Siyah",
     "kategori": "ssd-ram",
@@ -1453,50 +1453,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791400072677
-  },
-  {
-    "id": "f-1791396915152",
-    "baslik": "Nespresso C62 Pixie Kahve Makinesi,Titan",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 11249,
-    "yeniFiyat": 10749,
-    "indirimOrani": 4,
-    "netKazanc": 500,
-    "resim": "https://m.media-amazon.com/images/I/71P4gtI8yaL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0D6N7JK95?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791396915152
-  },
-  {
-    "id": "f-1791396675320",
-    "baslik": "Philips SpeedPro Max Kablosuz Dikey Elektrikli Süpürge 7000 Serisi, 360° Güçlü Emiş, Maksimum 80 dk, Dolaşma Önleyici, Halılar ve Sert Zeminler İçin, 0 mm Kenar Temizleme, 4 LED Aparatı​ (XC7157/10)",
-    "kategori": "monitor",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 34999,
-    "yeniFiyat": 18999,
-    "indirimOrani": 46,
-    "netKazanc": 16000,
-    "resim": "https://m.media-amazon.com/images/I/51qny-VHnPL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0GZL3Y6DG?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791396675320
-  },
-  {
-    "id": "f-1791396555333",
-    "baslik": "Black+Decker BHFEV362DP-QW 4'ü 1 Arada Kablosuz Pet Başlıklı Dikey Süpürge (Dar aralık aparatı, evcil hayvan tüyü temizleme fırçası, aksesuar tutucu, duvar montaj aparatı ve şarj cihazı dahil)",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 8324,
-    "yeniFiyat": 8018,
-    "indirimOrani": 4,
-    "netKazanc": 306,
-    "resim": "https://m.media-amazon.com/images/I/41adBlrFDzL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B07TCHVLGH?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791396555333
   }
 ]
