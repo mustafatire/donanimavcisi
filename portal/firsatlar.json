@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791478793902",
+    "baslik": "HONOR Watch X5i 1,97\" AMOLED Akıllı Saat",
+    "kategori": "monitor",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 2350,
+    "yeniFiyat": 2049,
+    "indirimOrani": 13,
+    "netKazanc": 301,
+    "resim": "https://m.media-amazon.com/images/I/5139mdFPGRL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0GXBG9F6D?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791478793903
+  },
+  {
     "id": "f-1791478553622",
     "baslik": "Samsung P4520X 20000 mAh Hızlı Powerbank",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791393435976
-  },
-  {
-    "id": "f-1791392725309",
-    "baslik": "Powertec TR-301 Askı Aparatlı | Otel Tipi | Profesyonel Saç Kurutma & Fön Makinesi",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 1425,
-    "yeniFiyat": 1360,
-    "indirimOrani": 5,
-    "netKazanc": 65,
-    "resim": "https://m.media-amazon.com/images/I/51tc7sqlEQL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0GJLK1BJJ?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791392725310
   }
 ]
