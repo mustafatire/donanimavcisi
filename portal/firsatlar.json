@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791442073414",
+    "baslik": "Black + Decker NVC215WA-QW Dustbuster 7,2 V Şarjlı El Süpürgesi",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 2409,
+    "yeniFiyat": 2219,
+    "indirimOrani": 8,
+    "netKazanc": 190,
+    "resim": "https://m.media-amazon.com/images/I/61p-b9a1iTL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B07L6X2QYG?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791442073415
+  },
+  {
     "id": "f-1791441953135",
     "baslik": "Dreame R20 Şarjlı Dikey Süpürge",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791374006015
-  },
-  {
-    "id": "f-1791373996021",
-    "baslik": "Razer DeathAdder Essential (2021) - Kablolu Oyun Faresi (Optik Sensör, 6400 DPI, 5 Programlanabilir Düğme, Ergonomik Form Faktörü) PC | Beyaz",
-    "kategori": "ssd-ram",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 1130,
-    "yeniFiyat": 850,
-    "indirimOrani": 25,
-    "netKazanc": 280,
-    "resim": "https://m.media-amazon.com/images/I/51tZ3U035WL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B092R71V77?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791373996021
   }
 ]
