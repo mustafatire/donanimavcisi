@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791461033549",
+    "baslik": "Roborock S8 Pro Akıllı Robot Süpürge",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 15799,
+    "yeniFiyat": 15058,
+    "indirimOrani": 5,
+    "netKazanc": 741,
+    "resim": "https://m.media-amazon.com/images/I/51qEkcFwlIL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0F7J1BKVV?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791461033550
+  },
+  {
     "id": "f-1791460313625",
     "baslik": "Philips 64GB OTG Dual Drive Type-C ve USB Flash Bellek",
     "kategori": "monitor",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791384455014
-  },
-  {
-    "id": "f-1791384445013",
-    "baslik": "Sinbo SSM 2587 Mini Tost Makinesi",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 1399,
-    "yeniFiyat": 1299,
-    "indirimOrani": 7,
-    "netKazanc": 100,
-    "resim": "https://m.media-amazon.com/images/I/41Mx7zE7DHL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0GQV5MVM9?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791384445014
   }
 ]
