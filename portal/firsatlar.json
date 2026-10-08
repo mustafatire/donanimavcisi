@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791448433401",
+    "baslik": "TEFAL TY6A35TR X-PERT 7.60 Dikey Süpürge",
+    "kategori": "cevre-birimleri",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 7599,
+    "yeniFiyat": 6799,
+    "indirimOrani": 11,
+    "netKazanc": 800,
+    "resim": "https://m.media-amazon.com/images/I/41H0EvjgiAL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0G3PLM4KQ?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791448433402
+  },
+  {
     "id": "f-1791447593683",
     "baslik": "50GB Hafıza Kartı Ev Araç Güvenlik Kamerası Uyumlu Telefon Tablet Micro SD Class10",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791375555616
-  },
-  {
-    "id": "f-1791374725015",
-    "baslik": "Belkin BoostCharge 20000 mAh Dijital Pil Göstergeli Power Bank, Pembe",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 1799,
-    "yeniFiyat": 1699,
-    "indirimOrani": 6,
-    "netKazanc": 100,
-    "resim": "https://m.media-amazon.com/images/I/51SV0b8wD8L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0F9FJHYZ6?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791374725016
   }
 ]
