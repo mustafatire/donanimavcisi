@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791481313489",
+    "baslik": "Philips Baristina Espresso Makinesi - Gerçek Espresso, Tam Kolaylık - Kompakt - 16 Bar Basınç - Entegre Öğütücü - Siyah Makine, Siyah Filtre Tutuculu (BAR300/60)",
+    "kategori": "monitor",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 15289,
+    "yeniFiyat": 9899,
+    "indirimOrani": 35,
+    "netKazanc": 5390,
+    "resim": "https://m.media-amazon.com/images/I/51-LTUvB3nL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0D66FJJWT?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791481313490
+  },
+  {
     "id": "f-1791480473550",
     "baslik": "Roborock F25 Ultra Dik Süpürge",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791396435566
-  },
-  {
-    "id": "f-1791395835174",
-    "baslik": "Heißluftfritteuse Kochbuch: Einfache, gesunde und köstliche Rezepte in nur 20 Minuten. Für die ganze Familie geeignet, mit einfachen und detaillierten Anleitungen. Perfekt für jedes Airfryer-Modell.",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 1347,
-    "yeniFiyat": 1158,
-    "indirimOrani": 14,
-    "netKazanc": 189,
-    "resim": "https://m.media-amazon.com/images/I/71QWwe3zi5L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0DWMVZVQG?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791395835174
   }
 ]
