@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791462483663",
+    "baslik": "Korkmaz A310-03 Tost Makinesi, Tek Parça",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 4759,
+    "yeniFiyat": 4499,
+    "indirimOrani": 5,
+    "netKazanc": 260,
+    "resim": "https://m.media-amazon.com/images/I/51O9iAyQ5mL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B07CSSLG4G?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791462483664
+  },
+  {
     "id": "f-1791462473670",
     "baslik": "Korkmaz Castron Tost Makinesi Mocha-Krom A324-12",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791384565161
-  },
-  {
-    "id": "f-1791384555166",
-    "baslik": "Aryildiz Aryıldız Deluxe Grill Tost Makinesi",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 5999,
-    "yeniFiyat": 5129,
-    "indirimOrani": 15,
-    "netKazanc": 870,
-    "resim": "https://m.media-amazon.com/images/I/61Mbi8My9UL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0F1TJDJFJ?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791384555167
   }
 ]
