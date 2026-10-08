@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791468233729",
+    "baslik": "Philips Filtre Kahve Makinesi, 1,2 Lt Kapasite, Otomatik Kapanma, Cam Demlikli, Siyah ve Metal, HD7462/20",
+    "kategori": "monitor",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 3128,
+    "yeniFiyat": 2503,
+    "indirimOrani": 20,
+    "netKazanc": 625,
+    "resim": "https://m.media-amazon.com/images/I/61vOJDZOC5L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B00R04CAWA?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791468233729
+  },
+  {
     "id": "f-1791468113551",
     "baslik": "Bldc Motorlu Dikey Kablosuz Şarjlı Led Aydınlatmalı Süpürge Svc-8620 - (UV LED'Lİ Mite Başlık)",
     "kategori": "cevre-birimleri",
@@ -1318,21 +1333,6 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791390915301
-  },
-  {
-    "id": "f-1791390315870",
-    "baslik": "Philips Filtre Kahve Makinesi, 1,2 Lt Kapasite, Otomatik Kapanma, Cam Demlikli, Siyah ve Metal, HD7462/20",
-    "kategori": "monitor",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 3128,
-    "yeniFiyat": 2499,
-    "indirimOrani": 20,
-    "netKazanc": 629,
-    "resim": "https://m.media-amazon.com/images/I/61vOJDZOC5L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B00R04CAWA?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791390315871
   },
   {
     "id": "f-1791389715165",
