@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791450113304",
+    "baslik": "AR6055 Handy Steam Mini Buharlı Düzleştirici ve Seyahat Ütüsü, Dikey Buharlı Kırışık Giderici",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 1521,
+    "yeniFiyat": 1399,
+    "indirimOrani": 8,
+    "netKazanc": 122,
+    "resim": "https://m.media-amazon.com/images/I/51FhaqNgcrL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0HC3J6XS8?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791450113304
+  },
+  {
     "id": "f-1791449273055",
     "baslik": "Tefal BJ5615 Magic Tea XL Çay Makinesi, 1.2 L Su Haznesi, Paslanmaz Çelik, Kırmızı (9100046889)",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791376875226
-  },
-  {
-    "id": "f-1791376635567",
-    "baslik": "MOVA S70 Pro Roller Robot Süpürge, 30.000 Pa Emiş Gücü, Hidden DToF Navigasyon, Uzatılabilir Paspas, 100°C Sıcak Suyla Kendi Kendini Temizleme, 70°C Kurutma, Halı ve Sert Zemin için, 3 Yıl Garanti",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 43199,
-    "yeniFiyat": 40499,
-    "indirimOrani": 6,
-    "netKazanc": 2700,
-    "resim": "https://m.media-amazon.com/images/I/61nVQWwlnbL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0HBWQ7Y7P?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791376635568
   }
 ]
