@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791486594239",
+    "baslik": "Taç Dijital Slim Multi Fryer/Air Fryer",
+    "kategori": "cevre-birimleri",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 2389,
+    "yeniFiyat": 2100,
+    "indirimOrani": 12,
+    "netKazanc": 289,
+    "resim": "https://m.media-amazon.com/images/I/41GaDvtaDJL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0BTTHPSWP?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791486594240
+  },
+  {
     "id": "f-1791485993703",
     "baslik": "Belkin USB-C Fiş 25 W - USB-C Telefon Şarj Cihazı, Apple iPhone 16, 15 Plus, Pro, Pro Max, iPad, Samsung Galaxy S25, Pixel 9, Nintendo Switch ve Fazlası için PD 3.0 PPS Hızlı Şarj Cihazı, Beyaz",
     "kategori": "cevre-birimleri",
@@ -1468,20 +1483,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791400552895
-  },
-  {
-    "id": "f-1791400072677",
-    "baslik": "Razer DeathAdder Essential (2021) - Kablolu Oyun Faresi (Optik Sensör, 6400 DPI, 5 Programlanabilir Düğme, Ergonomik Form Faktörü) Siyah",
-    "kategori": "ssd-ram",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 999,
-    "yeniFiyat": 929,
-    "indirimOrani": 7,
-    "netKazanc": 70,
-    "resim": "https://m.media-amazon.com/images/I/81Wl3jXuL6L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B092R5MCB3?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791400072677
   }
 ]
