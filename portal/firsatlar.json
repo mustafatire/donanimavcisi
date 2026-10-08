@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791445073283",
+    "baslik": "DAHUA S8 Araç İçi Kamera, 3K Çözünürlük, Dash Kamera",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 4350,
+    "yeniFiyat": 4150,
+    "indirimOrani": 5,
+    "netKazanc": 200,
+    "resim": "https://m.media-amazon.com/images/I/51ywP0BSSuL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0D1CNP7VD?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791445073283
+  },
+  {
     "id": "f-1791443633298",
     "baslik": "Philips 5000 Serisi Buharlı Düzleştirici - Güçlü 1400W, Sürekli Buhar",
     "kategori": "monitor",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791374475747
-  },
-  {
-    "id": "f-1791374125486",
-    "baslik": "Alienware Kablosuz Oyun Faresi AW620M - Kablosuz/Kablolu, 1 x USB - 4 pin USB Tip A, 26000 dpi, 3.52oz (99g) Ağırlık, 7 Düğme, Kaymaz Tutuş, 140 Saate Kadar Oyun - Ay Işığı",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 2259,
-    "yeniFiyat": 1839,
-    "indirimOrani": 19,
-    "netKazanc": 420,
-    "resim": "https://m.media-amazon.com/images/I/61vq04vA5ZL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0DKVDG6W6?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791374125486
   }
 ]
