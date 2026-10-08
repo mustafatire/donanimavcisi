@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791429003542",
+    "baslik": "Versuni Philips 3000 Series Xd3110/09 900 W Toz Torbalı Süpürge",
+    "kategori": "monitor",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 8999,
+    "yeniFiyat": 8639,
+    "indirimOrani": 4,
+    "netKazanc": 360,
+    "resim": "https://m.media-amazon.com/images/I/61ShVV805FL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B08D6CR4N9?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791429003542
+  },
+  {
     "id": "f-1791428993563",
     "baslik": "Shark PowerDetect Clean&Empty Auto-Empty Sistemli Pet Başlıklı Şarjlı Dikey Süpürge IP3251EUT",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791370644956
-  },
-  {
-    "id": "f-1791370634961",
-    "baslik": "Tefal Easy Fry & Grill Precision 8 Programlı Az Yağlı Fritöz - 4,2 Litre",
-    "kategori": "ssd-ram",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 9403,
-    "yeniFiyat": 7394,
-    "indirimOrani": 21,
-    "netKazanc": 2009,
-    "resim": "https://m.media-amazon.com/images/I/61VpYWHwGwL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B09DL9JY4G?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791370634962
   }
 ]
