@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791546474530",
+    "baslik": "Grundig CFM 7147 D 3in1 Çay Kahve Makinesi",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 9383,
+    "yeniFiyat": 8857,
+    "indirimOrani": 6,
+    "netKazanc": 526,
+    "resim": "https://m.media-amazon.com/images/I/81WHJuurvBL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0CLHKKTF5?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791546474531
+  },
+  {
     "id": "f-1791545994522",
     "baslik": "Nespresso C40 Inissia Kapsüllü Kahve Makinesi, Kırmızı",
     "kategori": "cevre-birimleri",
@@ -1453,20 +1468,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791460313626
-  },
-  {
-    "id": "f-1791459953527",
-    "baslik": "Edifier S360Db 2.1 Hoparlör Ve Subwoofer Hoparlör Sistemi, Bluetooth V4.1 Aptx",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 35509,
-    "yeniFiyat": 33734,
-    "indirimOrani": 5,
-    "netKazanc": 1775,
-    "resim": "https://m.media-amazon.com/images/I/61pnz7+h8VL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B07W92YBCQ?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791459953528
   }
 ]
