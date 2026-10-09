@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791543354544",
+    "baslik": "Samsung P4520X 20000 mAh Hızlı Powerbank",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 2372,
+    "yeniFiyat": 2210,
+    "indirimOrani": 7,
+    "netKazanc": 162,
+    "resim": "https://m.media-amazon.com/images/I/41RYut2Ag6L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0CVH26167?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791543354545
+  },
+  {
     "id": "f-1791542994601",
     "baslik": "Anker Soundcore K20i Kulak İçi Bluetooth Kulaklık, 36 Saat Çalma Süresi, Hızlı Şarj, ENC 2 Mikrofon, IPX5 Su Geçirmez, Mavi - A3994",
     "kategori": "cevre-birimleri",
@@ -283,21 +298,6 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791531354444
-  },
-  {
-    "id": "f-1791530394748",
-    "baslik": "Samsung P4520X 20000 mAh Hızlı Powerbank",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 2372,
-    "yeniFiyat": 2212,
-    "indirimOrani": 7,
-    "netKazanc": 160,
-    "resim": "https://m.media-amazon.com/images/I/41RYut2Ag6L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0CVH26167?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791530394748
   },
   {
     "id": "f-1791530275025",
@@ -1408,35 +1408,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791458513548
-  },
-  {
-    "id": "f-1791456953471",
-    "baslik": "Philips Lumea IPL Tüy Alma Cihazı, Çantalı, Yüz Temizleme Cihazı Hediyeli, Yüz/Vücut/Hassas Bölge Kullanımı, Cilt Tonu Sensörü ile Güvenli Epilasyon BRI924/00",
-    "kategori": "monitor",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 9675,
-    "yeniFiyat": 9298,
-    "indirimOrani": 4,
-    "netKazanc": 377,
-    "resim": "https://m.media-amazon.com/images/I/71FEKSmUe7L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B07GG98LNP?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791456953472
-  },
-  {
-    "id": "f-1791456603346",
-    "baslik": "Philips 7500 Serisi Buharlı Ütü – 3200W Güç, 55 g/dk Sürekli Buhar, 260 g Güçlendirme, SteamGlide Elite Taban, Otomatik Kapanma, Damlama Önleyici Sistem, 300 ml Tank (DST7511/80)",
-    "kategori": "monitor",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 3437,
-    "yeniFiyat": 3067,
-    "indirimOrani": 11,
-    "netKazanc": 370,
-    "resim": "https://m.media-amazon.com/images/I/51LNJLfqFiL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0BXM27M5X?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791456603347
   }
 ]
