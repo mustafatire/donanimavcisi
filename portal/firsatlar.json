@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791540114544",
+    "baslik": "Homend Toastbuster 1334h Tost Makinesi Mat Siyah",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 2824,
+    "yeniFiyat": 2623,
+    "indirimOrani": 7,
+    "netKazanc": 201,
+    "resim": "https://m.media-amazon.com/images/I/51pQq7l+SML._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B09TV4Q1VM?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791540114544
+  },
+  {
     "id": "f-1791539754973",
     "baslik": "GRUNDIG KSM 6430 Delisia Coffee Series DC5300",
     "kategori": "cevre-birimleri",
@@ -1468,35 +1483,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791454313947
-  },
-  {
-    "id": "f-1791453713457",
-    "baslik": "Lkc-55 65W GaN Hızlı Şarj Aleti - 3 Portlu (2x USB-C + 1x USB-A) PD Destekli Laptop ve Telefon Şarj Adaptörü",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 699,
-    "yeniFiyat": 599,
-    "indirimOrani": 14,
-    "netKazanc": 100,
-    "resim": "https://m.media-amazon.com/images/I/41EYC-zSjxL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0HJN5GT61?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791453713457
-  },
-  {
-    "id": "f-1791453473926",
-    "baslik": "KOZMOS FB-R303-BL Retro Radyo ve Bluetooth Hoparlör",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 1572,
-    "yeniFiyat": 1416,
-    "indirimOrani": 10,
-    "netKazanc": 156,
-    "resim": "https://m.media-amazon.com/images/I/615bbpKll0L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0FRSZS3C8?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791453473927
   }
 ]
