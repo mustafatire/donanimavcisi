@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791551274773",
+    "baslik": "ADATA SD MicroSD Card 64GB SDXC (UHS-I Class 10) Ada Perakende",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 629,
+    "yeniFiyat": 599,
+    "indirimOrani": 5,
+    "netKazanc": 30,
+    "resim": "https://m.media-amazon.com/images/I/51kPg09ZejL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B076G3K13S?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791551274774
+  },
+  {
     "id": "f-1791551034665",
     "baslik": "Philips 128GB OTG Dual Drive Type-C ve USB Flash Bellek",
     "kategori": "monitor",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791466573456
-  },
-  {
-    "id": "f-1791466563456",
-    "baslik": "Spigen 47W USB-C 2 Port Mini Hızlı Şarj Aleti PPS 2.0 Super Hızlı Şarj GaN Pro Isı Düşürücü Güç Adaptörü Akım Koruma iPhone & Android & iPad & MacBook Type-C Black - ACH09457",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 1036,
-    "yeniFiyat": 582,
-    "indirimOrani": 44,
-    "netKazanc": 454,
-    "resim": "https://m.media-amazon.com/images/I/61AqfPLDDuL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0F9WKR3Z8?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791466563456
   }
 ]
