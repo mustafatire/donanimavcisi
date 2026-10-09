@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791567234686",
+    "baslik": "Philips Yüz Epilasyon Cihazı, Hipoalerjenik Başlık, Tam Dairesel LED Işık, Dahili Ayna, Kendiliğinden Bilenebilir Bıçaklar, Kompakt ve Taşınabilir Tasarım, BRR454/00",
+    "kategori": "monitor",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 1028,
+    "yeniFiyat": 979,
+    "indirimOrani": 5,
+    "netKazanc": 49,
+    "resim": "https://m.media-amazon.com/images/I/51dC16+uGFL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0B9RQB3NQ?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791567234687
+  },
+  {
     "id": "f-1791566635313",
     "baslik": "Philips 3400 Serisi 2'si 1 arada Hava Temizleyici ve Nemlendirici, HEPA NanoProtect + Aktif Karbon Filtre, 650ml/sa Nemlendirme, 78m² için 300m³/sa CADR (AC3420/10)",
     "kategori": "monitor",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791494273726
-  },
-  {
-    "id": "f-1791491873773",
-    "baslik": "Samsung Galaxy Watch 6 - 44mm , Gümüş (Samsung Türkiye Garantili)",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 9999,
-    "yeniFiyat": 9649,
-    "indirimOrani": 4,
-    "netKazanc": 350,
-    "resim": "https://m.media-amazon.com/images/I/61V-wBw-k4L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0CBHV7FM1?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791491873774
   }
 ]
