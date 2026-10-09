@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791572634595",
+    "baslik": "Schäfer Schafer Contempo Tost Makinesi, Kırmızı",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 3299,
+    "yeniFiyat": 2999,
+    "indirimOrani": 9,
+    "netKazanc": 300,
+    "resim": "https://m.media-amazon.com/images/I/516E0etZQGS._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B08LQVQG3V?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791572634595
+  },
+  {
     "id": "f-1791570604703",
     "baslik": "Orico Type-C USB3.2 Gen1 64GB USB-C Flash Bellek Siyah",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791498473898
-  },
-  {
-    "id": "f-1791498234510",
-    "baslik": "Samsung Galaxy Watch9 Gümüş, 44mm, Bluetooth, İncelik, Konfor, İkonik Tasarım, Kişiselleştirilmiş Uyku Deneyimi, Sağlık Koçu, 445 mAh Pil, Konuşmak için Bileğini Kaldır (Samsung Türkiye Versiyonu)",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 15999,
-    "yeniFiyat": 15369,
-    "indirimOrani": 4,
-    "netKazanc": 630,
-    "resim": "https://m.media-amazon.com/images/I/71eTptxGNTL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0H99Y6GVL?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791498234511
   }
 ]
