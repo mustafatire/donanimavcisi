@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791547434505",
+    "baslik": "Homend Steamwork 1167H Buhar Kazanlı Ütü Siyah Beyaz",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 3899,
+    "yeniFiyat": 3696,
+    "indirimOrani": 5,
+    "netKazanc": 203,
+    "resim": "https://m.media-amazon.com/images/I/61qgL5MFGkL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0CF1VG3S5?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791547434506
+  },
+  {
     "id": "f-1791547194457",
     "baslik": "Bosch Thermotechnik Air 4000 Hava Temizleyici, Beyaz",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791462473671
-  },
-  {
-    "id": "f-1791461033549",
-    "baslik": "Roborock S8 Pro Akıllı Robot Süpürge",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 15799,
-    "yeniFiyat": 15058,
-    "indirimOrani": 5,
-    "netKazanc": 741,
-    "resim": "https://m.media-amazon.com/images/I/51qEkcFwlIL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0F7J1BKVV?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791461033550
   }
 ]
