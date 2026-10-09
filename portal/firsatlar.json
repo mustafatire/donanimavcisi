@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791565194589",
+    "baslik": "Bosch Akülü El Süpürgesi EasyVac 12 (Akü ve Şarj Cihazı Dahil Değildir, 12 Volt Sistemi, Karton Kutuda)",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 1927,
+    "yeniFiyat": 1832,
+    "indirimOrani": 5,
+    "netKazanc": 95,
+    "resim": "https://m.media-amazon.com/images/I/51qRL8smGGL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B01NCMWG5Y?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791565194590
+  },
+  {
     "id": "f-1791564354271",
     "baslik": "Philips Airfryer 5000 Serisi XXL - 7,2 (1,4 kg), Wi-Fi Bağlantılı, 16'sı 1 Arada Airfryer, Rapid Air Teknolojisi ile%90 Daha Az Yağ, Tarif Uygulaması, Pişirme ve Izgara Aksesuarları (HD9285/96)",
     "kategori": "monitor",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791491164090
-  },
-  {
-    "id": "f-1791491154095",
-    "baslik": "Samsung Galaxy Buds3 FE, Kablosuz Kulak İçi Kulaklık, Siyah, Blade Tasarım, Dengeli Ses, 360 Audio, Aktif Gürültü Engelleme & Net Çağrı (Samsung Türkiye Garantili)",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 5440,
-    "yeniFiyat": 4999,
-    "indirimOrani": 8,
-    "netKazanc": 441,
-    "resim": "https://m.media-amazon.com/images/I/41nTflNO2WL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0FR98G8PL?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791491154096
   }
 ]
