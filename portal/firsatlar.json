@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791531834194",
+    "baslik": "Lexar 512GB Silver Plus 205mb 4K V30 UHSI Micro SD Hafıza Kartı",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 8393,
+    "yeniFiyat": 8093,
+    "indirimOrani": 4,
+    "netKazanc": 300,
+    "resim": "https://m.media-amazon.com/images/I/71Bp2MNi9fL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0DV94RGY4?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791531834195
+  },
+  {
     "id": "f-1791531594152",
     "baslik": "SanDisk Ultra Flair 128 GB USB 3.0 Flash Bellek - SDCZ73-128G-G46, Gümüş",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791447593684
-  },
-  {
-    "id": "f-1791445433326",
-    "baslik": "Logitech G305 Lightspeed Kablosuz Gaming Mouse, Siyah",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 1733,
-    "yeniFiyat": 1629,
-    "indirimOrani": 6,
-    "netKazanc": 104,
-    "resim": "https://m.media-amazon.com/images/I/41K5gjYDbrS._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B07CGPZ3ZQ?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791445433327
   }
 ]
