@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791505673740",
+    "baslik": "SanDisk Ultra Luxe USB 3.1 Flash Sürücü 64 GB (USB 3.1 Gen 1 ve USB 3.0 uyumlu, 150 MB/s, Şifre Koruması, Veri Kurtarma Yazılımı)",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 999,
+    "yeniFiyat": 619,
+    "indirimOrani": 38,
+    "netKazanc": 380,
+    "resim": "https://m.media-amazon.com/images/I/51jPauko63L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B07SSZ8W38?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791505673741
+  },
+  {
     "id": "f-1791505196453",
     "baslik": "JBL Charge6, Bluetooth Hoparlör, IP67, Siyah",
     "kategori": "cevre-birimleri",
@@ -583,21 +598,6 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791474713703
-  },
-  {
-    "id": "f-1791473275858",
-    "baslik": "SanDisk Ultra Luxe USB 3.1 Flash Sürücü 64 GB (USB 3.1 Gen 1 ve USB 3.0 uyumlu, 150 MB/s, Şifre Koruması, Veri Kurtarma Yazılımı)",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 799,
-    "yeniFiyat": 539,
-    "indirimOrani": 33,
-    "netKazanc": 260,
-    "resim": "https://m.media-amazon.com/images/I/51jPauko63L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B07SSZ8W38?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791473275859
   },
   {
     "id": "f-1791472913773",
