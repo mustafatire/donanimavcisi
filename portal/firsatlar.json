@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791570604703",
+    "baslik": "Orico Type-C USB3.2 Gen1 64GB USB-C Flash Bellek Siyah",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 565,
+    "yeniFiyat": 522,
+    "indirimOrani": 8,
+    "netKazanc": 43,
+    "resim": "https://m.media-amazon.com/images/I/41GbF4myKfL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0C6T7KLNR?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791570604703
+  },
+  {
     "id": "f-1791570594710",
     "baslik": "Orico USB3.1 Gen1 64GB Flash Bellek Alüminyum Kasa",
     "kategori": "kasa-psu",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791498234511
-  },
-  {
-    "id": "f-1791495474535",
-    "baslik": "Tefal FV2844 Express Steam Kırışıklık Giderici 2400 Watt Buharlı Ütü - 4300007576",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 2390,
-    "yeniFiyat": 2199,
-    "indirimOrani": 8,
-    "netKazanc": 191,
-    "resim": "https://m.media-amazon.com/images/I/51SjfuTMb3L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0BH1C6KZL?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791495474535
   }
 ]
