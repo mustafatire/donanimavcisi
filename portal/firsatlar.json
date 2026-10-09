@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791559434617",
+    "baslik": "Arçelik CM 6342 IN Çay Makinesi",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 4499,
+    "yeniFiyat": 4199,
+    "indirimOrani": 7,
+    "netKazanc": 300,
+    "resim": "https://m.media-amazon.com/images/I/51wqpHqq3TL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0DW4F6Y4G?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791559434618
+  },
+  {
     "id": "f-1791558954690",
     "baslik": "Ninja Luxe Café Premier Espresso Makinesi ES601EU",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791482513369
-  },
-  {
-    "id": "f-1791481313489",
-    "baslik": "Philips Baristina Espresso Makinesi - Gerçek Espresso, Tam Kolaylık - Kompakt - 16 Bar Basınç - Entegre Öğütücü - Siyah Makine, Siyah Filtre Tutuculu (BAR300/60)",
-    "kategori": "monitor",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 15289,
-    "yeniFiyat": 9899,
-    "indirimOrani": 35,
-    "netKazanc": 5390,
-    "resim": "https://m.media-amazon.com/images/I/51-LTUvB3nL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0D66FJJWT?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791481313490
   }
 ]
