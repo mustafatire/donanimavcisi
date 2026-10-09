@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791535074540",
+    "baslik": "Colgate 360 Komple Ağız Temizliği Çok Yönlü Koruma Orta Diş Fırçası 1+1",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 258,
+    "yeniFiyat": 199,
+    "indirimOrani": 23,
+    "netKazanc": 59,
+    "resim": "https://m.media-amazon.com/images/I/71RxIP1fi9L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B07JK5X8R9?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791535074541
+  },
+  {
     "id": "f-1791531834194",
     "baslik": "Lexar 512GB Silver Plus 205mb 4K V30 UHSI Micro SD Hafıza Kartı",
     "kategori": "cevre-birimleri",
@@ -1453,50 +1468,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791448793337
-  },
-  {
-    "id": "f-1791448553219",
-    "baslik": "Karcher Vc 7 Cordless Yourmax Şarjlı Dikey Süpürge",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 21232,
-    "yeniFiyat": 18999,
-    "indirimOrani": 11,
-    "netKazanc": 2233,
-    "resim": "https://m.media-amazon.com/images/I/61zbfO9L-GL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0DPXK1DXM?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791448553219
-  },
-  {
-    "id": "f-1791448433401",
-    "baslik": "TEFAL TY6A35TR X-PERT 7.60 Dikey Süpürge",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 7599,
-    "yeniFiyat": 6799,
-    "indirimOrani": 11,
-    "netKazanc": 800,
-    "resim": "https://m.media-amazon.com/images/I/41H0EvjgiAL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0G3PLM4KQ?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791448433402
-  },
-  {
-    "id": "f-1791447593683",
-    "baslik": "50GB Hafıza Kartı Ev Araç Güvenlik Kamerası Uyumlu Telefon Tablet Micro SD Class10",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 576,
-    "yeniFiyat": 539,
-    "indirimOrani": 6,
-    "netKazanc": 37,
-    "resim": "https://m.media-amazon.com/images/I/71ldMU4jDiL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0H133BWTQ?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791447593684
   }
 ]
