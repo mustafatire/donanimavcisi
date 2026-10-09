@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791541794638",
+    "baslik": "Gillette Venus Yedek Kadın Tıraş Bıçağı 4'lü",
+    "kategori": "cevre-birimleri",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 499,
+    "yeniFiyat": 412,
+    "indirimOrani": 17,
+    "netKazanc": 87,
+    "resim": "https://m.media-amazon.com/images/I/71Pxvt1ZBcL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0000WU0XK?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791541794638
+  },
+  {
     "id": "f-1791540834720",
     "baslik": "Philips Azur DST7041/20 7000 Serisi 2800 W Buharlı Ütü",
     "kategori": "monitor",
@@ -1408,65 +1423,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791456593351
-  },
-  {
-    "id": "f-1791455393561",
-    "baslik": "Nespresso Vertuo Next Kahve Makinesi, Kırmızı",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 7911,
-    "yeniFiyat": 6999,
-    "indirimOrani": 12,
-    "netKazanc": 912,
-    "resim": "https://m.media-amazon.com/images/I/61sGvV3tlyL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0CTH8D89Q?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791455393561
-  },
-  {
-    "id": "f-1791455273495",
-    "baslik": "Nespresso C30 Essenza Mini Kapsüllü Kahve Makinesi, 19 Bar Basınç, 0.6 L Hacim, 2.3 Kg Tasarım, Gri",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 7351,
-    "yeniFiyat": 6693,
-    "indirimOrani": 9,
-    "netKazanc": 658,
-    "resim": "https://m.media-amazon.com/images/I/41qBQ-UP2kL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B07G8F22L5?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791455273496
-  },
-  {
-    "id": "f-1791455153480",
-    "baslik": "Philips Aqua Plus 8000 Serisi Kablosuz Dikey Süpürge, Süpürür Siler Temizlikte Süper, 360° Güçlü Emiş, Maksimum 80 dk, Saç Dolaşmasını Önleyici, Sert Zeminler ve Halılar İçin, LED Başlık (XC8156/10)",
-    "kategori": "monitor",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 19799,
-    "yeniFiyat": 18999,
-    "indirimOrani": 4,
-    "netKazanc": 800,
-    "resim": "https://m.media-amazon.com/images/I/61VVkXSEYgL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0GZL5FF59?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791455153481
-  },
-  {
-    "id": "f-1791454793421",
-    "baslik": "Xiaomi Uyumlu Mi Robot Vacuum H40 Modeli Robot süpürge yedek parça seti",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 699,
-    "yeniFiyat": 646,
-    "indirimOrani": 8,
-    "netKazanc": 53,
-    "resim": "https://m.media-amazon.com/images/I/51h-yAsdaTL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0G3QCPCJC?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791454793422
   }
 ]
