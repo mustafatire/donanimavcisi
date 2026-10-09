@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791574244257",
+    "baslik": "Philips OneBlade erkek bakım seti (Yüz ve vücut tıraş makinesi ve yedek bıçak seti)",
+    "kategori": "monitor",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 2853,
+    "yeniFiyat": 2434,
+    "indirimOrani": 15,
+    "netKazanc": 419,
+    "resim": "https://m.media-amazon.com/images/I/31D0YlhKpLL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0D3M3LBGR?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791574244258
+  },
+  {
     "id": "f-1791573234696",
     "baslik": "Tefal GV9230 Pro Express Protect Buhar Kazanlı Ütü |140gr | 2600W | 560gr Şok Buhar | Kireç Önleyici",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791504114112
-  },
-  {
-    "id": "f-1791499433939",
-    "baslik": "SanDisk Ultra 128GB 140MB/s microSDXC UHS-I Hafıza Kartı SDSQUAB-128G-GN6MN",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 1327,
-    "yeniFiyat": 1199,
-    "indirimOrani": 10,
-    "netKazanc": 128,
-    "resim": "https://m.media-amazon.com/images/I/51FeeXHe1nL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0BDYVC5TD?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791499433939
   }
 ]
