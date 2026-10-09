@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791531594152",
+    "baslik": "SanDisk Ultra Flair 128 GB USB 3.0 Flash Bellek - SDCZ73-128G-G46, Gümüş",
+    "kategori": "cevre-birimleri",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 889,
+    "yeniFiyat": 839,
+    "indirimOrani": 6,
+    "netKazanc": 50,
+    "resim": "https://m.media-amazon.com/images/I/61DaP3ryRKL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B015CH1PJU?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791531594153
+  },
+  {
     "id": "f-1791531354443",
     "baslik": "Samsung 25 Watt Şarj Adaptörü + Kablo Seti, Beyaz",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791445433327
-  },
-  {
-    "id": "f-1791445073283",
-    "baslik": "DAHUA S8 Araç İçi Kamera, 3K Çözünürlük, Dash Kamera",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 4350,
-    "yeniFiyat": 4150,
-    "indirimOrani": 5,
-    "netKazanc": 200,
-    "resim": "https://m.media-amazon.com/images/I/51ywP0BSSuL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0D1CNP7VD?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791445073283
   }
 ]
