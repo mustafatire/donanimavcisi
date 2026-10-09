@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791554524577",
+    "baslik": "Philips Sonicare DiamondClean 9000 Şarjlı Diş Fırçası, 4 Temizlik Modu, Basınç Sensörü, Seyahat Kabı ve Uygulama Desteği, Lacivert Geçişli, HX9911/88",
+    "kategori": "monitor",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 4897,
+    "yeniFiyat": 4499,
+    "indirimOrani": 8,
+    "netKazanc": 398,
+    "resim": "https://m.media-amazon.com/images/I/61xu-10WS6L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0CCPJD8SW?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791554524577
+  },
+  {
     "id": "f-1791554514583",
     "baslik": "einsteel Aqua Brush Şarj Edilebilir Elektrikli Diş fırçası,Su Püskürtmeli Ağız Duşu ve Diş Fırçası, Siyah",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791471713852
-  },
-  {
-    "id": "f-1791470873685",
-    "baslik": "360+ Botslab G300H Pro 3K QHD ADAS Wifi + GPS 140° Geniş Açı Gece Görüşlü Akıllı Araç İçi Kamera",
-    "kategori": "monitor",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 3599,
-    "yeniFiyat": 3418,
-    "indirimOrani": 5,
-    "netKazanc": 181,
-    "resim": "https://m.media-amazon.com/images/I/61RjCqNcyxL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0CNVFPW2P?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791470873686
   }
 ]
