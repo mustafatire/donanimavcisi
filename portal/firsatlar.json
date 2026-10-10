@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791657353640",
+    "baslik": "Kiwi Kmx-3638 Hamur Yoğurma & Stand Mikser 5,3 Lt 1300w Mutfak Şefi Siyah",
+    "kategori": "cevre-birimleri",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 3300,
+    "yeniFiyat": 2950,
+    "indirimOrani": 11,
+    "netKazanc": 350,
+    "resim": "https://m.media-amazon.com/images/I/51sjyJnDGqL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0FFHD7228?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791657353641
+  },
+  {
     "id": "f-1791654593401",
     "baslik": "Samsung 25 Watt Şarj Adaptörü + Kablo Seti, Beyaz",
     "kategori": "cevre-birimleri",
@@ -448,35 +463,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791572634595
-  },
-  {
-    "id": "f-1791570604703",
-    "baslik": "Orico Type-C USB3.2 Gen1 64GB USB-C Flash Bellek Siyah",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 565,
-    "yeniFiyat": 522,
-    "indirimOrani": 8,
-    "netKazanc": 43,
-    "resim": "https://m.media-amazon.com/images/I/41GbF4myKfL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0C6T7KLNR?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791570604703
-  },
-  {
-    "id": "f-1791570594710",
-    "baslik": "Orico USB3.1 Gen1 64GB Flash Bellek Alüminyum Kasa",
-    "kategori": "kasa-psu",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 660,
-    "yeniFiyat": 579,
-    "indirimOrani": 12,
-    "netKazanc": 81,
-    "resim": "https://m.media-amazon.com/images/I/41xePDCJY6L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0C6KS1VZZ?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791570594711
   }
 ]
