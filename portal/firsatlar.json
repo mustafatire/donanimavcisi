@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791648713981",
+    "baslik": "Schafer Thermochef Elegance Airfryer/Sıcak Hava Fritözü-Siyah",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 5499,
+    "yeniFiyat": 4199,
+    "indirimOrani": 24,
+    "netKazanc": 1300,
+    "resim": "https://m.media-amazon.com/images/I/71wi8kfScAL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0F9X4ZP2Y?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791648713981
+  },
+  {
     "id": "f-1791648593471",
     "baslik": "KODAK 32GB Micro SD UHS-I C10 U1 V10 Kart + SD Adaptör, Sarı",
     "kategori": "cevre-birimleri",
@@ -598,20 +613,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791562314633
-  },
-  {
-    "id": "f-1791562194630",
-    "baslik": "Bloody W95 Max 12.000 Cpi RGB Ultra-3 Optik Gamer (Oyuncu) Mouse | Sport Navy | 4M Dahili Bellek | Ekstra Ateş Desteği",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 1765,
-    "yeniFiyat": 1574,
-    "indirimOrani": 11,
-    "netKazanc": 191,
-    "resim": "https://m.media-amazon.com/images/I/61WKpqKv7UL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0CNVYX3RN?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791562194631
   }
 ]
