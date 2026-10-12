@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791763476163",
+    "baslik": "The HVAC Technician's Service Log: Per-Unit Service History, Readings and Refrigerant Records — 32 Units and 80 Service Visits (The Trade Record Series)",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 1909,
+    "yeniFiyat": 996,
+    "indirimOrani": 48,
+    "netKazanc": 913,
+    "resim": "https://m.media-amazon.com/images/I/61qZvFmMyrL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0HMHJT3SL?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791763476163
+  },
+  {
     "id": "f-1791758443126",
     "baslik": "Spigen 47W USB-C 2 Port Mini Hızlı Şarj Aleti PPS 2.0 Super Hızlı Şarj GaN Pro Isı Düşürücü Güç Adaptörü Akım Koruma iPhone & Android & iPad & MacBook Type-C White - ACH08707",
     "kategori": "cevre-birimleri",
@@ -313,35 +328,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791692993625
-  },
-  {
-    "id": "f-1791673794100",
-    "baslik": "JBL Charge6, Bluetooth Hoparlör, IP67, Siyah",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 8986,
-    "yeniFiyat": 7640,
-    "indirimOrani": 15,
-    "netKazanc": 1346,
-    "resim": "https://m.media-amazon.com/images/I/71OAC2L15TL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0DXKNBQS6?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791673794100
-  },
-  {
-    "id": "f-1791672954534",
-    "baslik": "Apple AirPods Max 2 Kablosuz Kulak Üstü Kulaklık, Aktif Gürültü Engelleme, Uyarlanabilir Ses, Kişiselleştirilmiş Uzamsal Ses, iPhone için Bluetooth Kulaklık – Gece Yarısı",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 33999,
-    "yeniFiyat": 29990,
-    "indirimOrani": 12,
-    "netKazanc": 4009,
-    "resim": "https://m.media-amazon.com/images/I/71ihnpd4N3L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0GSRXMJH4?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791672954535
   }
 ]
