@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791935998362",
+    "baslik": "Karcher VCH 4 UVCLEAN Yatak Temizleyici Toz Torbasız Süpürge 1.198-412.0",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 9921,
+    "yeniFiyat": 7919,
+    "indirimOrani": 20,
+    "netKazanc": 2002,
+    "resim": "https://m.media-amazon.com/images/I/81MMJHIRoeL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0FPQMRBYZ?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791935998363
+  },
+  {
     "id": "f-1791932878303",
     "baslik": "Samsung Galaxy Watch9 Koyu Gri, 40mm, Bluetooth, İncelik, Konfor, İkonik Tasarım, Kişiselleştirilmiş Uyku Deneyimi, Sağlık Koçu, 390 mAh Pil, Konuşmak için Bileğini Kaldır (Samsung Türkiye Versiyonu)",
     "kategori": "cevre-birimleri",
@@ -628,35 +643,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791874116803
-  },
-  {
-    "id": "f-1791849166487",
-    "baslik": "Spigen 47W USB-C 2 Port Mini Hızlı Şarj Aleti PPS 2.0 Super Hızlı Şarj GaN Pro Isı Düşürücü Güç Adaptörü Akım Koruma iPhone & Android & iPad & MacBook Type-C Black - ACH09457",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 899,
-    "yeniFiyat": 749,
-    "indirimOrani": 17,
-    "netKazanc": 150,
-    "resim": "https://m.media-amazon.com/images/I/61AqfPLDDuL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0F9WKR3Z8?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791849166488
-  },
-  {
-    "id": "f-1791847844843",
-    "baslik": "JBL Wave Buds2, Kablosuz Kulakiçi Kulaklık, IE, Beyaz",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 2170,
-    "yeniFiyat": 1744,
-    "indirimOrani": 20,
-    "netKazanc": 426,
-    "resim": "https://m.media-amazon.com/images/I/31AilnfwkbL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0DHLBLFXQ?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791847844844
   }
 ]
