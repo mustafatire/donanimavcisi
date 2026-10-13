@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791897756806",
+    "baslik": "Philips PSG7300/80 PerfectCare 7000 Seri Kazanlı Ütü",
+    "kategori": "monitor",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 21462,
+    "yeniFiyat": 19599,
+    "indirimOrani": 9,
+    "netKazanc": 1863,
+    "resim": "https://m.media-amazon.com/images/I/41DSggv8mYL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0H1HZ52JH?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791897756807
+  },
+  {
     "id": "f-1791896561235",
     "baslik": "Sinbo STM-5845 ve SCM-2967 Çelik Set – 360° Dönebilen Kablosuz Çay Makinesi ve Türk Kahvesi Cezvesi, Dayanıklı Paslanmaz Çelik",
     "kategori": "cevre-birimleri",
@@ -808,20 +823,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791811961310
-  },
-  {
-    "id": "f-1791810161438",
-    "baslik": "Marshall Stockwell II BT, Black and Brass",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 9890,
-    "yeniFiyat": 8682,
-    "indirimOrani": 12,
-    "netKazanc": 1208,
-    "resim": "https://m.media-amazon.com/images/I/71O1lW4PXQL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B088KRKFJ3?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791810161439
   }
 ]
