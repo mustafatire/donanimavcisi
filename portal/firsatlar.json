@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791896076859",
+    "baslik": "Grundig VCP 8331 PRO Şarjlı Dik Süpürge",
+    "kategori": "cevre-birimleri",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 10949,
+    "yeniFiyat": 9799,
+    "indirimOrani": 11,
+    "netKazanc": 1150,
+    "resim": "https://m.media-amazon.com/images/I/41UycOBb4SL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0D343FTGS?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791896076860
+  },
+  {
     "id": "f-1791894537002",
     "baslik": "Juo 240W GaN PD 3.1 Masaüstü Hızlı Şarj Cihazı 4 Type-C + 2 USB-A iPhone & MacBook & Laptop Uyumlu Şarj Aleti",
     "kategori": "cevre-birimleri",
@@ -793,20 +808,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791810161439
-  },
-  {
-    "id": "f-1791808842336",
-    "baslik": "Arcelik Ekolojik 24325 A 24000 Btu Inverter Duvar Tipi Klima Beyaz Tek Ebat T2837 3749",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 66499,
-    "yeniFiyat": 50355,
-    "indirimOrani": 24,
-    "netKazanc": 16144,
-    "resim": "https://m.media-amazon.com/images/I/31J9bHpSr8L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0F1Q1TK1T?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791808842336
   }
 ]
