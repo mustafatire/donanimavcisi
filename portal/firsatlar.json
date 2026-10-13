@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791877956615",
+    "baslik": "Philips 900 Serisi Hava Temizleyici, 65 M2'ye Kadar Etkili, HEPA ve Aktif Karbon filtresi, 250 m3/sa temiz hava hızı (CADR), AC0951/13",
+    "kategori": "monitor",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 9495,
+    "yeniFiyat": 8480,
+    "indirimOrani": 11,
+    "netKazanc": 1015,
+    "resim": "https://m.media-amazon.com/images/I/51-lKOfDQLL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0D3VDV73J?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791877956616
+  },
+  {
     "id": "f-1791874116803",
     "baslik": "Belkin BoostCharge 10000 mAh İnce Manyetik Stantlı Power Bank, Siyah",
     "kategori": "cevre-birimleri",
@@ -733,35 +748,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791794196165
-  },
-  {
-    "id": "f-1791791316487",
-    "baslik": "Lexar 128 GB Profesyonel Gümüş Artı Mikro SD Kart, UHS-I, C10, U3, V30, Full HD ve 4K, 205/150 MB/s'ye kadar microSDXC Hafıza Kartı, Videografçılar, Oyuncular için (LMSSIPL128G-BNANU)",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 3414,
-    "yeniFiyat": 2349,
-    "indirimOrani": 31,
-    "netKazanc": 1065,
-    "resim": "https://m.media-amazon.com/images/I/71tgLTd4z9L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0D4CDCVNY?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791791316488
-  },
-  {
-    "id": "f-1791789280754",
-    "baslik": "Redragon M612 PRO RGB oyun faresi, 8000 DPI kablolu/kablosuz optik oyuncu faresi, 9 programlanabilir tuş ve arka plan aydınlatması, BT & 2.4G, yazılım destekli, Rapid Fire Button",
-    "kategori": "ssd-ram",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 1299,
-    "yeniFiyat": 1169,
-    "indirimOrani": 10,
-    "netKazanc": 130,
-    "resim": "https://m.media-amazon.com/images/I/51VV+zLR66L._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0CY1PYYNS?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791789280754
   }
 ]
