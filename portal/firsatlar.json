@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791998374881",
+    "baslik": "Jacobs Monarch Filtre Kahve 500 Gr x 12 Paket",
+    "kategori": "cevre-birimleri",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 7900,
+    "yeniFiyat": 7020,
+    "indirimOrani": 11,
+    "netKazanc": 880,
+    "resim": "https://m.media-amazon.com/images/I/71BXpDNInvL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0C811F37M?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791998374882
+  },
+  {
     "id": "f-1791996874736",
     "baslik": "Seagate FireCuda 530R NVMe SSD 2TB, PS5/PC için, M.2 PCIe Gen4 ×4 NVMe 1.4, 7.400 MB/s’ye kadar, 3D-TLC-NAND, 5.050 TBW, soğutucu, Data Rescue Services (ZP2000GM3A073)",
     "kategori": "ssd-ram",
@@ -1288,20 +1303,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791917317296
-  },
-  {
-    "id": "f-1791910842764",
-    "baslik": "Ulike Air 3 IPL Lazer Epilasyon Cihazı Mor",
-    "kategori": "cevre-birimleri",
-    "rozet": "⚡ ANLIK DÜŞÜŞ",
-    "eskiFiyat": 23999,
-    "yeniFiyat": 21999,
-    "indirimOrani": 8,
-    "netKazanc": 2000,
-    "resim": "https://m.media-amazon.com/images/I/61K9PArSjNL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0CTQNBKBK?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791910842765
   }
 ]
