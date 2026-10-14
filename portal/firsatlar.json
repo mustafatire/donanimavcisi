@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791965398724",
+    "baslik": "L'Oreal Paris Elseve Mucizevi Yağ Besleyici Bakım Şampuanı 400 ml",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 179,
+    "yeniFiyat": 99,
+    "indirimOrani": 45,
+    "netKazanc": 80,
+    "resim": "https://m.media-amazon.com/images/I/6163KZXalTL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0F6C91BZJ?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791965398725
+  },
+  {
     "id": "f-1791963960488",
     "baslik": "Edifier Hecate G2000 Pro Splendid 2.0 Oyun Hoparlörü Beyaz",
     "kategori": "cevre-birimleri",
@@ -733,20 +748,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791881801326
-  },
-  {
-    "id": "f-1791877956615",
-    "baslik": "Philips 900 Serisi Hava Temizleyici, 65 M2'ye Kadar Etkili, HEPA ve Aktif Karbon filtresi, 250 m3/sa temiz hava hızı (CADR), AC0951/13",
-    "kategori": "monitor",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 9495,
-    "yeniFiyat": 8480,
-    "indirimOrani": 11,
-    "netKazanc": 1015,
-    "resim": "https://m.media-amazon.com/images/I/51-lKOfDQLL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0D3VDV73J?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791877956616
   }
 ]
