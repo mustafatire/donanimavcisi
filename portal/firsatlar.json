@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791996794381",
+    "baslik": "MSI SSD SPATIUM M480 PRO PCIE 4.0 NVME M.2 2TB R:7400 W:7000",
+    "kategori": "ssd-ram",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 22099,
+    "yeniFiyat": 20499,
+    "indirimOrani": 7,
+    "netKazanc": 1600,
+    "resim": "https://m.media-amazon.com/images/I/71+Yy-m2AjL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0C5Y4H2F5?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791996794381
+  },
+  {
     "id": "f-1791996784381",
     "baslik": "SANDISK 500GB Optimus 5100 NVMe SSD - PCIe 4.0 x4, M.2 2280, 6.600 MB/s'ye Kadar Okuma Hızı - SDSP51500GAN",
     "kategori": "ssd-ram",
