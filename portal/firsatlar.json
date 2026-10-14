@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1792005038007",
+    "baslik": "Goldmaster Optima Airfryer, 5+ L Kapasiteli, 8 Ön Programlı, Dijital Dokunmatik, Yağsız Kızartma, Sıcak Hava Fritöz, İnox, Plastik, 1700 Watt",
+    "kategori": "ssd-ram",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 5948,
+    "yeniFiyat": 4238,
+    "indirimOrani": 29,
+    "netKazanc": 1710,
+    "resim": "https://m.media-amazon.com/images/I/41fQIID-igL._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0FMYRJ48P?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1792005038009
+  },
+  {
     "id": "f-1792004674636",
     "baslik": "Starbucks Veranda Blend Öğütülmüş Kahve 200 g",
     "kategori": "cevre-birimleri",
@@ -1303,20 +1318,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791922121282
-  },
-  {
-    "id": "f-1791921157382",
-    "baslik": "Goldmaster Optima Airfryer, 5+ L Kapasiteli, 8 Ön Programlı, Dijital Dokunmatik, Yağsız Kızartma, Sıcak Hava Fritöz, İnox, Plastik, 1700 Watt",
-    "kategori": "ssd-ram",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 7198,
-    "yeniFiyat": 5948,
-    "indirimOrani": 17,
-    "netKazanc": 1250,
-    "resim": "https://m.media-amazon.com/images/I/41fQIID-igL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0FMYRJ48P?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791921157383
   }
 ]
