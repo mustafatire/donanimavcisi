@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1791977639317",
+    "baslik": "Head & Shoulders Mentol Ferahlığı Kepek Karşıtı Şampuan 330ml",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 179,
+    "yeniFiyat": 109,
+    "indirimOrani": 39,
+    "netKazanc": 70,
+    "resim": "https://m.media-amazon.com/images/I/71QBsgWDy8L._AC_UL320_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0DT9VM128?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1791977639317
+  },
+  {
     "id": "f-1791975359264",
     "baslik": "Soundpeats T3 Pro ANC TWS Bluetooth 5.4 Kablosuz Kulak içi Kulaklık Beyaz",
     "kategori": "cevre-birimleri",
@@ -688,35 +703,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1791891643824
-  },
-  {
-    "id": "f-1791890081692",
-    "baslik": "Sinbo STM-5845 Çelik Elektrikli Çay Makinesi Inox Çaycı 2-in-1 Demlik Su Isıtıcı 1600W Otomatik Kapama",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 1549,
-    "yeniFiyat": 1349,
-    "indirimOrani": 13,
-    "netKazanc": 200,
-    "resim": "https://m.media-amazon.com/images/I/41yCpYEa2bL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0DPMJHHJC?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791890081693
-  },
-  {
-    "id": "f-1791889360922",
-    "baslik": "PHİLİPS 6000 SERİSİ XC6456/10 KABLOSUZ ŞARJLI DİKEY SÜPÜRGE",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 15299,
-    "yeniFiyat": 13659,
-    "indirimOrani": 11,
-    "netKazanc": 1640,
-    "resim": "https://m.media-amazon.com/images/I/41VBXdaoPCL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0GTWN6VJD?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791889360923
   }
 ]
