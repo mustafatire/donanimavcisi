@@ -1,18 +1,18 @@
 [
   {
-    "id": "f-1792084108281",
-    "baslik": "ASUS TUF Gaming VG259QM5A 24 İnç 1080p 240Hz Gaming Monitör",
-    "kategori": "monitor",
+    "id": "f-1792086176086",
+    "baslik": "Trubar Kaplamalı, Kaju Ezmeli Çilekli Protein Bar 50 g (3 paketi)",
+    "kategori": "cevre-birimleri",
     "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 8999,
-    "yeniFiyat": 7449,
+    "eskiFiyat": 435,
+    "yeniFiyat": 359,
     "indirimOrani": 17,
-    "netKazanc": 1550,
-    "resim": "https://m.media-amazon.com/images/I/71aaIpb0BuL._AC_UL320_.jpg",
-    "link": "https://go.donanimavcisi.com/git?asin=B0DQ8PFWNR&g=website",
+    "netKazanc": 76,
+    "resim": "https://m.media-amazon.com/images/I/51HFnEB-guL._AC_UL320_.jpg",
+    "link": "https://go.donanimavcisi.com/git?asin=B0HL8KK1ZL&g=website",
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
-    "timestamp": 1792084108282
+    "timestamp": 1792086176086
   },
   {
     "id": "f-1792011849470",
@@ -118,35 +118,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1792004592189
-  },
-  {
-    "id": "f-1791998832239",
-    "baslik": "CONTİ CDF-401 FRİTO AİRFRYER YAĞSIZ FRİTÖZ",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 3983,
-    "yeniFiyat": 1699,
-    "indirimOrani": 57,
-    "netKazanc": 2284,
-    "resim": "https://m.media-amazon.com/images/I/513K+AMPhvL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0C6GXJBW1?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791998832239
-  },
-  {
-    "id": "f-1791998374881",
-    "baslik": "Jacobs Monarch Filtre Kahve 500 Gr x 12 Paket",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 7900,
-    "yeniFiyat": 7020,
-    "indirimOrani": 11,
-    "netKazanc": 880,
-    "resim": "https://m.media-amazon.com/images/I/71BXpDNInvL._AC_UL320_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0C811F37M?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1791998374882
   }
 ]
