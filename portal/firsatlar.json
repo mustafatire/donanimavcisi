@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1792359122909",
+    "baslik": "SanDisk Cruzer Blade 64GB USB 2.0 Flash Bellek- SDCZ50-064G-B35",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 530,
+    "yeniFiyat": 337,
+    "indirimOrani": 36,
+    "netKazanc": 193,
+    "resim": "https://m.media-amazon.com/images/I/61ERDR3tATL._AC_SL1000_PAD,1000,1000_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B00BX5FOCK?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1792359122910
+  },
+  {
     "id": "f-1792358329776",
     "baslik": "Einhell Akülü Oto Hava Kompresörü CE-CC 18/23 D Li-Solo 2071025",
     "kategori": "cevre-birimleri",
@@ -583,20 +598,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1792273291621
-  },
-  {
-    "id": "f-1792272121588",
-    "baslik": "Finish Quantum 160 Kapsül Bulaşık Makinesi Deterjanı Tableti (80x2)",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 1499,
-    "yeniFiyat": 1249,
-    "indirimOrani": 17,
-    "netKazanc": 250,
-    "resim": "https://m.media-amazon.com/images/I/71unOA-TDwL._AC_SL1000_PAD,1000,1000_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B013IEGIYQ?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1792272121589
   }
 ]
