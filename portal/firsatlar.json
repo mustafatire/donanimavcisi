@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1792390545139",
+    "baslik": "STANLEY Café-to-Go Termos Bardak 0.35 Litre - Lila | Paslanmaz Çelik",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 1930,
+    "yeniFiyat": 1547,
+    "indirimOrani": 20,
+    "netKazanc": 383,
+    "resim": "https://m.media-amazon.com/images/I/61HVD-EwgJL._AC_SL1000_PAD,1000,1000_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0F32QM9G6?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1792390545140
+  },
+  {
     "id": "f-1792381726511",
     "baslik": "Conti CTM-125 Tealine Paslanmaz Çelik Çay Makinesi - Siyah",
     "kategori": "cevre-birimleri",
@@ -583,20 +598,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1792308391835
-  },
-  {
-    "id": "f-1792301108458",
-    "baslik": "Stanley The Aerolight Transit Termos 0,35 L Pudra Pembe",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 1590,
-    "yeniFiyat": 1325,
-    "indirimOrani": 17,
-    "netKazanc": 265,
-    "resim": "https://m.media-amazon.com/images/I/41YTdHNeaiL._AC_SL1000_PAD,1000,1000_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0FBWS67J1?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1792301108459
   }
 ]
