@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1792434661587",
+    "baslik": "Razer Orochi V2 - 950 Saate Kadar Pil Ömrü ile Mobil Kablosuz Oyun Faresi (Ultra Hafif Tasarım, HyperSpeed ​​Kablosuz ve Bluetooth, 2. Nesil Mekanik Fare Anahtarları) Siyah",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 2849,
+    "yeniFiyat": 2199,
+    "indirimOrani": 23,
+    "netKazanc": 650,
+    "resim": "https://m.media-amazon.com/images/I/61XW967KaoL._AC_SL1000_PAD,1000,1000_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B08TJZCL5Q?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1792434661588
+  },
+  {
     "id": "f-1792431417530",
     "baslik": "Karaca Just Coffee Aroma 2 In 1 Filtre Kahve ve Çay Demleme Makinesi",
     "kategori": "cevre-birimleri",
@@ -808,35 +823,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1792350018349
-  },
-  {
-    "id": "f-1792345923158",
-    "baslik": "SSD WD BLACK SN850X PCIE NVME™ 4TB HEATS",
-    "kategori": "ssd-ram",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 59999,
-    "yeniFiyat": 51999,
-    "indirimOrani": 13,
-    "netKazanc": 8000,
-    "resim": "https://m.media-amazon.com/images/I/618RFfiA8dL._AC_SL1000_PAD,1000,1000_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0D9WTKV1B?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1792345923159
-  },
-  {
-    "id": "f-1792345567654",
-    "baslik": "Gravion Raxor 68 Tuş RGB Mekanik Gaming Oyuncu Klavyesi Hot Swap Beyaz Type-C to Usb Kablolu Kompakt Tasarım Anti-Ghosting Dayanıklı Tuşlar",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 1179,
-    "yeniFiyat": 899,
-    "indirimOrani": 24,
-    "netKazanc": 280,
-    "resim": "https://m.media-amazon.com/images/I/61DWQEEC6cL._AC_SL1000_PAD,1000,1000_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0GV1JBZ5T?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1792345567655
   }
 ]
