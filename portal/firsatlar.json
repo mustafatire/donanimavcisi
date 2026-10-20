@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1792524886092",
+    "baslik": "Karaca Coffee Art 2In1 Espresso Ve Filtre Kahve Makinesi",
+    "kategori": "cevre-birimleri",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 8378,
+    "yeniFiyat": 7499,
+    "indirimOrani": 10,
+    "netKazanc": 879,
+    "resim": "https://m.media-amazon.com/images/I/61eHOd8UOKL._AC_SL1000_PAD,1000,1000_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0D4Z23DY9?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1792524886093
+  },
+  {
     "id": "f-1792522701338",
     "baslik": "Gillette, Fusion ProGlide Power, erkekler için tıraş bıçağı",
     "kategori": "cevre-birimleri",
@@ -238,20 +253,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1792439619466
-  },
-  {
-    "id": "f-1792436819855",
-    "baslik": "Nescafe Dolce Gusto Espresso Intenso 16 Kapsül 112 Gr",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 480,
-    "yeniFiyat": 386,
-    "indirimOrani": 20,
-    "netKazanc": 94,
-    "resim": "https://m.media-amazon.com/images/I/61bvJF1DptL._AC_SL1000_PAD,1000,1000_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B09C1T833B?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1792436819856
   }
 ]
