@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1792609842591",
+    "baslik": "Urban Care Pink Grapefruit & Pamelo Canlandırıcı ve Nemlendirici Duş Jeli, 500 ml",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 194,
+    "yeniFiyat": 139,
+    "indirimOrani": 28,
+    "netKazanc": 55,
+    "resim": "https://m.media-amazon.com/images/I/51oT9n1DNcL._AC_SL1000_PAD,1000,1000_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0CVBGC27M?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1792609842592
+  },
+  {
     "id": "f-1792608411453",
     "baslik": "Stanley Classic Legendary Vakumlu Çelik Termos, 2.3 L",
     "kategori": "cevre-birimleri",
@@ -1048,20 +1063,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1792524886093
-  },
-  {
-    "id": "f-1792522701338",
-    "baslik": "Gillette, Fusion ProGlide Power, erkekler için tıraş bıçağı",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 2750,
-    "yeniFiyat": 2075,
-    "indirimOrani": 25,
-    "netKazanc": 675,
-    "resim": "https://m.media-amazon.com/images/I/51KAn2kxMhL._AC_SL1000_PAD,1000,1000_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B008BH9CKS?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1792522701338
   }
 ]
