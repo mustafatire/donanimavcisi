@@ -42,4 +42,6 @@ jobs:
             exit 0
           fi
           git commit -m "Otomatik site üretimi: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          # Bot aynı anda firsatlar.json'u güncellemiş olabilir; önce rebase et.
+          git pull --rebase origin main
           git push
