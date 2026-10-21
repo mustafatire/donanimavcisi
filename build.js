@@ -29,18 +29,48 @@ const TR_AY = ['Ocak', 'Şubat', 'Mart', 'Nisan', 'Mayıs', 'Haziran',
     'Temmuz', 'Ağustos', 'Eylül', 'Ekim', 'Kasım', 'Aralık'];
 
 const KATEGORILER = {
-    'ekran-karti': { ad: 'Ekran Kartı', ikon: '🎮' },
-    'anakart': { ad: 'Anakart & İşlemci', ikon: '⚡' },
-    'monitor': { ad: 'Monitör', ikon: '🖥️' },
-    'ssd-ram': { ad: 'SSD & RAM', ikon: '💾' },
-    'kasa-psu': { ad: 'Kasa & PSU', ikon: '🔌' },
-    'cevre-birimleri': { ad: 'Ekipman', ikon: '⌨️' },
-    'laptop': { ad: 'Laptop', ikon: '💻' },
-    'mobil-ses': { ad: 'Mobil & Ses', ikon: '📱' },
-    'tv-goruntu': { ad: 'TV & Görüntü', ikon: '📺' },
-    'ag-ev': { ad: 'Ağ & Akıllı Ev', ikon: '🌐' },
-    'sarj': { ad: 'Şarj & Aksesuar', ikon: '🔋' }
+    'ekran-karti': {
+        ad: 'Ekran Kartı', ikon: '🎮',
+        aciklama: 'NVIDIA GeForce RTX, AMD Radeon ve Intel Arc ekran kartlarında Amazon Türkiye fiyat düşüşleri; indirim oranı, satıcı fiyatı ve fiyat geçmişiyle birlikte.'
+    },
+    'islemci': {
+        ad: 'İşlemci', ikon: '⚙️',
+        aciklama: 'AMD Ryzen ve Intel Core işlemci fırsatları; soket, çekirdek sayısı ve güncel Amazon fiyatı tek sayfada.'
+    },
+    'anakart': {
+        ad: 'Anakart', ikon: '🧩',
+        aciklama: 'AM5, AM4 ve LGA1700 anakart indirimleri; çipset, form faktörü ve bellek desteği bilgisiyle doğrulanmış fiyatlar.'
+    },
+    'ram': {
+        ad: 'RAM', ikon: '🧠',
+        aciklama: 'DDR4 ve DDR5 RAM kitlerinde güncel indirimler; kapasite, hız, gecikme değerleri ve fiyat geçmişi.'
+    },
+    'ssd': {
+        ad: 'SSD & Depolama', ikon: '💾',
+        aciklama: 'NVMe M.2, SATA SSD, taşınabilir disk ve hafıza kartı fırsatları; okuma-yazma hızı ve fiyat geçmişiyle.'
+    },
+    'kasa-psu': {
+        ad: 'Kasa & Güç Kaynağı', ikon: '🔌',
+        aciklama: 'Bilgisayar kasası ve güç kaynağı indirimleri; 80+ sertifikası, watt değeri ve kasa tipi bilgisiyle.'
+    },
+    'sogutma': {
+        ad: 'Soğutma', ikon: '❄️',
+        aciklama: 'İşlemci soğutucu, sıvı soğutma, kasa fanı ve termal macun fırsatları; TDP ve sessizlik bilgisiyle.'
+    },
+    'monitor': {
+        ad: 'Monitör', ikon: '🖥️',
+        aciklama: 'Oyuncu monitörlerinde indirim: yenileme hızı, panel tipi, çözünürlük ve güncel Amazon fiyatı.'
+    },
+    'cevre-birimleri': { ad: 'Ekipman', ikon: '⌨️', aciklama: 'Klavye, mouse, gamepad ve masaüstü ekipmanlarında güncel fırsatlar.' },
+    'laptop': { ad: 'Laptop', ikon: '💻', aciklama: 'Dizüstü bilgisayar ve notebook indirimleri; işlemci, RAM ve ekran bilgisiyle.' },
+    'mobil-ses': { ad: 'Mobil & Ses', ikon: '📱', aciklama: 'Telefon, tablet, akıllı saat, kulaklık ve hoparlör fırsatları.' },
+    'tv-goruntu': { ad: 'TV & Görüntü', ikon: '📺', aciklama: 'Televizyon, projektör, kamera ve görüntü ekipmanı indirimleri.' },
+    'ag-ev': { ad: 'Ağ & Akıllı Ev', ikon: '🌐', aciklama: 'Router, mesh sistem, NAS ve akıllı ev ürünlerinde indirimler.' },
+    'sarj': { ad: 'Şarj & Aksesuar', ikon: '🔋', aciklama: 'Şarj cihazı, powerbank, kablo ve aksesuar fırsatları.' }
 };
+
+// PC donanımı omurgası: /donanim/ hub'ı ve ana sayfa bu sırayı kullanır.
+const BILESEN = ['ekran-karti', 'islemci', 'anakart', 'ram', 'ssd', 'kasa-psu', 'sogutma', 'monitor'];
 
 // ---------------------------------------------------------------- yardımcılar
 
@@ -183,12 +213,17 @@ function kategoriBelirle(baslik) {
     if (/klavye|keyboard|\bmouse\b|\bfare\b|gamepad|oyun kolu|mouse ?pad/.test(b)) return 'cevre-birimleri';
     if (/laptop|notebook|dizüstü|macbook/.test(b)) return 'laptop';
     if (/telefon|iphone|galaxy|xiaomi|redmi|poco|oppo|realme|honor|pixel|tablet|ipad|akıllı saat|smartwatch|airpods|\bbuds\b|kulakl[ıi]|headset|hoparlör|speaker|soundbar|mikrofon|referans monitör/.test(b)) return 'mobil-ses';
+    // Televizyon, monitörün "4K/OLED" kalıplarından önce ayrılmalı.
+    if (/televizyon|\btv\b|projektör|projektor|projeksiyon|kamera|webcam|gopro|drone|gimbal|action cam/.test(b)) return 'tv-goruntu';
     if (/ekran kart|\brtx\b|\bgtx\b|radeon|\brx\s?\d|nvidia|geforce|\barc\s?a\d/.test(b)) return 'ekran-karti';
-    if (/anakart|motherboard|\bb650\b|\bb760\b|\bb850\b|\bh610\b|işlemci|islemci|ryzen|intel core|\bam5\b|\bam4\b|\bcpu\b/.test(b)) return 'anakart';
-    if (/monitör|monitor|144\s?hz|165\s?hz|180\s?hz|240\s?hz|\bqhd\b|\b4k\b|\boled\b/.test(b)) return 'monitor';
-    if (/\bssd\b|nvme|m\.2|harddisk|\bhdd\b|\bram\b|ddr4|ddr5|bellek|microsd|hafıza kartı|usb bellek/.test(b)) return 'ssd-ram';
-    if (/kasa|\bpsu\b|power supply|güç kaynağı|soğutucu|soğutma|termal macun|\bfan\b/.test(b)) return 'kasa-psu';
-    if (/televizyon|\btv\b|projektör|projector|projeksiyon|kamera|webcam|gopro|drone|gimbal|action cam/.test(b)) return 'tv-goruntu';
+    // Anakart, işlemciden önce: "B650 anakart" başlığı işlemci sayılmasın.
+    if (/anakart|motherboard|çipset|\bb650\b|\bb760\b|\bb850\b|\bh610\b|\bx670\b|\ba620\b|\bz790\b|\bb550\b|\ba520\b/.test(b)) return 'anakart';
+    if (/işlemci|islemci|ryzen|athlon|threadripper|intel core|core i[3579]|\bcpu\b|\bam5\b|\bam4\b|\blga\s?\d{3,4}\b/.test(b)) return 'islemci';
+    if (/monitör|monitor|144\s?hz|165\s?hz|180\s?hz|240\s?hz|360\s?hz|\bqhd\b|\b4k\b|\boled\b/.test(b)) return 'monitor';
+    if (/\bram\b|ddr4|ddr5|so-?dimm|bellek kiti/.test(b)) return 'ram';
+    if (/\bssd\b|nvme|m\.2|harddisk|\bhdd\b|microsd|hafıza kartı|usb bellek|taşınabilir disk|\bsd card\b/.test(b)) return 'ssd';
+    if (/soğutucu|soğutma|termal macun|termal ped|radyatör|kasa fan|\bfan\b/.test(b)) return 'sogutma';
+    if (/\bkasa\b|kasası|\bpsu\b|power supply|güç kaynağı/.test(b)) return 'kasa-psu';
     if (/router|modem|wifi|\bmesh\b|\bnas\b|switch|ethernet|akıllı ev|smart home|robot süpürge|akıllı ampul|akıllı priz/.test(b)) return 'ag-ev';
     if (/şarj|charger|powerbank|power bank|kablo|cable|adaptör|adapter|dock|\bhub\b|type-?c/.test(b)) return 'sarj';
     return 'cevre-birimleri';
@@ -231,6 +266,10 @@ for (const f of hamVeri) {
     });
 }
 canli.sort((a, b) => (b.timestamp || 0) - (a.timestamp || 0));
+
+// Bu üretimde fırsatı olan kategoriler: iç linkler var olmayan kategori
+// sayfasına (404) gitmesin.
+const doluKategoriler = new Set(canli.map(f => f.kategori));
 
 // Arşiv: akıştan çıkan ürünlerin sayfası bir süre daha yayında kalsın.
 const arsiv = jsonOku(path.join(PORTAL, 'arsiv.json'), {});
@@ -373,6 +412,15 @@ h1{font-size:clamp(21px,2.6vw,29px);line-height:1.3;margin:0 0 14px;letter-spaci
 .mini b{font-size:13px;line-height:1.35;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .mini span{color:var(--muted);font-size:12px}
 .mini em{color:#fdba74;font-style:normal;font-weight:800;font-size:14px}
+.hw-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:12px;margin:16px 0 6px}
+.hw{display:flex;flex-direction:column;gap:4px;background:rgba(15,23,42,.6);border:1px solid var(--border);border-radius:14px;padding:16px;text-decoration:none;transition:border-color .15s}
+.hw:hover{border-color:#334155}
+.hw>span{font-size:22px;line-height:1.2}
+.hw b{font-size:14px}
+.hw em{color:var(--muted);font-style:normal;font-size:12px}
+.hw.bos{opacity:.5}
+.hw.liste{display:block}
+.bolum h2{scroll-margin-top:80px}
 footer{color:#64748b;font-size:12px;border-top:1px solid var(--border);padding:22px 0;text-align:center}
 footer a{color:#94a3b8;text-decoration:none}
 @media(max-width:720px){.urun{grid-template-columns:1fr;padding:18px;gap:18px}.gorsel{min-height:240px}.yeni{font-size:30px}.bolum{padding:18px}}
@@ -413,10 +461,21 @@ ${jsonLd ? `<script type="application/ld+json">${jsonLd}</script>` : ''}
 <main><div class="wrap">${icerik}</div></main>
 <footer><div class="wrap">
 Bu sitedeki Amazon linkleri ortaklık (affiliate) linkidir; alışverişinizden komisyon kazanabiliriz.
-Fiyatlar satıcı tarafından değiştirilebilir. <a href="/">Canlı fırsat akışı</a> · <a href="https://t.me/donanimavcisi" target="_blank" rel="noopener">Telegram</a>
+Fiyatlar satıcı tarafından değiştirilebilir.<br>
+${altBaglantilar()}
 </div></footer>
 </body>
 </html>`;
+}
+
+// Her sayfanın altında donanım odaklı iç linkler; boş kategoriye link vermez.
+function altBaglantilar() {
+    const parcalar = ['<a href="/">Canlı fırsat akışı</a>', '<a href="/donanim/">PC donanımı</a>'];
+    for (const k of BILESEN) {
+        if (doluKategoriler.has(k)) parcalar.push(`<a href="/kategori/${k}/">${KATEGORILER[k].ad}</a>`);
+    }
+    parcalar.push(`<a href="https://t.me/donanimavcisi" target="_blank" rel="noopener">Telegram</a>`);
+    return parcalar.join(' · ');
 }
 
 function fiyatGrafiği(seri) {
@@ -473,18 +532,25 @@ for (const f of sayfalar) {
             seller: { '@type': 'Organization', name: 'Amazon.com.tr' }
         }
     };
+    const bilesenMi = BILESEN.includes(f.kategori);
+    const kirintiOgeler = [
+        { '@type': 'ListItem', position: 1, name: 'Ana Sayfa', item: `${SITE}/` }
+    ];
+    if (bilesenMi) {
+        kirintiOgeler.push({ '@type': 'ListItem', position: 2, name: 'PC Donanımı', item: `${SITE}/donanim/` });
+    }
+    kirintiOgeler.push(
+        { '@type': 'ListItem', position: kirintiOgeler.length + 1, name: f.kategoriAdi, item: `${SITE}/kategori/${f.kategori}/` },
+        { '@type': 'ListItem', position: kirintiOgeler.length + 2, name: f.baslik, item: f.siteUrl }
+    );
     const kirintiLd = {
         '@context': 'https://schema.org',
         '@type': 'BreadcrumbList',
-        itemListElement: [
-            { '@type': 'ListItem', position: 1, name: 'Ana Sayfa', item: `${SITE}/` },
-            { '@type': 'ListItem', position: 2, name: f.kategoriAdi, item: `${SITE}/kategori/${f.kategori}/` },
-            { '@type': 'ListItem', position: 3, name: f.baslik, item: f.siteUrl }
-        ]
+        itemListElement: kirintiOgeler
     };
     const jsonLd = JSON.stringify([urunLd, kirintiLd]).replace(/</g, '\\u003c');
 
-    const kirinti = `<nav class="kirinti"><a href="/">Ana Sayfa</a> › <a href="/kategori/${f.kategori}/">${esc(f.kategoriAdi)}</a> › <span>${esc(f.baslik.slice(0, 60))}…</span></nav>`;
+    const kirinti = `<nav class="kirinti"><a href="/">Ana Sayfa</a>${bilesenMi ? ' › <a href="/donanim/">PC Donanımı</a>' : ''} › <a href="/kategori/${f.kategori}/">${esc(f.kategoriAdi)}</a> › <span>${esc(f.baslik.slice(0, 60))}…</span></nav>`;
     const uyari = !f.guncel
         ? `<div class="uyari">Bu fırsat canlı akıştan çıktı (son görülme: ${esc(tarihTR(f.sonGorulme + 'T12:00:00'))}). Fiyat değişmiş olabilir; güncel fiyatı Amazon sayfasında kontrol edin.</div>`
         : '';
@@ -566,10 +632,21 @@ for (const [kategori, liste] of Object.entries(kategoriGrubu)) {
 <span>${esc(f.rozet || 'Fırsat')}</span>
 <em>${tl(f.yeniFiyat)} TL${Number(f.eskiFiyat) > Number(f.yeniFiyat) ? ` · %${esc(f.indirimOrani)} indirim` : ''}</em>
 </a>`).join('');
-    const icerik = `<nav class="kirinti"><a href="/">Ana Sayfa</a> › <span>${esc(meta.ad)}</span></nav>
+    const bilesenMi = BILESEN.includes(kategori);
+    const digerleri = BILESEN.filter(k => k !== kategori)
+        .map(k => {
+            const m = KATEGORILER[k];
+            return doluKategoriler.has(k)
+                ? `<a class="hw" href="/kategori/${k}/"><span>${m.ikon}</span><b>${esc(m.ad)}</b><em>${(kategoriGrubu[k] || []).length} fırsat</em></a>`
+                : `<div class="hw bos"><span>${m.ikon}</span><b>${esc(m.ad)}</b><em>Fırsat bekleniyor</em></div>`;
+        })
+        .join('');
+    const icerik = `<nav class="kirinti"><a href="/">Ana Sayfa</a>${bilesenMi ? ' › <a href="/donanim/">PC Donanımı</a>' : ''} › <span>${esc(meta.ad)}</span></nav>
 <h1>${esc(meta.ad)} fırsatları</h1>
-<p style="color:#94a3b8;margin:0 0 20px">${liste.length} güncel fırsat · fiyatlar Amazon Türkiye'den otomatik okunur</p>
-<div class="liste">${kartlar || '<p>Şu an bu kategoride fırsat yok.</p>'}</div>`;
+<p style="color:#94a3b8;margin:0 0 10px;max-width:760px">${esc(meta.aciklama || '')}</p>
+<p style="color:#64748b;margin:0 0 20px">${liste.length} güncel fırsat · fiyatlar Amazon Türkiye'den otomatik okunur</p>
+<div class="liste">${kartlar || '<p>Şu an bu kategoride fırsat yok.</p>'}</div>
+${bilesenMi ? `<section class="bolum"><h2>Diğer donanım kategorileri</h2><div class="hw-grid">${digerleri}</div><p style="margin-top:14px"><a href="/donanim/" style="color:#93c5fd">Tüm PC donanımı kategorileri ➔</a></p></section>` : ''}`;
     const listeLd = JSON.stringify({
         '@context': 'https://schema.org',
         '@type': 'ItemList',
@@ -586,7 +663,86 @@ for (const [kategori, liste] of Object.entries(kategoriGrubu)) {
     urls.push({ loc: canonical, changefreq: 'hourly', priority: '0.7' });
 }
 
-// 3) sitemap / robots / RSS / 404
+// 3) PC donanımı hub'ı — kategoriler boşken de yayında kalır ve iç link verir.
+const bilesenListe = BILESEN.map(k => ({ k, meta: KATEGORILER[k], liste: kategoriGrubu[k] || [] }));
+const bilesenSayisi = bilesenListe.reduce((n, x) => n + x.liste.length, 0);
+const bilesenKartlari = bilesenListe.map(({ k, meta, liste }) => {
+    if (liste.length === 0) {
+        return `<div class="hw bos"><span>${meta.ikon}</span><b>${esc(meta.ad)}</b><em>Fırsat bekleniyor</em></div>`;
+    }
+    const en = Math.min(...liste.map(f => Number(f.yeniFiyat)).filter(n => Number.isFinite(n) && n > 0));
+    return `<a class="hw" href="/kategori/${k}/"><span>${meta.ikon}</span><b>${esc(meta.ad)}</b><em>${liste.length} fırsat${Number.isFinite(en) ? ` · ${tl(en)} TL'den` : ''}</em></a>`;
+}).join('');
+const bilesenFirsatlar = sayfalar.filter(f => f.guncel && BILESEN.includes(f.kategori)).slice(0, 8);
+const digerKategoriler = Object.keys(KATEGORILER).filter(k => !BILESEN.includes(k) && doluKategoriler.has(k));
+const digerLinkler = digerKategoriler.map(k => `<a class="hw" href="/kategori/${k}/"><span>${KATEGORILER[k].ikon}</span><b>${esc(KATEGORILER[k].ad)}</b><em>${(kategoriGrubu[k] || []).length} fırsat</em></a>`).join('');
+
+const donanimIcerik = `<nav class="kirinti"><a href="/">Ana Sayfa</a> › <span>PC Donanımı</span></nav>
+<h1>PC donanımı fırsatları</h1>
+<p style="color:#94a3b8;max-width:780px;margin:0 0 10px">Ekran kartı, işlemci, anakart, RAM, SSD, kasa, güç kaynağı, soğutma ve monitör fiyatlarını Amazon Türkiye üzerinden takip ediyoruz. Bir parçanın fiyatı düştüğünde sayfası burada listelenir; her fırsatın fiyat geçmişini ve son 30 günün en düşük seviyesini kendiliğinden kaydediyoruz.</p>
+<p style="color:#64748b;margin:0 0 18px">${bilesenSayisi} güncel donanım fırsatı · ${BILESEN.length} parça kategorisi</p>
+${bilesenSayisi === 0
+        ? `<div class="uyari">Şu an bu kategorilerde doğrulanmış fırsat yok; botumuz parçaları taramaya devam ediyor. İlk fırsat yakalandığında burada listelenecek. Bu arada <a href="/" style="color:#fdba74">canlı akıştaki diğer teknoloji fırsatlarına</a> göz atabilirsiniz.</div>`
+        : ''}
+<div class="hw-grid">${bilesenKartlari}</div>
+
+${bilesenFirsatlar.length ? `<section class="bolum">
+<h2>🔥 Son eklenen donanım fırsatları</h2>
+<div class="liste">${bilesenFirsatlar.map(f => `<a class="mini" href="/firsat/${f.slug}/">
+<img src="${esc(f.resim || '')}" alt="${esc(f.baslik)}" loading="lazy" referrerpolicy="no-referrer">
+<b>${esc(f.baslik)}</b>
+<span>${esc(f.kategoriAdi)} · ${esc(f.rozet || 'Fırsat')}</span>
+<em>${tl(f.yeniFiyat)} TL${Number(f.eskiFiyat) > Number(f.yeniFiyat) ? ` · %${esc(f.indirimOrani)} indirim` : ''}</em>
+</a>`).join('')}</div>
+</section>` : ''}
+
+<section class="bolum">
+<h2>🧪 Fiyatları nasıl doğruluyoruz?</h2>
+<p>Botumuz ürün adını ve fiyatını yalnızca Amazon Türkiye ürün sayfasından okur; forum veya kanal başlığı kullanılmaz. Böylece "RTX 4070" başlıklı bir gönderinin altında farklı bir ürün satılması durumu fırsat sayfasına yansımaz.</p>
+<p>Her ürünün fiyatı günlük olarak kaydedilir. Sayfadaki grafik son 30 günü gösterir; "son 30 günün en düşük fiyatı" rozeti bu kayıtlara dayanır ve sahte indirimleri ayıklamaya yardımcı olur.</p>
+<p>Fiyatlar satıcı tarafından her an değiştirilebilir. Sayfadaki tutar ile Amazon sepetindeki tutar farklıysa satın alma sayfasındaki güncel fiyat geçerlidir.</p>
+</section>
+
+${digerLinkler ? `<section class="bolum">
+<h2>Diğer teknoloji fırsatları</h2>
+<div class="hw-grid">${digerLinkler}</div>
+</section>` : ''}`;
+
+const donanimLd = JSON.stringify([
+    {
+        '@context': 'https://schema.org',
+        '@type': 'CollectionPage',
+        name: 'PC Donanımı Fırsatları',
+        url: `${SITE}/donanim/`,
+        inLanguage: 'tr-TR',
+        description: 'Ekran kartı, işlemci, anakart, RAM, SSD, kasa, güç kaynağı, soğutma ve monitör fırsatları.'
+    },
+    {
+        '@context': 'https://schema.org',
+        '@type': 'BreadcrumbList',
+        itemListElement: [
+            { '@type': 'ListItem', position: 1, name: 'Ana Sayfa', item: `${SITE}/` },
+            { '@type': 'ListItem', position: 2, name: 'PC Donanımı', item: `${SITE}/donanim/` }
+        ]
+    }
+]).replace(/</g, '\\u003c');
+
+htmlYaz(path.join(PORTAL, 'donanim', 'index.html'), sayfaSablonu({
+    baslik: `PC Donanımı Fırsatları: Ekran Kartı, İşlemci, RAM, SSD | Donanım Avcısı`,
+    aciklama: kisalt(`Ekran kartı, işlemci, anakart, RAM, SSD, kasa, güç kaynağı, soğutma ve monitör fırsatları. Amazon Türkiye fiyatları ve fiyat geçmişiyle doğrulanmış ${bilesenSayisi} donanım fırsatı.`, 155),
+    canonical: `${SITE}/donanim/`,
+    resim: bilesenFirsatlar[0] && bilesenFirsatlar[0].resim,
+    jsonLd: donanimLd,
+    icerik: donanimIcerik
+}));
+urls.push({
+    loc: `${SITE}/donanim/`,
+    lastmod: new Date(bilesenFirsatlar.reduce((en, f) => Math.max(en, f.timestamp || 0), 0) || yedekZaman).toISOString().slice(0, 10),
+    changefreq: 'hourly',
+    priority: '0.9'
+});
+
+// 4) sitemap / robots / RSS / 404
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 ${urls.map(u => `  <url><loc>${esc(u.loc)}</loc>${u.lastmod ? `<lastmod>${u.lastmod}</lastmod>` : ''}<changefreq>${u.changefreq}</changefreq><priority>${u.priority}</priority></url>`).join('\n')}

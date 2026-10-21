@@ -1,0 +1,4 @@
+# Taksonomi 2026-10-22'de parçalara bölündü: SSD & RAM ayrıldı.
+# Eski kategori adresi hub'a yönlenir; hub her zaman yayında.
+/kategori/ssd-ram/     /donanim/    301
+/kategori/ssd-ram/*    /donanim/    301

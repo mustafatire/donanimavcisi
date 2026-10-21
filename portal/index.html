@@ -21,8 +21,8 @@
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Donanım Avcısı | Canlı Donanım İndirim & Fırsat Akışı</title>
-    <meta name="description" content="Amazon Türkiye'deki güncel ekran kartı, laptop, SSD, monitör ve donanım indirimleri. Botlarımızın doğruladığı gerçek fiyat düşüşleri, fiyat geçmişi ve dip fiyat rozetleriyle canlı akış.">
+    <title>Donanım Avcısı | Ekran Kartı, İşlemci, RAM ve PC Donanım Fırsatları</title>
+    <meta name="description" content="Ekran kartı, işlemci, anakart, RAM, SSD ve monitör indirimleri. Amazon Türkiye fiyatları botlarla doğrulanır; fiyat geçmişi ve dip fiyat rozetleriyle listelenir.">
     <meta name="referrer" content="no-referrer">
     <meta name="theme-color" content="#090d16">
     <link rel="canonical" href="https://donanimavcisi.com/">
@@ -30,13 +30,13 @@
     <meta property="og:locale" content="tr_TR">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Donanım Avcısı">
-    <meta property="og:title" content="Donanım Avcısı | Canlı Donanım İndirim & Fırsat Akışı">
-    <meta property="og:description" content="Amazon Türkiye'deki güncel donanım indirimleri: ekran kartı, laptop, SSD, RAM, monitör ve daha fazlası.">
+    <meta property="og:title" content="Donanım Avcısı | PC Donanım Fırsatları">
+    <meta property="og:description" content="Ekran kartı, işlemci, anakart, RAM, SSD ve monitör indirimleri; doğrulanmış Amazon Türkiye fiyatları ve fiyat geçmişi.">
     <meta property="og:url" content="https://donanimavcisi.com/">
     <meta name="twitter:card" content="summary_large_image">
     <link rel="alternate" type="application/rss+xml" title="Donanım Avcısı Fırsat Akışı" href="/feed.xml">
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"WebSite","name":"Donanım Avcısı","alternateName":"Donanim Avcisi","url":"https://donanimavcisi.com/","inLanguage":"tr-TR","description":"Amazon Türkiye'den otomatik doğrulanan donanım ve elektronik fırsatları."}
+    {"@context":"https://schema.org","@type":"WebSite","name":"Donanım Avcısı","alternateName":"Donanim Avcisi","url":"https://donanimavcisi.com/","inLanguage":"tr-TR","description":"Amazon Türkiye'den otomatik doğrulanan PC donanımı ve teknoloji fırsatları."}
     </script>
 
     <!-- Fonts -->
@@ -133,6 +133,104 @@
         .top-tg-btn:hover {
             transform: translateY(-1px);
             box-shadow: 0 4px 15px rgba(37, 99, 235, 0.4);
+        }
+        .top-right {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .top-link {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 0.82rem;
+            font-weight: 600;
+            padding: 6px 12px;
+            border-radius: 999px;
+            border: 1px solid var(--border-color);
+            white-space: nowrap;
+        }
+        .top-link:hover {
+            color: #ffffff;
+            border-color: var(--accent-cyan);
+        }
+
+        /* PC Donanımı şeridi */
+        .hw-section {
+            max-width: 1160px;
+            margin: 0 auto 26px auto;
+            padding: 0 20px;
+        }
+        .hw-head {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 12px;
+            margin-bottom: 12px;
+        }
+        .hw-head h2 {
+            font-size: 1.15rem;
+            font-weight: 800;
+            color: #ffffff;
+        }
+        .hw-head a {
+            color: var(--accent-cyan);
+            text-decoration: none;
+            font-size: 0.85rem;
+            font-weight: 600;
+            white-space: nowrap;
+        }
+        .hw-grid {
+            display: grid;
+            grid-template-columns: repeat(4, minmax(0, 1fr));
+            gap: 12px;
+        }
+        @media (max-width: 900px) {
+            .hw-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+        }
+        .hw-tile {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            gap: 3px;
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: 14px;
+            padding: 14px 16px;
+            cursor: pointer;
+            color: var(--text-primary);
+            font-family: inherit;
+            text-align: left;
+            transition: all 0.2s;
+        }
+        .hw-tile:hover {
+            border-color: var(--accent-cyan);
+            transform: translateY(-2px);
+        }
+        .hw-tile.aktif {
+            border-color: var(--accent-cyan);
+            background: linear-gradient(135deg, rgba(2, 132, 199, 0.25), rgba(37, 99, 235, 0.25));
+        }
+        .hw-tile .hw-ikon { font-size: 1.3rem; }
+        .hw-tile b { font-size: 0.95rem; }
+        .hw-tile em {
+            font-style: normal;
+            font-size: 0.78rem;
+            color: var(--text-secondary);
+        }
+        .hw-tile.bos { opacity: 0.5; }
+
+        @media (max-width: 600px) {
+            .top-bar { padding: 8px 12px; gap: 8px; }
+            .live-status { font-size: 0.75rem; min-width: 0; }
+            .live-status span:last-child {
+                white-space: nowrap;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                max-width: 34vw;
+            }
+            .top-link { padding: 5px 9px; font-size: 0.75rem; }
+            .top-tg-btn { padding: 5px 10px; font-size: 0.75rem; }
+            .top-tg-btn svg { display: none; }
         }
 
         /* Hero Header */
@@ -587,36 +685,43 @@
             <span class="pulse-dot"></span>
             <span>BOT 7/24 AKTİF: Amazon & Donanım Taraması Sürüyor</span>
         </div>
-        <a href="https://t.me/donanimavcisi" class="top-tg-btn" target="_blank" rel="noopener noreferrer">
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
-                <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5-.99-.65-.35-1.01.22-1.59.15-.15 2.71-2.48 2.76-2.69a.2.2 0 00-.05-.18c-.06-.05-.14-.03-.21-.02-.09.02-1.49.95-4.22 2.79-.4.27-.76.41-1.08.4-.36-.01-1.04-.2-1.55-.37-.63-.2-1.12-.31-1.08-.66.02-.18.27-.36.74-.55 2.92-1.27 4.86-2.11 5.83-2.52 2.77-1.17 3.35-1.37 3.73-1.38.08 0 .27.02.39.12.1.08.13.19.14.27-.01.06.01.24 0 .38z"/>
-            </svg>
-            <span>Telegram'a Katıl</span>
-        </a>
+        <div class="top-right">
+            <a href="/donanim/" class="top-link">🧩 Donanım</a>
+            <a href="https://t.me/donanimavcisi" class="top-tg-btn" target="_blank" rel="noopener noreferrer">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+                    <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5-.99-.65-.35-1.01.22-1.59.15-.15 2.71-2.48 2.76-2.69a.2.2 0 00-.05-.18c-.06-.05-.14-.03-.21-.02-.09.02-1.49.95-4.22 2.79-.4.27-.76.41-1.08.4-.36-.01-1.04-.2-1.55-.37-.63-.2-1.12-.31-1.08-.66.02-.18.27-.36.74-.55 2.92-1.27 4.86-2.11 5.83-2.52 2.77-1.17 3.35-1.37 3.73-1.38.08 0 .27.02.39.12.1.08.13.19.14.27-.01.06.01.24 0 .38z"/>
+                </svg>
+                <span>Telegram'a Katıl</span>
+            </a>
+        </div>
     </div>
 
     <!-- Başlık & Arama -->
     <header class="header-section">
         <h1 class="brand-title">⚡ <span>Donanım Avcısı</span></h1>
         <p class="brand-subtitle">
-            Piyasa takip botlarımızın e-ticaret sitelerinden anlık olarak yakaladığı gerçek indirimler ve fiyat hataları akışı.
+            PC donanımı odaklı fırsat akışı: ekran kartı, işlemci, anakart, RAM, SSD, monitör ve daha fazlası.
+            Fiyatı Amazon Türkiye sayfasından doğruluyor, geçmişini kaydediyor ve dip fiyatları işaretliyoruz.
         </p>
 
         <div class="controls-container">
             <!-- Arama Kutusu -->
             <div class="search-box">
                 <span class="search-icon">🔍</span>
-                <input type="text" id="searchInput" class="search-input" placeholder="Donanım ara (Örn: RTX, Ryzen, SSD, Anakart, Monitör)...">
+                <input type="text" id="searchInput" class="search-input" placeholder="Donanım ara (Örn: RTX, Ryzen, DDR5, B650, NVMe)...">
             </div>
 
             <!-- Kategori Butonları -->
             <div class="categories-scroll" id="categoryPills">
                 <button class="category-pill active" data-cat="all">🔥 Tümü</button>
                 <button class="category-pill" data-cat="ekran-karti">🎮 Ekran Kartı</button>
-                <button class="category-pill" data-cat="anakart">⚡ Anakart</button>
+                <button class="category-pill" data-cat="islemci">⚙️ İşlemci</button>
+                <button class="category-pill" data-cat="anakart">🧩 Anakart</button>
+                <button class="category-pill" data-cat="ram">🧠 RAM</button>
+                <button class="category-pill" data-cat="ssd">💾 SSD</button>
+                <button class="category-pill" data-cat="kasa-psu">🔌 Kasa &amp; PSU</button>
+                <button class="category-pill" data-cat="sogutma">❄️ Soğutma</button>
                 <button class="category-pill" data-cat="monitor">🖥️ Monitör</button>
-                <button class="category-pill" data-cat="ssd-ram">💾 SSD & RAM</button>
-                <button class="category-pill" data-cat="kasa-psu">🔌 Kasa & PSU</button>
                 <button class="category-pill" data-cat="cevre-birimleri">⌨️ Ekipman</button>
                 <button class="category-pill" data-cat="laptop">💻 Laptop</button>
                 <button class="category-pill" data-cat="mobil-ses">📱 Mobil &amp; Ses</button>
@@ -626,6 +731,15 @@
             </div>
         </div>
     </header>
+
+    <!-- PC Donanımı kategorileri -->
+    <section class="hw-section" aria-label="PC donanımı kategorileri">
+        <div class="hw-head">
+            <h2>🧩 PC Donanımı</h2>
+            <a href="/donanim/">Tüm donanım kategorileri ➔</a>
+        </div>
+        <div class="hw-grid" id="hwGrid"><!-- JS ile doldurulur --></div>
+    </section>
 
     <!-- Ana İçerik: Canlı Akış + Yan Panel -->
     <main class="main-layout">
@@ -687,6 +801,44 @@
         let activeCategory = 'all';
         let searchQuery = '';
 
+        // PC donanımı omurgası: build.js içindeki BILESEN listesiyle aynı.
+        const HW_KATEGORILER = [
+            ['ekran-karti', '🎮', 'Ekran Kartı'],
+            ['islemci', '⚙️', 'İşlemci'],
+            ['anakart', '🧩', 'Anakart'],
+            ['ram', '🧠', 'RAM'],
+            ['ssd', '💾', 'SSD'],
+            ['kasa-psu', '🔌', 'Kasa & PSU'],
+            ['sogutma', '❄️', 'Soğutma'],
+            ['monitor', '🖥️', 'Monitör']
+        ];
+        const HW_SET = new Set(HW_KATEGORILER.map(x => x[0]));
+
+        function kategoriSec(k) {
+            activeCategory = k;
+            document.querySelectorAll('.category-pill').forEach(p => {
+                p.classList.toggle('active', p.getAttribute('data-cat') === k);
+            });
+            renderHW();
+            renderDeals();
+        }
+
+        function renderHW() {
+            const grid = document.getElementById('hwGrid');
+            if (!grid) return;
+            const say = {};
+            allDeals.forEach(d => { say[d.kategori] = (say[d.kategori] || 0) + 1; });
+            grid.innerHTML = HW_KATEGORILER.map(([k, ik, ad]) => {
+                const n = say[k] || 0;
+                return `<button class="hw-tile${n ? '' : ' bos'}${activeCategory === k ? ' aktif' : ''}" data-cat="${k}" type="button">
+                    <span class="hw-ikon">${ik}</span><b>${ad}</b><em>${n ? n + ' fırsat' : 'Taranıyor'}</em>
+                </button>`;
+            }).join('');
+            grid.querySelectorAll('.hw-tile').forEach(b => {
+                b.addEventListener('click', () => kategoriSec(b.getAttribute('data-cat')));
+            });
+        }
+
         function formatTL(num) {
             return num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ".");
         }
@@ -707,19 +859,15 @@
             const container = document.getElementById('dealsStream');
             const countEl = document.getElementById('itemCount');
 
-            // O an fırsat olmayan kategorilerin pill'lerini gizle; chip satırı
-            // boş kategorilerle şişmesin. Yeni fırsat gelince kendiliğinden döner.
+            // O an fırsatı olmayan kategorilerin pill'lerini gizle; seçili
+            // kategori her zaman görünür kalsın ki kullanıcı bağlamı kaybetmesin.
             const mevcutKategoriler = new Set(allDeals.map(d => d.kategori));
             document.querySelectorAll('.category-pill').forEach(p => {
                 const c = p.getAttribute('data-cat');
-                p.style.display = (c === 'all' || mevcutKategoriler.has(c)) ? '' : 'none';
+                p.style.display = (c === 'all' || mevcutKategoriler.has(c) || c === activeCategory) ? '' : 'none';
+                p.classList.toggle('active', c === activeCategory);
             });
-            if (activeCategory !== 'all' && !mevcutKategoriler.has(activeCategory)) {
-                activeCategory = 'all';
-                document.querySelectorAll('.category-pill').forEach(p => {
-                    p.classList.toggle('active', p.getAttribute('data-cat') === 'all');
-                });
-            }
+            renderHW();
 
             let filtered = allDeals.filter(d => {
                 const matchCategory = activeCategory === 'all' || d.kategori === activeCategory;
@@ -730,10 +878,13 @@
             countEl.innerText = `${filtered.length} Fırsat Listeleniyor`;
 
             if (filtered.length === 0) {
+                const hw = HW_SET.has(activeCategory);
                 container.innerHTML = `
                     <div class="empty-state">
-                        <h3>Sonuç Bulunamadı</h3>
-                        <p>Aradığınız kritere uygun fırsat bulunamadı. Lütfen filtreleri temizleyin veya arama terimini değiştirin.</p>
+                        <h3>${hw ? 'Bu kategoride henüz fırsat yok' : 'Sonuç Bulunamadı'}</h3>
+                        <p>${hw
+                            ? 'Botumuz bu kategoriyi de tarıyor; doğrulanmış ilk fırsat geldiğinde burada listelenecek. Bu arada <a href="/donanim/" style="color:#38bdf8">donanım sayfasına</a> göz atabilirsiniz.'
+                            : 'Aradığınız kritere uygun fırsat bulunamadı. Lütfen filtreleri temizleyin veya arama terimini değiştirin.'}</p>
                     </div>
                 `;
                 return;
@@ -827,10 +978,7 @@
         const pills = document.querySelectorAll('.category-pill');
         pills.forEach(pill => {
             pill.addEventListener('click', () => {
-                pills.forEach(p => p.classList.remove('active'));
-                pill.classList.add('active');
-                activeCategory = pill.getAttribute('data-cat');
-                renderDeals();
+                kategoriSec(pill.getAttribute('data-cat'));
             });
         });
 

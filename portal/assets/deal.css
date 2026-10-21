@@ -49,6 +49,15 @@ h1{font-size:clamp(21px,2.6vw,29px);line-height:1.3;margin:0 0 14px;letter-spaci
 .mini b{font-size:13px;line-height:1.35;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .mini span{color:var(--muted);font-size:12px}
 .mini em{color:#fdba74;font-style:normal;font-weight:800;font-size:14px}
+.hw-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:12px;margin:16px 0 6px}
+.hw{display:flex;flex-direction:column;gap:4px;background:rgba(15,23,42,.6);border:1px solid var(--border);border-radius:14px;padding:16px;text-decoration:none;transition:border-color .15s}
+.hw:hover{border-color:#334155}
+.hw>span{font-size:22px;line-height:1.2}
+.hw b{font-size:14px}
+.hw em{color:var(--muted);font-style:normal;font-size:12px}
+.hw.bos{opacity:.5}
+.hw.liste{display:block}
+.bolum h2{scroll-margin-top:80px}
 footer{color:#64748b;font-size:12px;border-top:1px solid var(--border);padding:22px 0;text-align:center}
 footer a{color:#94a3b8;text-decoration:none}
 @media(max-width:720px){.urun{grid-template-columns:1fr;padding:18px;gap:18px}.gorsel{min-height:240px}.yeni{font-size:30px}.bolum{padding:18px}}
