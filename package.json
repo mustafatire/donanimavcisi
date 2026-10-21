@@ -1,0 +1,12 @@
+{
+  "name": "donanimavcisi-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Donanım Avcısı statik fırsat sitesi üreticisi (SEO sayfaları, sitemap, fiyat geçmişi)",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
