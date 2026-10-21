@@ -203,7 +203,9 @@ if (!Array.isArray(hamVeri)) {
 }
 
 const bugun = bugunTR();
-const simdi = Date.now();
+// Zaman damgası olmayan kayıtlar için sabit yedek: çıktı her çalıştırmada
+// değişmesin, yoksa Action saatte bir boş commit atar.
+const yedekZaman = Date.parse(bugun + 'T00:00:00Z');
 
 // Canlı akıştaki tech ürünleri; aynı ASIN için en yeni kayıt kalır.
 const gorulen = new Set();
@@ -540,7 +542,7 @@ ${ist.dusuk && ist.nokta >= 2 ? `<p style="margin-top:12px;color:#6ee7b7">✅ Bu
     if (f.guncel) {
         urls.push({
             loc: f.siteUrl,
-            lastmod: new Date(f.timestamp || simdi).toISOString().slice(0, 10),
+            lastmod: new Date(f.timestamp || yedekZaman).toISOString().slice(0, 10),
             changefreq: 'daily',
             priority: '0.8'
         });
@@ -594,18 +596,23 @@ htmlYaz(path.join(PORTAL, 'sitemap.xml'), sitemap);
 
 htmlYaz(path.join(PORTAL, 'robots.txt'), `User-agent: *\nAllow: /\n\nSitemap: ${SITE}/sitemap.xml\n`);
 
+// lastBuildDate her çalıştırmada değişirse Action saatte bir boş commit atar.
+// En yeni fırsatın zamanını kullan; yeni fırsat yoksa günün başlangıcı.
+const rssZaman = sayfalar.filter(f => f.guncel).reduce((en, f) => Math.max(en, f.timestamp || 0), 0) ||
+    yedekZaman;
+const rssTarihi = new Date(rssZaman).toUTCString();
 const rss = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel>
 <title>Donanım Avcısı | Canlı Donanım Fırsatları</title>
 <link>${SITE}/</link>
 <description>Amazon Türkiye'den otomatik doğrulanan donanım ve elektronik fırsatları.</description>
 <language>tr-TR</language>
-<lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
+<lastBuildDate>${rssTarihi}</lastBuildDate>
 ${sayfalar.filter(f => f.guncel).slice(0, 50).map(f => `  <item>
     <title>${esc(f.baslik)}</title>
     <link>${esc(f.siteUrl)}</link>
     <guid isPermaLink="true">${esc(f.siteUrl)}</guid>
-    <pubDate>${new Date(f.timestamp || simdi).toUTCString()}</pubDate>
+    <pubDate>${new Date(f.timestamp || rssZaman).toUTCString()}</pubDate>
     <description>${esc(`${f.baslik} – ${tl(f.yeniFiyat)} TL (%${f.indirimOrani} indirim)`)}</description>
   </item>`).join('\n')}
 </channel></rss>
