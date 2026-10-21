@@ -81,6 +81,16 @@ function tl(n) {
     return Number(n || 0).toLocaleString('tr-TR', { maximumFractionDigits: 2 });
 }
 
+// SEO başlık/açıklama için kelime ortasından kesmeden kısalt.
+function kisalt(s, n) {
+    s = String(s || '').replace(/\s+/g, ' ').trim();
+    if (s.length <= n) return s;
+    const kesik = s.slice(0, n);
+    const bosluk = kesik.lastIndexOf(' ');
+    return (bosluk > n * 0.6 ? kesik.slice(0, bosluk) : kesik)
+        .replace(/[,;:\-–]+$/, '') + '…';
+}
+
 function bugunTR() {
     return new Date().toLocaleDateString('sv-SE', { timeZone: 'Europe/Istanbul' });
 }
@@ -440,10 +450,10 @@ const urls = [{ loc: `${SITE}/`, changefreq: 'hourly', priority: '1.0' }];
 for (const f of sayfalar) {
     const ist = istatistik(f.asin, Number(f.yeniFiyat));
     const yol = path.join(PORTAL, 'firsat', f.slug, 'index.html');
-    const baslik = `${f.baslik} – ${tl(f.yeniFiyat)} TL | Donanım Avcısı`;
-    const aciklama = `${f.baslik} şu an ${tl(f.yeniFiyat)} TL` +
+    const baslik = `${kisalt(f.baslik, 48)} – ${tl(f.yeniFiyat)} TL | Donanım Avcısı`;
+    const aciklama = kisalt(`${kisalt(f.baslik, 68)} şu an ${tl(f.yeniFiyat)} TL` +
         (f.eskiFiyat > f.yeniFiyat ? ` (${tl(f.eskiFiyat)} TL yerine, %${f.indirimOrani} indirim)` : '') +
-        `. Amazon Türkiye fırsatını Donanım Avcısı'nda inceleyin.`;
+        `. Amazon Türkiye fırsatı, fiyat geçmişi ve güncel indirim oranı Donanım Avcısı'nda.`, 155);
 
     const urunLd = {
         '@context': 'https://schema.org',
@@ -547,7 +557,7 @@ for (const [kategori, liste] of Object.entries(kategoriGrubu)) {
     const meta = KATEGORILER[kategori] || KATEGORILER['cevre-birimleri'];
     const canonical = `${SITE}/kategori/${kategori}/`;
     const baslik = `${meta.ad} Fırsatları | Donanım Avcısı`;
-    const aciklama = `${meta.ad} kategorisindeki güncel Amazon Türkiye fırsatları: ${liste.slice(0, 3).map(x => x.baslik).join(', ')}.`.slice(0, 160);
+    const aciklama = kisalt(`${meta.ad} kategorisindeki güncel Amazon Türkiye fırsatları: ${liste.slice(0, 3).map(x => x.baslik).join(', ')}.`, 155);
     const kartlar = liste.map(f => `<a class="mini" href="/firsat/${f.slug}/">
 <img src="${esc(f.resim || '')}" alt="${esc(f.baslik)}" loading="lazy" referrerpolicy="no-referrer">
 <b>${esc(f.baslik)}</b>
