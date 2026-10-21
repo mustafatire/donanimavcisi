@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1792612577121",
+    "baslik": "Steamone Euns150B Portatif Buharli Dikey Ütü",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 6999,
+    "yeniFiyat": 3999,
+    "indirimOrani": 43,
+    "netKazanc": 3000,
+    "resim": "https://m.media-amazon.com/images/I/41yIxd0dh5L._AC_SL1000_PAD,1000,1000_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0987RPDGK?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1792612577125
+  },
+  {
     "id": "f-1792609842591",
     "baslik": "Urban Care Pink Grapefruit & Pamelo Canlandırıcı ve Nemlendirici Duş Jeli, 500 ml",
     "kategori": "cevre-birimleri",
@@ -1033,35 +1048,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1792529167609
-  },
-  {
-    "id": "f-1792525409349",
-    "baslik": "Arzum Ar2078 Neogrill Izgara Ve Tost Makinesi",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 3999,
-    "yeniFiyat": 2999,
-    "indirimOrani": 25,
-    "netKazanc": 1000,
-    "resim": "https://m.media-amazon.com/images/I/510jkFCMFuL._AC_SL1000_PAD,1000,1000_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0HCCQPC79?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1792525409350
-  },
-  {
-    "id": "f-1792524886092",
-    "baslik": "Karaca Coffee Art 2In1 Espresso Ve Filtre Kahve Makinesi",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 8378,
-    "yeniFiyat": 7499,
-    "indirimOrani": 10,
-    "netKazanc": 879,
-    "resim": "https://m.media-amazon.com/images/I/61eHOd8UOKL._AC_SL1000_PAD,1000,1000_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0D4Z23DY9?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1792524886093
   }
 ]
