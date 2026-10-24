@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1792859952640",
+    "baslik": "Tchibo Gold Selection Öğütülmüş Filtre Kahve 250 Gram Vakumlu Paket",
+    "kategori": "ssd-ram",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 276,
+    "yeniFiyat": 225,
+    "indirimOrani": 18,
+    "netKazanc": 51,
+    "resim": "https://m.media-amazon.com/images/I/61c+eHIresL._AC_SL1000_PAD,1000,1000_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0028J9HN2?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1792859952641
+  },
+  {
     "id": "f-1792853217382",
     "baslik": "Fairy Platinum Bulaşık Makinesi Deterjanı Kapsülü/Tableti 96 Yıkama Limon Kokulu",
     "kategori": "cevre-birimleri",
@@ -508,35 +523,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1792776032999
-  },
-  {
-    "id": "f-1792771117059",
-    "baslik": "Aula AU75 3 Modlu RGB Hot Swap Mekanik TKL Star Vector Switch Kablosuz Makrolu Klavye Lacivert",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 3314,
-    "yeniFiyat": 2989,
-    "indirimOrani": 10,
-    "netKazanc": 325,
-    "resim": "https://m.media-amazon.com/images/I/61vhOLGfHwL._AC_SL1000_PAD,1000,1000_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0FV3GGZ98?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1792771117059
-  },
-  {
-    "id": "f-1792767873062",
-    "baslik": "Sinbo STM-5845 Çelik Elektrikli Çay Makinesi Inox Çaycı 2-in-1 Demlik Su Isıtıcı 1600W Otomatik Kapama",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 1549,
-    "yeniFiyat": 1349,
-    "indirimOrani": 13,
-    "netKazanc": 200,
-    "resim": "https://m.media-amazon.com/images/I/41yCpYEa2bL._AC_SL1000_PAD,1000,1000_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0DPMJHHJC?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1792767873063
   }
 ]
