@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1792839719298",
+    "baslik": "MSI SSD SPATIUM M480 PRO PCIE 4.0 NVME M.2 2TB R:7400 W:7000",
+    "kategori": "ssd-ram",
+    "rozet": "⚡ ANLIK DÜŞÜŞ",
+    "eskiFiyat": 22563,
+    "yeniFiyat": 20499,
+    "indirimOrani": 9,
+    "netKazanc": 2064,
+    "resim": "https://m.media-amazon.com/images/I/71+Yy-m2AjL._AC_SL1000_PAD,1000,1000_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0C5Y4H2F5?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1792839719299
+  },
+  {
     "id": "f-1792838185789",
     "baslik": "HP DHS-2113-S 13W Multimedya Hoparlör",
     "kategori": "cevre-birimleri",
@@ -838,35 +853,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1792753893333
-  },
-  {
-    "id": "f-1792752273795",
-    "baslik": "Hawk Gaming HM420 4K Hz 26000 DPI Tri-Mode Kablosuz/Bluetooth Şarj Standlı Gaming Mouse (Beyaz)",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 4049,
-    "yeniFiyat": 3297,
-    "indirimOrani": 19,
-    "netKazanc": 752,
-    "resim": "https://m.media-amazon.com/images/I/51Lbcl00SKL._AC_SL1000_PAD,1000,1000_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0FQCQZ84V?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1792752273796
-  },
-  {
-    "id": "f-1792752042647",
-    "baslik": "GAMEPOWER Fujin USB Oyun Kulaklığı - 7.1 Sanal Surround Ses, 50MM Sürücülere Sahip Kablolu RGB Led Kulaklıklar, Konforlu Tasarım, 360 Mekansal Ses, Gürültü Önleyici Mikrofon, PC Dizüstü Bilgisayar",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 1799,
-    "yeniFiyat": 1559,
-    "indirimOrani": 13,
-    "netKazanc": 240,
-    "resim": "https://m.media-amazon.com/images/I/71e9l7GC0EL._AC_SL1000_PAD,1000,1000_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0BF5Q3T2D?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1792752042648
   }
 ]
