@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1792802642571",
+    "baslik": "BIC Hybrid 5 Flex 4'lü Yedek Tıraş Bıçağı Kartuşu (5 Bıçak), 5 Nano Teknolojik Titanyum Bıçak, E Vitamini ile Zenginleştirilmiş Geniş Kayganlaştırıcı Bant",
+    "kategori": "cevre-birimleri",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 300,
+    "yeniFiyat": 255,
+    "indirimOrani": 15,
+    "netKazanc": 45,
+    "resim": "https://m.media-amazon.com/images/I/61Of3C5Xp4L._AC_SL1000_PAD,1000,1000_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B08ZJNDBX7?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1792802642573
+  },
+  {
     "id": "f-1792801985622",
     "baslik": "Claw's Nexus Air Kablosuz 10000 Dpi Pixart PMW3325 Sensör Makro Yazılımlı & Değiştirilebilir Kapaklı RGB Kablosuz Gaming Mouse - Siyah",
     "kategori": "cevre-birimleri",
@@ -720,21 +735,6 @@
     "timestamp": 1792753893333
   },
   {
-    "id": "f-1792752932215",
-    "baslik": "BIC Hybrid 5 Flex 4'lü Yedek Tıraş Bıçağı Kartuşu (5 Bıçak), 5 Nano Teknolojik Titanyum Bıçak, E Vitamini ile Zenginleştirilmiş Geniş Kayganlaştırıcı Bant",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 349,
-    "yeniFiyat": 300,
-    "indirimOrani": 14,
-    "netKazanc": 49,
-    "resim": "https://m.media-amazon.com/images/I/61Of3C5Xp4L._AC_SL1000_PAD,1000,1000_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B08ZJNDBX7?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1792752932216
-  },
-  {
     "id": "f-1792752273795",
     "baslik": "Hawk Gaming HM420 4K Hz 26000 DPI Tri-Mode Kablosuz/Bluetooth Şarj Standlı Gaming Mouse (Beyaz)",
     "kategori": "cevre-birimleri",
@@ -1003,65 +1003,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1792719598918
-  },
-  {
-    "id": "f-1792716056341",
-    "baslik": "Gillette Mach3 Charcoal Tıraş Makinesi + 5 Adet Yedek Tıraş Bıçağı + Premium Stand Hediyeli Peket",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 765,
-    "yeniFiyat": 669,
-    "indirimOrani": 13,
-    "netKazanc": 96,
-    "resim": "https://m.media-amazon.com/images/I/71iJfk2HRCL._AC_SL1000_PAD,1000,1000_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0CZRV9LVX?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1792716056341
-  },
-  {
-    "id": "f-1792716025404",
-    "baslik": "Gillette Sensor3 8'li Yedek Tıraş Bıçağı",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 369,
-    "yeniFiyat": 311,
-    "indirimOrani": 16,
-    "netKazanc": 58,
-    "resim": "https://m.media-amazon.com/images/I/71x+lSKdS1L._AC_SL1000_PAD,1000,1000_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B08QX8817L?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1792716025404
-  },
-  {
-    "id": "f-1792716010815",
-    "baslik": "Gillette Blue2 Kullan At Erkek Tıraş Bıçağı 20'li",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 450,
-    "yeniFiyat": 373,
-    "indirimOrani": 17,
-    "netKazanc": 77,
-    "resim": "https://m.media-amazon.com/images/I/715lJfv54HL._AC_SL1000_PAD,1000,1000_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B09HL6DBP6?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1792716010815
-  },
-  {
-    "id": "f-1792715989958",
-    "baslik": "Gillette Skinguard Sensitive Tıraş Makinesi + 2 Adet Yedek Tıraş Bıçağı",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 850,
-    "yeniFiyat": 635,
-    "indirimOrani": 25,
-    "netKazanc": 215,
-    "resim": "https://m.media-amazon.com/images/I/71dQ7VLJGJL._AC_SL1000_PAD,1000,1000_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0CJS2QLY1?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1792715989958
   }
 ]
