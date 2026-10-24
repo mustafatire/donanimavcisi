@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1792865933319",
+    "baslik": "Perwoll Sport 1.48 litre Sıvı Çamaşır Deterjan, 1.5L",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 295,
+    "yeniFiyat": 230,
+    "indirimOrani": 22,
+    "netKazanc": 65,
+    "resim": "https://m.media-amazon.com/images/I/71lTslFZGbL._AC_SL1000_PAD,1000,1000_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0DM5JW3FL?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1792865933320
+  },
+  {
     "id": "f-1792859952640",
     "baslik": "Tchibo Gold Selection Öğütülmüş Filtre Kahve 250 Gram Vakumlu Paket",
     "kategori": "ssd-ram",
@@ -463,65 +478,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1792785359358
-  },
-  {
-    "id": "f-1792779457813",
-    "baslik": "Multipower Power Pack XXL Classic Dark 60 gr 12li Protein Bar",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 2100,
-    "yeniFiyat": 592,
-    "indirimOrani": 72,
-    "netKazanc": 1508,
-    "resim": "https://m.media-amazon.com/images/I/61RcXrjus4L._AC_SL1000_PAD,1000,1000_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B09TRBQ6M5?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1792779457814
-  },
-  {
-    "id": "f-1792778912395",
-    "baslik": "OMO Active Fresh Beyazlar Toz Deterjanı 5.5 kg",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 589,
-    "yeniFiyat": 400,
-    "indirimOrani": 32,
-    "netKazanc": 189,
-    "resim": "https://m.media-amazon.com/images/I/71-f5t9lZ4L._AC_SL1000_PAD,1000,1000_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B08KJDKK2J?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1792778912396
-  },
-  {
-    "id": "f-1792776753491",
-    "baslik": "Stanley The Aerolight Transit Mug Termos Bardak, Krem, 0.35 Litre",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 1599,
-    "yeniFiyat": 1090,
-    "indirimOrani": 32,
-    "netKazanc": 509,
-    "resim": "https://m.media-amazon.com/images/I/412ZGrhm3IL._AC_SL1000_PAD,1000,1000_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0F8C119TS?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1792776753491
-  },
-  {
-    "id": "f-1792776032998",
-    "baslik": "Razer Leviathan V2 X - PC Oyun Soundbar'ı (Tam Aralıklı Sürücüler, Kompakt Masaüstü Form Faktörü, USB Tip C Güç ve Ses Dağıtımı, Bluetooth 5.0) Siyah",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 6450,
-    "yeniFiyat": 5599,
-    "indirimOrani": 13,
-    "netKazanc": 851,
-    "resim": "https://m.media-amazon.com/images/I/61wdvpbe5vL._AC_SL1000_PAD,1000,1000_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0B42YNZ7R?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1792776032999
   }
 ]
