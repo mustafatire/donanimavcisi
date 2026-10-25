@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1792966015262",
+    "baslik": "OMO Sık Yıkananlar Tüm Renkler En zorlu lekeleri ilk yıkamada çıkarır 50 yıkama 2.5L",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 409,
+    "yeniFiyat": 325,
+    "indirimOrani": 21,
+    "netKazanc": 84,
+    "resim": "https://m.media-amazon.com/images/I/61H5Fq0gKwL._AC_SL1000_PAD,1000,1000_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0FJRZB7GJ?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1792966015262
+  },
+  {
     "id": "f-1792965771026",
     "baslik": "Oral-B iO6 Siyah Şarjlı/Elektrikli Diş Fırçası, 2 Fırça Başlığı, Uzun Ömürlü Pil, Premium Seyahat Kabı, Yedek Başlık Kabı",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1792930359168
-  },
-  {
-    "id": "f-1792928737031",
-    "baslik": "Fellas Çikolata Kaplı HighPro+ Protein Bar - Çilekli (50g)",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 219,
-    "yeniFiyat": 153,
-    "indirimOrani": 30,
-    "netKazanc": 66,
-    "resim": "https://m.media-amazon.com/images/I/612l9Rw4awL._AC_SL1000_PAD,1000,1000_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0HBCK9JHX?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1792928737032
   }
 ]
