@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1792967116731",
+    "baslik": "De'Longhi Magnifica Evo Next Ecam312.80.Tb Tam Otomatik Espresso Cappuccino Makinesi",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 37000,
+    "yeniFiyat": 27999,
+    "indirimOrani": 24,
+    "netKazanc": 9001,
+    "resim": "https://m.media-amazon.com/images/I/71epkI2BaYL._AC_SL1000_PAD,1000,1000_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0D4ZNSQ6L?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1792967116731
+  },
+  {
     "id": "f-1792967092923",
     "baslik": "Bialetti - Moka İndüksiyon Siyah: 6 Cups Ocak Üstü Espresso Pişirici - 280ml - Alt Hazne: Dış Paslanmaz Çelik İç Alüminyum - Patentli Güvenlik Valfi - İndüksiyon Ocak Türleri İçin Uygundur",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1792963069032
-  },
-  {
-    "id": "f-1792963026984",
-    "baslik": "Turbo Fan, Şarjlı Hava Kompresörü, 3 Güç Modu, 52m/s Güçlü Üfleme, Bilgisayar - Araba - Klavye Temizliği için Güçlü Toz Üfleyici",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 1999,
-    "yeniFiyat": 1499,
-    "indirimOrani": 25,
-    "netKazanc": 500,
-    "resim": "https://m.media-amazon.com/images/I/7100PHKkcYL._AC_SL1000_PAD,1000,1000_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0FND2524R?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1792963026985
   }
 ]
