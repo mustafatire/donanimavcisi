@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1792966647470",
+    "baslik": "YUI Ks16 2'si 1 Arada Ac Motor Toz Torbasız Hepa Filtreli Kablolu Dikey Elektrikli Süpürge",
+    "kategori": "cevre-birimleri",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 3499,
+    "yeniFiyat": 3149,
+    "indirimOrani": 10,
+    "netKazanc": 350,
+    "resim": "https://m.media-amazon.com/images/I/414pt0M-wrL._AC_SL1000_PAD,1000,1000_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0FTMQJ3GG?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1792966647470
+  },
+  {
     "id": "f-1792966623053",
     "baslik": "MOVA S70 Roller Robot Süpürge, 28.000 Pa Emiş Gücü, DToF + Çizgi Lazerli Engel Kaçınma, Uzatılabilir Paspas, 80°C Sıcak Suyla Kendi Kendini Temizleme, 75°C Kurutma, 3 Yıl Garanti",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1792962389068
-  },
-  {
-    "id": "f-1792962335307",
-    "baslik": "JBL Soundgear Sense – Kablosuz Bluetooth Açık Kulaklık – Su sıçramasına karşı korumalı ve konforlu – Beyaz",
-    "kategori": "ssd-ram",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 6989,
-    "yeniFiyat": 5822,
-    "indirimOrani": 17,
-    "netKazanc": 1167,
-    "resim": "https://m.media-amazon.com/images/I/51fEVRqjThL._AC_SL1000_PAD,1000,1000_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0CGQ42J2B?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1792962335307
   }
 ]
