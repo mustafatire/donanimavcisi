@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1792966120255",
+    "baslik": "Bingo Sıvı Bakım Çamaşır Deterjanı, Siyah, 4 Lt",
+    "kategori": "cevre-birimleri",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 280,
+    "yeniFiyat": 240,
+    "indirimOrani": 14,
+    "netKazanc": 40,
+    "resim": "https://m.media-amazon.com/images/I/71egmXaUCNL._AC_SL1000_PAD,1000,1000_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B07KCXVBJK?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1792966120255
+  },
+  {
     "id": "f-1792966105255",
     "baslik": "Bingo Keratin Tüm Renkler Svı Deterjan 4 L (67 yıkama)",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1792948345357
-  },
-  {
-    "id": "f-1792947184204",
-    "baslik": "Starbucks By Nespresso Dark Espresso Roast Kapsül Kahve 1 X 10 Adet",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 455,
-    "yeniFiyat": 344,
-    "indirimOrani": 24,
-    "netKazanc": 111,
-    "resim": "https://m.media-amazon.com/images/I/61D7QtYtf7L._AC_SL1000_PAD,1000,1000_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B07T9738Y6?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1792947184205
   }
 ]
