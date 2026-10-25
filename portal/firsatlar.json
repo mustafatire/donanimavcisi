@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1792960615960",
+    "baslik": "Dexart WK-0816G TeaCraft Çay Makinesi ve Su Isıtıcı, Metalik",
+    "kategori": "cevre-birimleri",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 3499,
+    "yeniFiyat": 3149,
+    "indirimOrani": 10,
+    "netKazanc": 350,
+    "resim": "https://m.media-amazon.com/images/I/61b3DUh8OKL._AC_SL1000_PAD,1000,1000_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0DVTLGKL5?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1792960615961
+  },
+  {
     "id": "f-1792956994891",
     "baslik": "STANLEY Classic Legendary Vakumlu Termos 1.9 Litre - Mat Siyah | Paslanmaz Çelik",
     "kategori": "cevre-birimleri",
@@ -508,20 +523,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1792874918329
-  },
-  {
-    "id": "f-1792873024471",
-    "baslik": "CONTİ CDF-401 FRİTO AİRFRYER YAĞSIZ FRİTÖZ (Beyaz)",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 1699,
-    "yeniFiyat": 1399,
-    "indirimOrani": 18,
-    "netKazanc": 300,
-    "resim": "https://m.media-amazon.com/images/I/51dA-nkKxwL._AC_SL1000_PAD,1000,1000_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0C6GYQ3WM?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1792873024472
   }
 ]
