@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1792940974798",
+    "baslik": "Tchibo Caffè Crema Decaffeinato 30 Adet Kapsül Avantajlı Paket",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 850,
+    "yeniFiyat": 550,
+    "indirimOrani": 35,
+    "netKazanc": 300,
+    "resim": "https://m.media-amazon.com/images/I/61kg48n5YEL._AC_SL1000_PAD,1000,1000_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0BMQNZ6BB?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1792940974799
+  },
+  {
     "id": "f-1792939468669",
     "baslik": "Gillette Venus Extra Smooth Kadın Bıçakları, 3 Yedek Bıçak",
     "kategori": "cevre-birimleri",
@@ -628,20 +643,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1792859952641
-  },
-  {
-    "id": "f-1792853217382",
-    "baslik": "Fairy Platinum Bulaşık Makinesi Deterjanı Kapsülü/Tableti 96 Yıkama Limon Kokulu",
-    "kategori": "cevre-birimleri",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 979,
-    "yeniFiyat": 815,
-    "indirimOrani": 17,
-    "netKazanc": 164,
-    "resim": "https://m.media-amazon.com/images/I/81th1ZRNF7L._AC_SL1000_PAD,1000,1000_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0DG6WTRYT?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1792853217383
   }
 ]
