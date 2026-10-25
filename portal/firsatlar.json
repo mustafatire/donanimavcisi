@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1792966325627",
+    "baslik": "Fellas Vegan Protein Bar, Yer Fıstığı Ezmeli, 40gr x 12 Adet",
+    "kategori": "cevre-birimleri",
+    "rozet": "🚨 DEV KAMPANYA",
+    "eskiFiyat": 549,
+    "yeniFiyat": 384,
+    "indirimOrani": 30,
+    "netKazanc": 165,
+    "resim": "https://m.media-amazon.com/images/I/71IvdqxxusL._AC_SL1000_PAD,1000,1000_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B0C1P7RYN5?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1792966325628
+  },
+  {
     "id": "f-1792966310638",
     "baslik": "Fellas Çikolata Kaplı HighPro+ Protein Bar - Çilekli (50g) x12 Adet",
     "kategori": "cevre-birimleri",
@@ -1483,20 +1498,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1792960615961
-  },
-  {
-    "id": "f-1792956994891",
-    "baslik": "STANLEY Classic Legendary Vakumlu Termos 1.9 Litre - Mat Siyah | Paslanmaz Çelik",
-    "kategori": "cevre-birimleri",
-    "rozet": "🚨 DEV KAMPANYA",
-    "eskiFiyat": 2999,
-    "yeniFiyat": 2135,
-    "indirimOrani": 29,
-    "netKazanc": 864,
-    "resim": "https://m.media-amazon.com/images/I/61FzFgjMrsL._AC_SL1000_PAD,1000,1000_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B07P7B2XHT?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1792956994892
   }
 ]
