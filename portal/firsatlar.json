@@ -1,5 +1,20 @@
 [
   {
+    "id": "f-1792963969603",
+    "baslik": "SanDisk Cruzer Blade 16GB USB 2.0 Flash Bellek - SDCZ50-016G-B35",
+    "kategori": "cevre-birimleri",
+    "rozet": "🔥 SICAK FIRSAT",
+    "eskiFiyat": 417,
+    "yeniFiyat": 354,
+    "indirimOrani": 15,
+    "netKazanc": 63,
+    "resim": "https://m.media-amazon.com/images/I/61x1JIF9MwS._AC_SL1000_PAD,1000,1000_.jpg",
+    "link": "https://www.amazon.com.tr/dp/B004I2N5AS?tag=motodash-21",
+    "zaman": "Az önce",
+    "kaynak": "Amazon Türkiye",
+    "timestamp": 1792963969603
+  },
+  {
     "id": "f-1792963954608",
     "baslik": "SanDisk Ultra Luxe USB 3.1 Flash Sürücü 64 GB (USB 3.1 Gen 1 ve USB 3.0 uyumlu, 150 MB/s, Şifre Koruması, Veri Kurtarma Yazılımı)",
     "kategori": "cevre-birimleri",
@@ -1063,20 +1078,5 @@
     "zaman": "Az önce",
     "kaynak": "Amazon Türkiye",
     "timestamp": 1792882492294
-  },
-  {
-    "id": "f-1792877555951",
-    "baslik": "Philips 3000Serisi 9in1,Erkek Bakım Seti,Yüz/Saç/Vücut Tıraş Makinesi, Cilt Dostu Bıçaklar,MG3946/15",
-    "kategori": "monitor",
-    "rozet": "🔥 SICAK FIRSAT",
-    "eskiFiyat": 1746,
-    "yeniFiyat": 1529,
-    "indirimOrani": 12,
-    "netKazanc": 217,
-    "resim": "https://m.media-amazon.com/images/I/71X76QUeHHL._AC_SL1000_PAD,1000,1000_.jpg",
-    "link": "https://www.amazon.com.tr/dp/B0FDL1XP3J?tag=motodash-21",
-    "zaman": "Az önce",
-    "kaynak": "Amazon Türkiye",
-    "timestamp": 1792877555952
   }
 ]
